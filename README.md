@@ -4,14 +4,14 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 05:27:15*
+*Last updated: 2026-02-14 05:28:23*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,509 | 595 | — |
-| 2 | [nanobot](#nanobot) | 18,485 | 45 | — |
+| 1 | [openclaw](#openclaw) | 192,509 | 597 | — |
+| 2 | [nanobot](#nanobot) | 18,486 | 45 | — |
 | 3 | [moltis](#moltis) | 537 | 5 | — |
 | 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,135 | 132 | ↑1 |
@@ -31,7 +31,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 19 | [pydantic-ai](#pydantic-ai) | 14,869 | 368 | ↑1 |
 | 20 | [E2B](#e2b) | 10,887 | 44 | ↑1 |
 | 21 | [PraisonAI](#praisonai) | 5,592 | 30 | ↑1 |
-| 22 | [ms-agent](#ms-agent) | 3,977 | 47 | ↑1 |
+| 22 | [ms-agent](#ms-agent) | 3,978 | 47 | ↑1 |
 | 23 | [agency-swarm](#agency-swarm) | 3,952 | 23 | ↑1 |
 | 24 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | ↑1 |
 
@@ -39,7 +39,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,509 stars · 32,983 forks · 595 contributors · 5,468 issues · TypeScript · MIT
+192,509 stars · 32,984 forks · 597 contributors · 5,468 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -48,7 +48,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,485 stars · 2,702 forks · 45 contributors · 401 issues · Python · MIT
+18,486 stars · 2,702 forks · 45 contributors · 401 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -228,7 +228,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
 
-3,977 stars · 460 forks · 47 contributors · 7 issues · Python · Apache-2.0
+3,978 stars · 460 forks · 47 contributors · 7 issues · Python · Apache-2.0
 
     - Lightweight architecture with minimal dependencies
     - Agentic execution engine for autonomous workflows
