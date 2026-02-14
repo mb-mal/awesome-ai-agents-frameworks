@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 18:45:33*
+*Last updated: 2026-02-14 18:46:49*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,970 | TypeScript | MIT | — |
+| 1 | [openclaw](#openclaw) | 193,971 | TypeScript | MIT | — |
 | 2 | [AutoGPT](#autogpt) | 181,800 | Python | NOASSERTION | ↑2 |
 | 3 | [opencode](#opencode) | 104,501 | TypeScript | MIT | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,178 | Python | MIT | ↑1 |
@@ -29,13 +29,13 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,880 | Python | MIT | — |
 | 21 | [E2B](#e2b) | 10,894 | MDX | Apache-2.0 | — |
-| 22 | [picoclaw](#picoclaw) | 6,988 | Go | NOASSERTION | — |
+| 22 | [picoclaw](#picoclaw) | 6,991 | Go | NOASSERTION | — |
 | 23 | [PraisonAI](#praisonai) | 5,593 | Python | MIT | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,953 | Python | MIT | ↓1 |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | Apache-2.0 | — |
 | 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | Python | MIT | ↓2 |
-| 28 | [moltis](#moltis) | 645 | Rust | MIT | ↓25 |
+| 28 | [moltis](#moltis) | 646 | Rust | MIT | ↓25 |
 | 29 | [FastCode](#fastcode) | 327 | Python | No License | — |
 | 30 | [ValeDesk](#valedesk) | 272 | TypeScript | NOASSERTION | ↓4 |
 | 31 | [topsha](#topsha) | 94 | Python | MIT | ↓4 |
@@ -46,7 +46,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 193,970 · 🍴 33,376 · 👥 607 · 🛠️ TypeScript
+⭐ 193,971 · 🍴 33,377 · 👥 608 · 🛠️ TypeScript
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -196,10 +196,10 @@ Curated list of top AI agent frameworks for business and R&D.
 
 ⭐ 18,789 · 🍴 2,765 · 👥 46 · 🛠️ Python
 
-- Ultra-lightweight AI agent kernel for high-efficiency deployment
-- Multi-provider LLM support for model agnosticism and flexibility
-- Extensible architecture for custom skills and modular functionality
-- Multi-channel orchestration with integrated cron job automation
+- Ultra-lightweight AI agent kernel architecture
+- Multi-provider LLM support and integration
+- Extensible framework for custom skills and tools
+- Multi-channel communication and scheduled task automation
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Autonomous agents for everyone**
@@ -254,7 +254,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 6,988 · 🍴 674 · 👥 39 · 🛠️ Go
+⭐ 6,991 · 🍴 674 · 👥 39 · 🛠️ Go
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
@@ -312,7 +312,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
 
-⭐ 645 · 🍴 48 · 👥 5 · 🛠️ Rust
+⭐ 646 · 🍴 48 · 👥 5 · 🛠️ Rust
 
 - Rust-based single binary for easy deployment
 - Multi-provider LLM support
