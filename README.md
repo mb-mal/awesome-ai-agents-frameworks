@@ -4,14 +4,14 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 10:09:08*
+*Last updated: 2026-02-14 10:09:25*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | [openclaw](#openclaw) | 193,063 | 598 | — |
-| 2 | [nanobot](#nanobot) | 18,608 | 45 | — |
+| 2 | [nanobot](#nanobot) | 18,609 | 45 | — |
 | 3 | [moltis](#moltis) | 584 | 5 | — |
 | 4 | [opencode](#opencode) | 104,290 | 738 | — |
 | 5 | [MetaGPT](#metagpt) | 64,169 | 148 | — |
@@ -50,7 +50,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,608 stars · 2,729 forks · 45 contributors · 400 issues · Python · MIT
+18,609 stars · 2,729 forks · 45 contributors · 400 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
