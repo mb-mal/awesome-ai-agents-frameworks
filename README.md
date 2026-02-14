@@ -4,14 +4,14 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 10:07:47*
+*Last updated: 2026-02-14 10:09:08*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,060 | 598 | — |
-| 2 | [nanobot](#nanobot) | 18,608 | 46 | — |
+| 1 | [openclaw](#openclaw) | 193,063 | 598 | — |
+| 2 | [nanobot](#nanobot) | 18,608 | 45 | — |
 | 3 | [moltis](#moltis) | 584 | 5 | — |
 | 4 | [opencode](#opencode) | 104,290 | 738 | — |
 | 5 | [MetaGPT](#metagpt) | 64,169 | 148 | — |
@@ -41,7 +41,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-193,060 stars · 33,141 forks · 598 contributors · 5,558 issues · TypeScript · MIT
+193,063 stars · 33,141 forks · 598 contributors · 5,558 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -50,7 +50,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,608 stars · 2,728 forks · 46 contributors · 400 issues · Python · MIT
+18,608 stars · 2,729 forks · 45 contributors · 400 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -77,7 +77,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-64,169 stars · 8,060 forks · 148 contributors · 78 issues · Python · MIT
+64,169 stars · 8,060 forks · 148 contributors · 79 issues · Python · MIT
 
     - Multi-Agent Collaboration: Specialized AI agents (e.g., Product Manager, Architect, Engineer, QA) work together like a software company.
     - Natural Language to Code: Converts high-level user requirements into executable codebases and documentation.
