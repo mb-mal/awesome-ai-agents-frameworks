@@ -4,13 +4,13 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 18:54:53*
+*Last updated: 2026-02-14 18:55:59*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,980 | TypeScript | MIT | — |
+| 1 | [openclaw](#openclaw) | 193,981 | TypeScript | MIT | — |
 | 2 | [AutoGPT](#autogpt) | 181,800 | Python | NOASSERTION | ↑2 |
-| 3 | [opencode](#opencode) | 104,507 | TypeScript | MIT | ↑1 |
+| 3 | [opencode](#opencode) | 104,508 | TypeScript | MIT | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,178 | Python | MIT | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,143 | Python | AGPL-3.0 | ↑1 |
 | 6 | [autogen](#autogen) | 54,543 | Python | CC-BY-4.0 | ↑1 |
@@ -29,7 +29,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,880 | Python | MIT | — |
 | 21 | [E2B](#e2b) | 10,894 | MDX | Apache-2.0 | — |
-| 22 | [picoclaw](#picoclaw) | 6,995 | Go | NOASSERTION | — |
+| 22 | [picoclaw](#picoclaw) | 6,997 | Go | NOASSERTION | — |
 | 23 | [PraisonAI](#praisonai) | 5,593 | Python | MIT | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,953 | Python | MIT | ↓1 |
@@ -46,7 +46,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 193,980 · 🍴 33,380 · 👥 607 · 🛠️ TypeScript
+⭐ 193,981 · 🍴 33,380 · 👥 608 · 🛠️ TypeScript
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -66,7 +66,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **The open source coding agent.**
 
-⭐ 104,507 · 🍴 10,153 · 👥 738 · 🛠️ TypeScript
+⭐ 104,508 · 🍴 10,153 · 👥 738 · 🛠️ TypeScript
 
 - Open-source codebase under permissive license
 - Autonomous agent architecture for code generation and execution
@@ -254,7 +254,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 6,995 · 🍴 675 · 👥 39 · 🛠️ Go
+⭐ 6,997 · 🍴 676 · 👥 39 · 🛠️ Go
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
