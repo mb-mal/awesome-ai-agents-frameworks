@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 20:57:37*
+*Last updated: 2026-02-14 20:58:48*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 194,139 | TypeScript | MIT | — |
+| 1 | [openclaw](#openclaw) | 194,141 | TypeScript | MIT | — |
 | 2 | [AutoGPT](#autogpt) | 181,802 | Python | NOASSERTION | ↑2 |
 | 3 | [opencode](#opencode) | 104,546 | TypeScript | MIT | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,179 | Python | MIT | ↑1 |
@@ -29,14 +29,14 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,880 | Python | MIT | — |
 | 21 | [E2B](#e2b) | 10,894 | MDX | Apache-2.0 | — |
-| 22 | [picoclaw](#picoclaw) | 7,215 | Go | NOASSERTION | — |
+| 22 | [picoclaw](#picoclaw) | 7,218 | Go | NOASSERTION | — |
 | 23 | [PraisonAI](#praisonai) | 5,593 | Python | MIT | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,955 | Python | MIT | ↓1 |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | Apache-2.0 | — |
 | 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,761 | Python | MIT | ↓2 |
 | 28 | [moltis](#moltis) | 655 | Rust | MIT | ↓25 |
-| 29 | [FastCode](#fastcode) | 356 | Python | No License | — |
+| 29 | [FastCode](#fastcode) | 357 | Python | No License | — |
 | 30 | [ValeDesk](#valedesk) | 272 | TypeScript | NOASSERTION | ↓4 |
 | 31 | [agent-second-brain](#agent-second-brain) | 115 | Python | No License | — |
 | 32 | [topsha](#topsha) | 94 | Python | MIT | ↓5 |
@@ -47,7 +47,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 194,139 · 🍴 33,429 · 👥 610 · 🛠️ TypeScript
+⭐ 194,141 · 🍴 33,431 · 👥 610 · 🛠️ TypeScript
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -167,7 +167,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="haystack"></a>[haystack](https://github.com/deepset-ai/haystack)
 **Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.**
 
-⭐ 24,188 · 🍴 2,599 · 👥 323 · 🛠️ MDX
+⭐ 24,188 · 🍴 2,600 · 👥 323 · 🛠️ MDX
 
 - Modular pipelines and agent workflows
 - Explicit control over retrieval, routing, memory, and generation
@@ -255,7 +255,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 7,215 · 🍴 697 · 👥 39 · 🛠️ Go
+⭐ 7,218 · 🍴 697 · 👥 39 · 🛠️ Go
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
@@ -323,7 +323,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode)
 **FastCode: Accelerating and Streamlining Your Code Understanding**
 
-⭐ 356 · 🍴 39 · 👥 3 · 🛠️ Python
+⭐ 357 · 🍴 39 · 👥 3 · 🛠️ Python
 
 - Lightning-fast code parsing with optimized tokenization
 - Context-aware semantic analysis for deep code comprehension
