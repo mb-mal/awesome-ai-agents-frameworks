@@ -4,7 +4,7 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 18:36:26*
+*Last updated: 2026-02-14 18:36:44*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,880 | Python | MIT | — |
 | 21 | [E2B](#e2b) | 10,894 | MDX | Apache-2.0 | — |
-| 22 | [picoclaw](#picoclaw) | 6,973 | Go | NOASSERTION | — |
+| 22 | [picoclaw](#picoclaw) | 6,974 | Go | NOASSERTION | — |
 | 23 | [PraisonAI](#praisonai) | 5,593 | Python | MIT | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,953 | Python | MIT | ↓1 |
@@ -196,10 +196,10 @@ Curated list of top AI agent frameworks for business and R&D.
 
 ⭐ 18,788 · 🍴 2,765 · 👥 46 · 🛠️ Python
 
-- Ultra-lightweight and minimalist AI agent kernel architecture
-- Agnostic integration with multiple LLM providers
-- Extensible framework for custom skills and modular functionality
-- Native support for cron-based automation and multi-channel communication
+- Ultra-lightweight kernel architecture for high-performance AI agent deployment
+- Agnostic support for multiple LLM providers to ensure vendor flexibility
+- Extensible framework for developing custom skills and specialized toolsets
+- Multi-channel integration with built-in cron job automation for scheduled tasks
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Autonomous agents for everyone**
@@ -254,12 +254,12 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 6,973 · 🍴 671 · 👥 39 · 🛠️ Go
+⭐ 6,974 · 🍴 671 · 👥 39 · 🛠️ Go
 
-- Seamless integration with Raspberry Pi Pico (RP2040) for low-latency embedded control.
-- Compact, lightweight mechanical design optimized for small-scale robotic applications.
-- Precision servo-driven actuation for reliable and repeatable object manipulation.
-- Support for MicroPython and C++ environments to facilitate rapid prototyping and deployment.
+- RP2040-based control architecture for high-performance embedded processing
+- Lightweight 3D-printable mechanical design optimized for rapid deployment
+- Precision servo-actuated gripping mechanism for versatile object handling
+- Cross-platform firmware compatibility supporting MicroPython and C++ environments
 
 ### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI)
 **PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.**
