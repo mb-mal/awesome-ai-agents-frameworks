@@ -4,7 +4,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 12:34:58*
+*Last updated: 2026-02-14 12:35:23*
 
 ## Comparison Table
 
