@@ -4,32 +4,32 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 04:44:33*
+*Last updated: 2026-02-14 05:19:09*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,440 | 595 | — |
-| 2 | [nanobot](#nanobot) | 18,470 | 45 | — |
-| 3 | [moltis](#moltis) | 528 | 5 | — |
+| 1 | [openclaw](#openclaw) | 192,495 | 597 | — |
+| 2 | [nanobot](#nanobot) | 18,483 | 45 | — |
+| 3 | [moltis](#moltis) | 534 | 5 | — |
 | 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,135 | 132 | ↑1 |
 | 6 | [autogen](#autogen) | 54,535 | 532 | ↑1 |
 | 7 | [crewAI](#crewai) | 44,089 | 279 | ↑1 |
 | 8 | [agno](#agno) | 37,839 | 390 | ↑1 |
 | 9 | [AgentGPT](#agentgpt) | 35,700 | 72 | ↑1 |
-| 10 | [smolagents](#smolagents) | 25,409 | 197 | ↑1 |
-| 11 | [gpt-researcher](#gpt-researcher) | 25,303 | 216 | ↑1 |
+| 10 | [smolagents](#smolagents) | 25,411 | 197 | ↑1 |
+| 11 | [gpt-researcher](#gpt-researcher) | 25,304 | 216 | ↑1 |
 | 12 | [langgraph](#langgraph) | 24,698 | 272 | ↑1 |
-| 13 | [haystack](#haystack) | 24,184 | 323 | ↑1 |
+| 13 | [haystack](#haystack) | 24,185 | 323 | ↑1 |
 | 14 | [babyagi](#babyagi) | 22,133 | 2 | ↑1 |
 | 15 | [swarm](#swarm) | 20,950 | 14 | ↑1 |
 | 16 | [eliza](#eliza) | 17,506 | 651 | ↑1 |
 | 17 | [SuperAGI](#superagi) | 17,171 | 74 | ↑1 |
 | 18 | [camel](#camel) | 16,015 | 192 | ↑1 |
-| 19 | [pydantic-ai](#pydantic-ai) | 14,867 | 368 | ↑1 |
-| 20 | [E2B](#e2b) | 10,886 | 44 | ↑1 |
+| 19 | [pydantic-ai](#pydantic-ai) | 14,869 | 368 | ↑1 |
+| 20 | [E2B](#e2b) | 10,887 | 44 | ↑1 |
 | 21 | [PraisonAI](#praisonai) | 5,592 | 30 | ↑1 |
 | 22 | [ms-agent](#ms-agent) | 3,977 | 47 | ↑1 |
 | 23 | [agency-swarm](#agency-swarm) | 3,952 | 23 | ↑1 |
@@ -39,7 +39,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,440 stars · 32,958 forks · 595 contributors · 5,446 issues · TypeScript · MIT
+192,495 stars · 32,972 forks · 597 contributors · 5,464 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -48,7 +48,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,470 stars · 2,699 forks · 45 contributors · 401 issues · Python · MIT
+18,483 stars · 2,702 forks · 45 contributors · 401 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -57,7 +57,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-528 stars · 39 forks · 5 contributors · 33 issues · Rust · MIT
+534 stars · 40 forks · 5 contributors · 33 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
@@ -84,7 +84,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="autogen"></a>[autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 
-54,535 stars · 8,215 forks · 532 contributors · 586 issues · Python · CC-BY-4.0
+54,535 stars · 8,216 forks · 532 contributors · 586 issues · Python · CC-BY-4.0
 
     - Multi-agent conversation orchestration
     - Customizable LLM-powered agents
@@ -120,7 +120,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="smolagents"></a>[smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 
-25,409 stars · 2,289 forks · 197 contributors · 369 issues · Python · Apache-2.0
+25,411 stars · 2,289 forks · 197 contributors · 369 issues · Python · Apache-2.0
 
     - Barebones, lightweight design with minimal dependencies
     - Agents reason and act by generating and executing Python code
@@ -129,7 +129,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="gpt-researcher"></a>[gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 
-25,303 stars · 3,359 forks · 216 contributors · 180 issues · Python · Apache-2.0
+25,304 stars · 3,359 forks · 216 contributors · 180 issues · Python · Apache-2.0
 
     - Autonomous agent architecture enabling independent research execution
     - Deep research capabilities through iterative data gathering and synthesis
@@ -138,7 +138,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="langgraph"></a>[langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 
-24,698 stars · 4,300 forks · 272 contributors · 289 issues · Python · MIT
+24,698 stars · 4,301 forks · 272 contributors · 289 issues · Python · MIT
 
     - Graph-based architecture for building agents
     - Resilient execution with error handling and retries
@@ -147,7 +147,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="haystack"></a>[haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.
 
-24,184 stars · 2,598 forks · 323 contributors · 112 issues · MDX · Apache-2.0
+24,185 stars · 2,598 forks · 323 contributors · 112 issues · MDX · Apache-2.0
 
     - Modular pipelines and agent workflows
     - Explicit control over retrieval, routing, memory, and generation
@@ -201,7 +201,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 
-14,867 stars · 1,640 forks · 368 contributors · 535 issues · Python · MIT
+14,869 stars · 1,640 forks · 368 contributors · 535 issues · Python · MIT
 
     - Pydantic-based type-safe agent definitions and configurations
     - Automatic validation of LLM inputs, outputs, and tool calls
@@ -210,7 +210,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
-10,886 stars · 769 forks · 44 contributors · 58 issues · MDX · Apache-2.0
+10,887 stars · 769 forks · 44 contributors · 58 issues · MDX · Apache-2.0
 
     - Open-source codebase
     - Secure sandboxed environments
