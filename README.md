@@ -4,13 +4,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 05:29:46*
+*Last updated: 2026-02-14 05:30:35*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,511 | 595 | — |
+| 1 | [openclaw](#openclaw) | 192,513 | 595 | — |
 | 2 | [nanobot](#nanobot) | 18,486 | 45 | — |
 | 3 | [moltis](#moltis) | 537 | 5 | — |
 | 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
@@ -39,7 +39,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,511 stars · 32,984 forks · 595 contributors · 5,470 issues · TypeScript · MIT
+192,513 stars · 32,985 forks · 595 contributors · 5,471 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
