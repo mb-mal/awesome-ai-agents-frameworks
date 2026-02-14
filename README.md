@@ -4,7 +4,7 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 18:44:41*
+*Last updated: 2026-02-14 18:44:59*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
