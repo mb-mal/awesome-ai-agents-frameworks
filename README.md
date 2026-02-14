@@ -4,13 +4,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 12:29:15*
+*Last updated: 2026-02-14 12:29:32*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,279 | 600 | — |
+| 1 | [openclaw](#openclaw) | 193,280 | 600 | — |
 | 2 | [AutoGPT](#autogpt) | 181,793 | 802 | ↑2 |
 | 3 | [opencode](#opencode) | 104,336 | 738 | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,170 | 148 | ↑1 |
@@ -25,7 +25,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 13 | [haystack](#haystack) | 24,185 | 323 | ↑1 |
 | 14 | [babyagi](#babyagi) | 22,133 | 2 | ↑1 |
 | 15 | [swarm](#swarm) | 20,950 | 14 | ↑1 |
-| 16 | [nanobot](#nanobot) | 18,645 | 46 | ↓14 |
+| 16 | [nanobot](#nanobot) | 18,646 | 46 | ↓14 |
 | 17 | [eliza](#eliza) | 17,506 | 651 | — |
 | 18 | [SuperAGI](#superagi) | 17,170 | 74 | — |
 | 19 | [camel](#camel) | 16,016 | 192 | — |
@@ -46,7 +46,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-193,279 stars · 33,194 forks · 600 contributors · 5,578 issues · TypeScript · MIT
+193,280 stars · 33,193 forks · 600 contributors · 5,578 issues · TypeScript · MIT
 
     - Cross-operating system compatibility (Any OS)
     - Universal platform support (Any Platform)
@@ -181,7 +181,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) — Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,645 stars · 2,735 forks · 46 contributors · 399 issues · Python · MIT
+18,646 stars · 2,735 forks · 46 contributors · 399 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
