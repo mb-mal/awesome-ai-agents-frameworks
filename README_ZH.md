@@ -4,13 +4,13 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*更新于: 2026-02-14 18:31:38*
+*更新于: 2026-02-14 18:33:55*
 
 | 排名 | 框架 | 星标 | 语言 | 许可证 | 变化 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,952 | TypeScript | MIT | — |
+| 1 | [openclaw](#openclaw) | 193,954 | TypeScript | MIT | — |
 | 2 | [AutoGPT](#autogpt) | 181,799 | Python | NOASSERTION | ↑2 |
-| 3 | [opencode](#opencode) | 104,498 | TypeScript | MIT | ↑1 |
+| 3 | [opencode](#opencode) | 104,499 | TypeScript | MIT | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,178 | Python | MIT | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,143 | Python | AGPL-3.0 | ↑1 |
 | 6 | [autogen](#autogen) | 54,542 | Python | CC-BY-4.0 | ↑1 |
@@ -45,7 +45,7 @@
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 **
 
-⭐ 193,952 · 🍴 33,368 · 👥 607 · 🛠️ TypeScript
+⭐ 193,954 · 🍴 33,369 · 👥 607 · 🛠️ TypeScript
 
 
 ### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
@@ -57,7 +57,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **The open source coding agent.**
 
-⭐ 104,498 · 🍴 10,153 · 👥 738 · 🛠️ TypeScript
+⭐ 104,499 · 🍴 10,153 · 👥 738 · 🛠️ TypeScript
 
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT)
@@ -123,10 +123,10 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 ⭐ 22,134 · 🍴 2,849 · 👥 2 · 🛠️ Python
 
-- 基于任务创建、优先级排序和执行的自主循环机制
-- 集成大语言模型（LLM）与向量数据库实现长期记忆存储
-- 以目标为导向的自我驱动型智能体（Autonomous Agent）架构
-- 支持高度定制化与模块化扩展的开源技术框架
+- 基于大语言模型的任务自动创建、优先级排序与执行闭环机制
+- 集成向量数据库（如Pinecone）实现长期记忆存储与上下文检索
+- 目标导向的自主智能体架构，支持无需人工干预的持续运行
+- 递归式任务生成机制，能够根据前序任务执行结果动态调整后续计划
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.**
@@ -163,30 +163,18 @@
 
 ⭐ 14,880 · 🍴 1,640 · 👥 368 · 🛠️ Python
 
-- 基于Pydantic的类型安全验证，确保AI代理输入输出严格符合 schema
-- 结构化LLM输出解析，自动将生成式AI响应转换为Pydantic模型
-- 类型化代理工具定义，支持无缝集成LLM工具调用功能
-- 模块化代理编排框架，提供状态管理和可观测性工作流
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
 **Open-source, secure environment with real-world tools for enterprise-grade agents.**
 
 ⭐ 10,894 · 🍴 769 · 👥 44 · 🛠️ MDX
 
-- 开源框架
-- 安全运行环境
-- 集成真实世界工具
-- 支持企业级AI代理
 
 ### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI)
 **PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.**
 
 ⭐ 5,593 · 🍴 763 · 👥 30 · 🛠️ Python
 
-- 生产就绪的多AI代理框架
-- 低代码构建和管理多代理LLM系统
-- 支持从简单到复杂任务的自动化解决
-- 强调简单性、自定义性和高效人机协作
 
 ### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent)
 **MS-Agent: a lightweight framework to empower agentic execution of complex tasks**
@@ -221,10 +209,10 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,760 · 🍴 456 · 👥 51 · 🛠️ Python
 
-- 原生支持异步 I/O (asyncio)，显著提升高并发应用场景下的处理性能。
-- 基于 Pydantic 的强类型定义，提供完善的 IDE 代码补全与静态类型检查。
-- 支持流式响应 (Streaming) 接口，能够实现低延迟的实时文本生成交互体验。
-- 内置自动重试机制与健壮的错误处理逻辑，确保企业级集成环境的稳定性。
+- 全面支持 Claude 3 系列模型及 Messages API 核心功能
+- 提供高性能的异步 (Async) 与同步客户端支持
+- 基于 Pydantic 的强类型校验与完善的 IDE 自动补全
+- 内置流式响应 (Streaming) 处理与自动重试机制
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
