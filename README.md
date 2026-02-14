@@ -4,13 +4,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 04:42:25*
+*Last updated: 2026-02-14 04:43:30*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,438 | 595 | — |
+| 1 | [openclaw](#openclaw) | 192,439 | 595 | — |
 | 2 | [nanobot](#nanobot) | 18,469 | 45 | — |
 | 3 | [moltis](#moltis) | 528 | 5 | — |
 | 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
@@ -39,7 +39,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,438 stars · 32,956 forks · 595 contributors · 5,445 issues · TypeScript · MIT
+192,439 stars · 32,956 forks · 595 contributors · 5,446 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -50,10 +50,10 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 18,469 stars · 2,699 forks · 45 contributors · 401 issues · Python · MIT
 
-    - Ultra-lightweight AI agent kernel for high efficiency
+    - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
-    - Custom skills and cron job scheduling
-    - Multi-channel communication (e.g., Telegram, Slack)
+    - Custom skills extensibility
+    - Cron jobs and multi-channel communication (Telegram, Slack, etc.)
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
