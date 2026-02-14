@@ -4,7 +4,7 @@
 
 [English](README.md) | [Русский](README_RU.md) | **中文**
 
-*最后更新时间: 2026-02-14 18:46:03*
+*最后更新时间: 2026-02-14 18:48:13*
 
 ## 对比表
 
@@ -13,7 +13,7 @@
 | 1 | [openclaw](#openclaw) | 193,946 | 607 | — |
 | 2 | [AutoGPT](#autogpt) | 181,798 | 802 | ↑2 |
 | 3 | [opencode](#opencode) | 104,496 | 738 | ↑1 |
-| 4 | [MetaGPT](#metagpt) | 64,177 | 148 | ↑1 |
+| 4 | [MetaGPT](#metagpt) | 64,178 | 148 | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,143 | 132 | ↑1 |
 | 6 | [autogen](#autogen) | 54,542 | 532 | ↑1 |
 | 7 | [crewAI](#crewai) | 44,116 | 279 | ↑1 |
@@ -46,7 +46,7 @@
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-193,946 星标 · 33,366 分叉 · 607 贡献者 · 5,669 问题 · TypeScript · MIT
+193,946 星标 · 33,366 分叉 · 607 贡献者 · 5,670 问题 · TypeScript · MIT
 
 
 ### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -61,7 +61,7 @@
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT) — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-64,177 星标 · 8,063 分叉 · 148 贡献者 · 80 问题 · Python · MIT
+64,178 星标 · 8,063 分叉 · 148 贡献者 · 80 问题 · Python · MIT
 
 
 ### <a name="open-interpreter"></a>[open-interpreter](https://github.com/openinterpreter/open-interpreter) — A natural language interface for computers
