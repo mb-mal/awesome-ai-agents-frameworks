@@ -4,7 +4,7 @@
 
 [English](README.md) | [Русский](README_RU.md) | **中文**
 
-*最后更新时间: 2026-02-14 12:32:54*
+*最后更新时间: 2026-02-14 12:33:06*
 
 ## 对比表
 
@@ -47,116 +47,116 @@
 
 193,267 星标 · 33,192 分叉 · 599 贡献者 · 5,576 问题 · TypeScript · MIT
 
-    - 跨操作系统兼容：支持任意OS无缝运行
-    - 多平台适配：适用于所有硬件平台
-    - 个性化AI助手：专属用户定制体验
-    - 轻量级架构：蟹钳式高效抓取与响应（🦞）
+    - 跨操作系统支持
+    - 全平台兼容性
+    - 个性化AI助手功能
+    - 小龙虾式高效架构
 
 ### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
 181,793 星标 · 46,223 分叉 · 802 贡献者 · 325 问题 · Python · NOASSERTION
 
-    - 人人可访问的AI框架
-    - 开源可构建基础
-    - 高效工具集成
-    - 专注核心任务简化
+    - 开源框架，便于扩展和构建
+    - 自主任务分解与迭代执行
+    - 集成工具与互联网访问
+    - 长期记忆与上下文管理
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 
 104,336 星标 · 10,125 分叉 · 738 贡献者 · 5,144 问题 · TypeScript · MIT
 
-    - 完全开源架构，支持社区贡献和自定义修改
-    - 智能编码代理，支持自主任务规划与执行
-    - 多语言编程支持，包括Python、JavaScript等主流语言
-    - AI驱动的代码生成、调试与优化功能
+    - 完全开源架构
+    - 智能编码代理机制
+    - 多语言编程支持
+    - 自动化代码生成与调试
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 
 64,170 星标 · 8,060 分叉 · 148 贡献者 · 79 问题 · Python · MIT
 
-    - 多智能体协作框架
-    - 模拟AI软件公司运作
-    - 自然语言编程支持
-    - 角色分工自动化开发
+    - 多代理协作框架：模拟软件公司角色分工（如产品经理、架构师、工程师）
+    - 自然语言编程：用户输入需求即可生成完整软件
+    - 标准化开发流程（SOP）：遵循真实软件工程标准操作程序
+    - 一站式输出交付物：自动生成PRD、架构设计、代码、测试报告等
 
 ### <a name="open-interpreter"></a>[open-interpreter](https://github.com/openinterpreter/open-interpreter)
 
 62,142 星标 · 5,344 分叉 · 132 贡献者 · 295 问题 · Python · AGPL-3.0
 
-    - 自然语言指令解析
-    - 本地代码执行引擎
-    - 计算机环境交互接口
-    - 开源模块化架构
+    - 使用大语言模型将自然语言指令转换为可执行代码
+    - 支持本地计算机环境下的代码运行
+    - 集成计算机视觉功能，实现屏幕内容理解与操作
+    - 开源框架，支持多种LLM集成与自定义扩展
 
 ### <a name="autogen"></a>[autogen](https://github.com/microsoft/autogen)
 
 54,539 星标 · 8,216 分叉 · 532 贡献者 · 586 问题 · Python · CC-BY-4.0
 
-    - 多代理协作框架
-    - 支持代理间对话与交互
-    - 工具与函数调用集成
-    - 可扩展的代理自定义机制
+    - 多代理协作对话框架
+    - 集成多种大型语言模型
+    - 支持代理工具与函数调用
+    - 灵活的自定义代理行为
 
 ### <a name="crewai"></a>[crewAI](https://github.com/crewAIInc/crewAI)
 
 44,102 星标 · 5,905 分叉 · 279 贡献者 · 278 问题 · Python · MIT
 
-    - 角色扮演自主AI代理编排
-    - 促进协作智能
-    - 代理无缝协作
-    - 处理复杂任务
+    - 角色扮演自主AI代理的编排框架
+    - 协作智能机制，促进代理间协同
+    - 无缝代理协作执行
+    - 高效处理复杂任务
 
 ### <a name="agno"></a>[agno](https://github.com/agno-agi/agno)
 
 37,839 星标 · 5,006 分叉 · 390 贡献者 · 566 问题 · Python · Apache-2.0
 
     - 多代理系统构建支持
-    - 交互式持续学习机制
-    - 实时反馈与自适应改进
-    - 代理行为动态进化
+    - 交互式在线学习机制
+    - 持续经验积累与优化
+    - 自适应性能实时提升
 
 ### <a name="agentgpt"></a>[AgentGPT](https://github.com/reworkd/AgentGPT)
 
 35,700 星标 · 9,453 分叉 · 72 贡献者 · 220 问题 · TypeScript · GPL-3.0
 
-    - 浏览器内AI代理组装
-    - 自主AI代理配置
-    - 一键部署功能
-    - 无需安装的浏览器运行
+    - 浏览器内组装AI代理
+    - AI代理自定义配置
+    - 自主AI代理部署
+    - 浏览器原生运行无安装
 
 ### <a name="smolagents"></a>[smolagents](https://github.com/huggingface/smolagents)
 
 25,417 星标 · 2,289 分叉 · 197 贡献者 · 369 问题 · Python · Apache-2.0
 
-    - 轻量级极简设计，无多余依赖
-    - 代理通过代码生成与执行实现思维
-    - 简洁API，便于快速构建AI代理
-    - 代码即思维的核心推理范式
+    - 轻量级裸机设计：最小依赖，易部署
+    - 代码驱动思考：代理生成并执行Python代码解决问题
+    - 简洁API接口：快速构建智能代理
+    - 集成代码解释器：安全支持动态代码执行
 
 ### <a name="gpt-researcher"></a>[gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
 25,308 星标 · 3,359 分叉 · 216 贡献者 · 180 问题 · Python · Apache-2.0
 
-    - 自主代理架构，支持独立运行
-    - 深度研究能力，自动规划与执行
-    - 兼容任意数据源，灵活处理多种格式
-    - 多LLM提供商集成，无缝切换模型
+    - 自主代理架构，支持独立执行研究任务
+    - 深度研究引擎，能够处理复杂查询和多轮推理
+    - 任意数据兼容，支持多种数据源和格式
+    - 多LLM提供商集成，可无缝切换任意大型语言模型
 
 ### <a name="langgraph"></a>[langgraph](https://github.com/langchain-ai/langgraph)
 
 24,701 星标 · 4,301 分叉 · 272 贡献者 · 290 问题 · Python · MIT
 
-    - 图结构建模：将语言代理构建为有向图，支持节点和边定义
-    - 循环支持：允许图中存在循环，实现长期 resilient 代理执行
-    - 状态管理：内置持久化状态机制，支持检查点和恢复
-    - 人类干预：提供 human-in-the-loop 接口，提升代理鲁棒性
+    - 图结构化代理构建：将语言代理表示为节点和边的图模型。
+    - 弹性错误处理：支持重试、循环和异常恢复机制。
+    - 状态持久化管理：跨步骤维护可靠的代理状态。
+    - 灵活控制流：实现条件分支、人机交互和多代理协作。
 
 ### <a name="haystack"></a>[haystack](https://github.com/deepset-ai/haystack)
 
 24,185 星标 · 2,598 分叉 · 323 贡献者 · 114 问题 · MDX · Apache-2.0
 
     - 模块化管道和代理工作流设计
-    - 对检索、路由、内存和生成的精确控制
+    - 对检索、路由、内存和生成的明确控制
     - 支持可扩展代理、RAG和多模态应用
     - 适用于语义搜索和对话系统
 
@@ -164,18 +164,18 @@
 
 22,133 星标 · 2,849 分叉 · 2 贡献者 · 17 问题 · Python · No License
 
-    - 任务创建模块：利用大型语言模型（如GPT）基于现有任务和结果自动生成新任务。
-    - 任务优先级排序：通过嵌入向量和向量数据库（如Pinecone）计算任务相似度，实现智能优先级排序。
-    - 任务执行引擎：调用LLM执行高优先级任务，并将结果存入知识库以供后续参考。
-    - 自主循环机制：形成闭环流程，包括创建、排序、执行和存储，支持代理持续自主运行。
+    - 自主任务生成
+    - 基于嵌入的任务优先级排序
+    - LLM驱动的任务执行
+    - 向量数据库持久化存储
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 
 20,950 星标 · 2,228 分叉 · 14 贡献者 · 16 问题 · Python · MIT
 
-    - 轻量级多代理编排
-    - 人体工程学设计
-    - 教育性框架
+    - 轻量级多代理编排架构
+    - 人体工程学优化设计
+    - 教育性框架探索
     - OpenAI解决方案团队维护
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
@@ -184,44 +184,44 @@
 
     - 超轻量级 AI 代理内核
     - 支持多个提供商
-    - 自定义技能支持
-    - Cron 任务与多渠道通信（Telegram、Slack 等）
+    - 自定义技能
+    - Cron 作业和多渠道通信（Telegram、Slack 等）
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 
 17,506 星标 · 5,413 分叉 · 651 贡献者 · 140 问题 · TypeScript · MIT
 
-    - 无代码自主代理构建
-    - 实时自适应决策引擎
-    - 多代理协作框架
-    - 易部署开源工具链
+    - 自主代理架构，支持复杂任务规划
+    - 无代码开发界面，零门槛创建智能代理
+    - 内置工具集成与动态调用机制
+    - 多代理协作系统，实现分布式自主执行
 
 ### <a name="superagi"></a>[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
 
 17,170 星标 · 2,158 分叉 · 74 贡献者 · 211 问题 · Python · MIT
 
+    - 开源架构
     - 开发者优先设计
-    - 开源自主AI代理框架
-    - 快速构建、管理与运行代理
-    - 可靠高效的代理执行
+    - 自主AI代理构建工具
+    - 快速可靠的管理运行
 
 ### <a name="camel"></a>[camel](https://github.com/camel-ai/camel)
 
 16,016 星标 · 1,772 分叉 · 192 贡献者 · 444 问题 · Python · Apache-2.0
 
-    - 多代理协作架构
-    - 代理间高效通信协议
-    - 支持代理缩放定律探索
-    - 兼容多种大型语言模型
+    - 多代理协作框架，支持智能体间高效通信与任务分工
+    - 首个探索代理扩展定律（Scaling Law of Agents）的框架
+    - 角色扮演机制，实现不同代理的个性化行为模拟
+    - 兼容多种大型语言模型（LLM）后端，易于扩展与部署
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 14,876 星标 · 1,640 分叉 · 368 贡献者 · 536 问题 · Python · MIT
 
-    - 基于 Pydantic 的类型安全模型定义
-    - 生成式 AI 代理构建框架
-    - 自动 schema 验证与结构化输出
-    - 无缝集成 LLM 与工具调用
+    - 基于 Pydantic 的严格数据验证与类型安全
+    - 无缝集成大型语言模型，支持结构化输出
+    - 模块化 Agent 构建，便于多代理协作
+    - 简洁的 Pythonic API，加速 GenAI 应用开发
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
 
@@ -236,73 +236,73 @@
 
 5,593 星标 · 763 分叉 · 30 贡献者 · 58 问题 · Python · MIT
 
-    - 多AI代理框架，支持生产环境部署
-    - 低代码解决方案，简化多代理LLM系统构建与管理
-    - 自动化解决从简单到复杂问题的AI代理创建
-    - 强调简单性、自定义性和高效人机协作
+    - 生产就绪的多代理AI框架
+    - 低代码构建和管理多代理LLM系统
+    - 支持简单到复杂任务的自动化解决问题
+    - 强调简单性、自定义性和人类-代理协作
 
 ### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent)
 
 3,978 星标 · 460 分叉 · 47 贡献者 · 7 问题 · Python · Apache-2.0
 
-    - 轻量级架构设计
-    - 代理式任务执行引擎
+    - 轻量级架构设计，低资源占用
+    - 支持代理式自主执行
     - 复杂任务分解与规划
-    - 模块化工具集成支持
+    - 模块化工具集成与扩展
 
 ### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm)
 
 3,952 星标 · 998 分叉 · 23 贡献者 · 14 问题 · Python · MIT
 
-    - 多代理协作支持
-    - 可靠任务编排机制
-    - 自动故障恢复
-    - 动态资源调度
+    - 可靠的多代理编排机制
+    - 内置容错与自动恢复
+    - 异步任务调度与负载均衡
+    - 动态代理扩展与状态管理
 
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 
 2,760 星标 · 456 分叉 · 51 贡献者 · 103 问题 · Python · MIT
 
     - 支持同步和异步API调用
-    - 流式响应传输功能
-    - 完整的类型提示和IDE支持
-    - 内置错误重试与认证管理
+    - 流式响应处理功能
+    - 内置工具调用和函数调用支持
+    - 类型安全提示与全面错误处理
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 
 601 星标 · 44 分叉 · 5 贡献者 · 34 问题 · Rust · MIT
 
-    - Rust 语言开发，单二进制部署
-    - 支持多提供商大型语言模型 (LLMs)
+    - Rust 语言构建的单二进制部署
+    - 支持多提供商 LLM
     - 长期记忆机制
-    - 沙箱化执行环境
+    - 沙箱化执行
 
 ### <a name="valedesk"></a>[ValeDesk](https://github.com/vakovalskii/ValeDesk)
 
 272 星标 · 44 分叉 · 12 贡献者 · 21 问题 · TypeScript · NOASSERTION
 
-    - 多功能任务处理架构，支持多种模态输入与输出
-    - 准本地化部署机制，实现低延迟边缘计算
-    - 渐进式推理引擎，确保最终合理响应一致性
-    - 高效桌面级助手框架，轻量级资源占用
+    - 多模态通用支持：无缝集成文本、图像和语音处理能力
+    - 准本地部署模式：优先本地计算，仅在必要时调用云端资源
+    - 渐进式推理优化：逐步收敛至可靠、合理的输出结果
+    - 轻量级桌面助手架构：低资源占用，适用于个人设备快速部署
 
 ### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode)
 
 218 星标 · 29 分叉 · 3 贡献者 · 0 问题 · Python · No License
 
-    - 高速代码解析引擎，支持毫秒级多语言解析
-    - 智能语义嵌入模型，加速代码相似性匹配
-    - 实时代码理解流，支持增量分析与更新
-    - 高效检索与可视化工具，简化代码导航
+    - 超快速代码解析引擎
+    - 智能代码结构可视化
+    - 高效语义理解加速
+    - 流畅代码导航与搜索
 
 ### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha)
 
 93 星标 · 20 分叉 · 6 贡献者 · 4 问题 · Python · MIT
 
-    - 本地部署运行：完全在用户PC上本地执行，无需互联网或云服务依赖。
-    - 支持主流开源LLM：兼容GPT-OSS、Qwen、GLM等本地大语言模型。
-    - 简单PC任务代理：专注于自动化执行日常桌面操作，如文件管理、浏览器控制等。
-    - Linux优化设计：🐧原生支持，资源占用低，适配轻量级硬件环境。
+    - 完全本地运行，支持离线使用，无需云端依赖
+    - 兼容多种开源本地LLM，包括GPT-OSS、Qwen、GLM
+    - 专为简单PC任务设计的AI代理，实现自动化操作
+    - Linux系统优化（🐧），高效适配本地环境
 
 ### <a name="skillos"></a>[SkillOS](https://github.com/AlexeyPevz/SkillOS)
 
@@ -310,8 +310,8 @@
 
     - 自托管部署
     - AI代理编排
-    - 技能管理系统
-    - 政策、审批、预算控制与可观测性
+    - 技能与政策管理
+    - 审批、预算与可观测性
 
 ---
 ### @tsingular
