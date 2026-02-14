@@ -4,14 +4,14 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 10:15:34*
+*Last updated: 2026-02-14 10:16:46*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,075 | 598 | — |
-| 2 | [nanobot](#nanobot) | 18,612 | 46 | — |
+| 1 | [openclaw](#openclaw) | 193,077 | 598 | — |
+| 2 | [nanobot](#nanobot) | 18,612 | 45 | — |
 | 3 | [moltis](#moltis) | 585 | 5 | — |
 | 4 | [opencode](#opencode) | 104,294 | 738 | — |
 | 5 | [MetaGPT](#metagpt) | 64,169 | 148 | — |
@@ -43,7 +43,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-193,075 stars · 33,145 forks · 598 contributors · 5,561 issues · TypeScript · MIT
+193,077 stars · 33,145 forks · 598 contributors · 5,562 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -52,7 +52,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,612 stars · 2,729 forks · 46 contributors · 400 issues · Python · MIT
+18,612 stars · 2,729 forks · 45 contributors · 401 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -61,7 +61,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-585 stars · 42 forks · 5 contributors · 33 issues · Rust · MIT
+585 stars · 42 forks · 5 contributors · 34 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
@@ -270,10 +270,10 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 272 stars · 44 forks · 12 contributors · 21 issues · TypeScript · NOASSERTION
 
-    - Versatile multi-modal task handling across text, image, and audio inputs
-    - Hybrid local-first inference engine with minimal cloud dependency
-    - Eventual consistency reasoning for adaptive and improving responses over time
-    - Secure tool integration and action execution with built-in safety triggers
+    - Versatile multi-domain task handling
+    - Near-local inference with minimal cloud dependency
+    - Iterative reasoning for eventual accuracy
+    - Secure assistant framework with robust safeguards
 
 ### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha) - Local Topsha 🐧 AI Agent for simple PC tasks - focused on local LLM (GPT-OSS, Qwen, GLM)
 
