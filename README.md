@@ -4,7 +4,7 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 20:58:48*
+*Last updated: 2026-02-14 20:59:04*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 25 | [agency-swarm](#agency-swarm) | 3,955 | Python | MIT | ↓1 |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | Apache-2.0 | — |
 | 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,761 | Python | MIT | ↓2 |
-| 28 | [moltis](#moltis) | 655 | Rust | MIT | ↓25 |
+| 28 | [moltis](#moltis) | 656 | Rust | MIT | ↓25 |
 | 29 | [FastCode](#fastcode) | 357 | Python | No License | — |
 | 30 | [ValeDesk](#valedesk) | 272 | TypeScript | NOASSERTION | ↓4 |
 | 31 | [agent-second-brain](#agent-second-brain) | 115 | Python | No License | — |
@@ -313,7 +313,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
 
-⭐ 655 · 🍴 48 · 👥 5 · 🛠️ Rust
+⭐ 656 · 🍴 48 · 👥 5 · 🛠️ Rust
 
 - Rust-based single binary for easy deployment
 - Multi-provider LLM support
