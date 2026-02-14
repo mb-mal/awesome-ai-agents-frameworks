@@ -4,56 +4,66 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 12:11:42*
+*Last updated: 2026-02-14 12:21:55*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,242 | 598 | — |
-| 2 | [opencode](#opencode) | 104,333 | 738 | ↑2 |
-| 3 | [MetaGPT](#metagpt) | 64,170 | 148 | ↑2 |
-| 4 | [open-interpreter](#open-interpreter) | 62,142 | 132 | ↑2 |
-| 5 | [autogen](#autogen) | 54,539 | 532 | ↑2 |
-| 6 | [crewAI](#crewai) | 44,102 | 279 | ↑2 |
-| 7 | [agno](#agno) | 37,839 | 390 | ↑2 |
-| 8 | [AgentGPT](#agentgpt) | 35,700 | 72 | ↑2 |
-| 9 | [smolagents](#smolagents) | 25,417 | 197 | ↑2 |
-| 10 | [gpt-researcher](#gpt-researcher) | 25,307 | 216 | ↑2 |
-| 11 | [langgraph](#langgraph) | 24,701 | 272 | ↑2 |
-| 12 | [haystack](#haystack) | 24,185 | 323 | ↑2 |
-| 13 | [babyagi](#babyagi) | 22,133 | 2 | ↑2 |
-| 14 | [swarm](#swarm) | 20,950 | 14 | ↑2 |
-| 15 | [nanobot](#nanobot) | 18,641 | 46 | ↓13 |
-| 16 | [eliza](#eliza) | 17,506 | 651 | ↑1 |
-| 17 | [SuperAGI](#superagi) | 17,170 | 74 | ↑1 |
-| 18 | [camel](#camel) | 16,016 | 192 | ↑1 |
-| 19 | [pydantic-ai](#pydantic-ai) | 14,876 | 368 | ↑1 |
-| 20 | [E2B](#e2b) | 10,889 | 44 | ↑1 |
-| 21 | [PraisonAI](#praisonai) | 5,593 | 30 | ↑1 |
-| 22 | [ms-agent](#ms-agent) | 3,978 | 47 | ↑1 |
-| 23 | [agency-swarm](#agency-swarm) | 3,952 | 23 | ↑1 |
-| 24 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | ↑1 |
-| 25 | [moltis](#moltis) | 600 | 5 | ↓22 |
-| 26 | [ValeDesk](#valedesk) | 272 | 12 | — |
-| 27 | [FastCode](#fastcode) | 214 | 3 | — |
-| 28 | [topsha](#topsha) | 93 | 6 | ↓1 |
-| 29 | [SkillOS](#skillos) | 1 | 2 | ↓1 |
+| 1 | [openclaw](#openclaw) | 193,265 | 599 | — |
+| 2 | [AutoGPT](#autogpt) | 181,792 | 802 | ↑2 |
+| 3 | [opencode](#opencode) | 104,336 | 738 | ↑1 |
+| 4 | [MetaGPT](#metagpt) | 64,170 | 148 | ↑1 |
+| 5 | [open-interpreter](#open-interpreter) | 62,142 | 132 | ↑1 |
+| 6 | [autogen](#autogen) | 54,539 | 532 | ↑1 |
+| 7 | [crewAI](#crewai) | 44,102 | 279 | ↑1 |
+| 8 | [agno](#agno) | 37,839 | 390 | ↑1 |
+| 9 | [AgentGPT](#agentgpt) | 35,700 | 72 | ↑1 |
+| 10 | [smolagents](#smolagents) | 25,417 | 197 | ↑1 |
+| 11 | [gpt-researcher](#gpt-researcher) | 25,308 | 216 | ↑1 |
+| 12 | [langgraph](#langgraph) | 24,701 | 272 | ↑1 |
+| 13 | [haystack](#haystack) | 24,185 | 323 | ↑1 |
+| 14 | [babyagi](#babyagi) | 22,133 | 2 | ↑1 |
+| 15 | [swarm](#swarm) | 20,950 | 14 | ↑1 |
+| 16 | [nanobot](#nanobot) | 18,645 | 46 | ↓14 |
+| 17 | [eliza](#eliza) | 17,506 | 651 | — |
+| 18 | [SuperAGI](#superagi) | 17,170 | 74 | — |
+| 19 | [camel](#camel) | 16,016 | 192 | — |
+| 20 | [pydantic-ai](#pydantic-ai) | 14,876 | 368 | — |
+| 21 | [E2B](#e2b) | 10,889 | 44 | — |
+| 22 | [PraisonAI](#praisonai) | 5,593 | 30 | — |
+| 23 | [ms-agent](#ms-agent) | 3,978 | 47 | — |
+| 24 | [agency-swarm](#agency-swarm) | 3,952 | 23 | — |
+| 25 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | — |
+| 26 | [moltis](#moltis) | 601 | 5 | ↓23 |
+| 27 | [ValeDesk](#valedesk) | 272 | 12 | ↓1 |
+| 28 | [FastCode](#fastcode) | 218 | 3 | — |
+| 29 | [topsha](#topsha) | 93 | 6 | ↓2 |
+| 30 | [SkillOS](#skillos) | 1 | 2 | ↓2 |
 
 ---
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-193,242 stars · 33,186 forks · 598 contributors · 5,576 issues · TypeScript · MIT
+193,265 stars · 33,191 forks · 599 contributors · 5,576 issues · TypeScript · MIT
 
     - Cross-operating system compatibility (Any OS)
     - Universal platform support (Any Platform)
     - Personalized local AI assistant deployment
     - Lightweight, modular 'lobster way' architecture
 
+### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+181,792 stars · 46,223 forks · 802 contributors · 325 issues · Python · NOASSERTION
+
+    - Autonomous AI agent capabilities powered by GPT models
+    - Recursive self-prompting for task decomposition and execution
+    - Integration with external tools like web browsing and file I/O
+    - Open-source framework for extensibility and customization
+
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 
-104,333 stars · 10,123 forks · 738 contributors · 5,141 issues · TypeScript · MIT
+104,336 stars · 10,125 forks · 738 contributors · 5,143 issues · TypeScript · MIT
 
     - Open-source codebase under permissive license
     - Autonomous agent architecture for code generation and execution
@@ -125,7 +135,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="gpt-researcher"></a>[gpt-researcher](https://github.com/assafelovic/gpt-researcher) — An autonomous agent that conducts deep research on any data using any LLM providers.
 
-25,307 stars · 3,359 forks · 216 contributors · 180 issues · Python · Apache-2.0
+25,308 stars · 3,359 forks · 216 contributors · 180 issues · Python · Apache-2.0
 
     - Autonomous agent architecture enabling independent research execution
     - Deep research capabilities through iterative data gathering and synthesis
@@ -170,7 +180,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) — Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,641 stars · 2,732 forks · 46 contributors · 399 issues · Python · MIT
+18,645 stars · 2,734 forks · 46 contributors · 399 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -260,7 +270,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) — A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-600 stars · 44 forks · 5 contributors · 34 issues · Rust · MIT
+601 stars · 44 forks · 5 contributors · 34 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
@@ -278,7 +288,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode) — FastCode: Accelerating and Streamlining Your Code Understanding
 
-214 stars · 27 forks · 3 contributors · 0 issues · Python · No License
+218 stars · 29 forks · 3 contributors · 0 issues · Python · No License
 
     - Lightning-fast code parsing with optimized tokenization
     - Context-aware semantic analysis for deep code comprehension
