@@ -4,16 +4,16 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 10:10:24*
+*Last updated: 2026-02-14 10:12:11*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | [openclaw](#openclaw) | 193,066 | 598 | — |
-| 2 | [nanobot](#nanobot) | 18,609 | 46 | — |
-| 3 | [moltis](#moltis) | 584 | 5 | — |
-| 4 | [opencode](#opencode) | 104,290 | 738 | — |
+| 2 | [nanobot](#nanobot) | 18,609 | 45 | — |
+| 3 | [moltis](#moltis) | 585 | 5 | — |
+| 4 | [opencode](#opencode) | 104,291 | 738 | — |
 | 5 | [MetaGPT](#metagpt) | 64,169 | 148 | — |
 | 6 | [open-interpreter](#open-interpreter) | 62,139 | 132 | — |
 | 7 | [autogen](#autogen) | 54,539 | 532 | — |
@@ -35,13 +35,14 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 23 | [ms-agent](#ms-agent) | 3,978 | 47 | — |
 | 24 | [agency-swarm](#agency-swarm) | 3,952 | 23 | — |
 | 25 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | — |
-| 26 | [SkillOS](#skillos) | 1 | 2 | — |
+| 26 | [topsha](#topsha) | 93 | 6 | — |
+| 27 | [SkillOS](#skillos) | 1 | 2 | — |
 
 ---
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-193,066 stars · 33,142 forks · 598 contributors · 5,558 issues · TypeScript · MIT
+193,066 stars · 33,143 forks · 598 contributors · 5,560 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -50,7 +51,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,609 stars · 2,729 forks · 46 contributors · 400 issues · Python · MIT
+18,609 stars · 2,729 forks · 45 contributors · 400 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -59,7 +60,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-584 stars · 42 forks · 5 contributors · 33 issues · Rust · MIT
+585 stars · 42 forks · 5 contributors · 33 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
@@ -68,7 +69,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
-104,290 stars · 10,118 forks · 738 contributors · 5,134 issues · TypeScript · MIT
+104,291 stars · 10,118 forks · 738 contributors · 5,134 issues · TypeScript · MIT
 
     - Open-source codebase under permissive license
     - Autonomous agent architecture for code generation and execution
@@ -263,6 +264,15 @@ A curated list of awesome AI agent frameworks, updated daily.
     - Streaming response capabilities for real-time message processing
     - Type-safe models using Pydantic for requests and responses
     - Native integration with Anthropic's Messages API, including tools and vision
+
+### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha) - Local Topsha 🐧 AI Agent for simple PC tasks - focused on local LLM (GPT-OSS, Qwen, GLM)
+
+93 stars · 20 forks · 6 contributors · 4 issues · Python · MIT
+
+    - Fully local execution on personal PCs without cloud dependency
+    - Supports integration with local LLMs such as GPT-OSS, Qwen, and GLM
+    - AI agent designed for automating simple PC tasks
+    - Linux-compatible architecture (indicated by 🐧)
 
 ### <a name="skillos"></a>[SkillOS](https://github.com/AlexeyPevz/SkillOS) - Self-hosted AI agent orchestration framework with skills, policies, approvals, budgets & observability
 
