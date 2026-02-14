@@ -4,7 +4,7 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*更新于: 2026-02-14 18:36:28*
+*更新于: 2026-02-14 18:36:46*
 
 | 排名 | 框架 | 星标 | 语言 | 许可证 | 变化 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,880 | Python | MIT | — |
 | 21 | [E2B](#e2b) | 10,894 | MDX | Apache-2.0 | — |
-| 22 | [picoclaw](#picoclaw) | 6,973 | Go | NOASSERTION | — |
+| 22 | [picoclaw](#picoclaw) | 6,974 | Go | NOASSERTION | — |
 | 23 | [PraisonAI](#praisonai) | 5,593 | Python | MIT | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,953 | Python | MIT | ↓1 |
@@ -124,10 +124,10 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 ⭐ 22,134 · 🍴 2,849 · 👥 2 · 🛠️ Python
 
-- 基于大语言模型的任务自动生成、优先级排序与循环执行机制
-- 集成向量数据库（如Pinecone/Weaviate）实现长期记忆与上下文检索
-- 目标驱动的自主化工作流，无需人工干预即可拆解复杂任务
-- 高度可扩展的模块化架构，支持快速集成各类第三方API与工具
+- 基于目标的自主任务生成与管理循环
+- 利用向量数据库实现长期上下文记忆与检索
+- 动态任务优先级排序与实时调度机制
+- 结合大语言模型（LLM）的自主决策与执行能力
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.**
@@ -174,7 +174,7 @@
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 6,973 · 🍴 671 · 👥 39 · 🛠️ Go
+⭐ 6,974 · 🍴 671 · 👥 39 · 🛠️ Go
 
 
 ### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI)
@@ -204,10 +204,10 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,760 · 🍴 456 · 👥 51 · 🛠️ Python
 
-- 全面支持异步编程（async/await），显著提升高并发 AI 应用场景下的系统性能。
-- 集成 Pydantic 提供强类型校验，确保 API 请求与响应数据结构的准确性与安全性。
-- 支持流式输出（Streaming）功能，实现低延迟的实时交互式文本生成体验。
-- 内置自动重试与异常处理机制，确保与 Claude 系列模型交互的稳定性与生产级可靠性。
+- 全面支持 Claude 3/3.5 系列模型及其工具调用（Tool Use）等核心能力
+- 提供原生异步（Async）与同步 API 支持，适配高性能并发集成场景
+- 基于 Pydantic 的强类型定义与校验，显著提升代码健壮性与开发效率
+- 内置流式响应（Streaming）处理与自动重试机制，确保生产环境的稳定性
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
