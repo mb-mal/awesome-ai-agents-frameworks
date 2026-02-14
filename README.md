@@ -4,12 +4,12 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 04:33:11*
+*Last updated: 2026-02-14 04:34:18*
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,417 | 595 | — |
-| 2 | [nanobot](#nanobot) | 18,464 | 45 | — |
+| 1 | [openclaw](#openclaw) | 192,421 | 595 | — |
+| 2 | [nanobot](#nanobot) | 18,465 | 45 | — |
 | 3 | [moltis](#moltis) | 527 | 5 | — |
 | 4 | [AutoGPT](#autogpt) | 181,785 | 802 | — |
 | 5 | [MetaGPT](#metagpt) | 64,165 | 148 | — |
@@ -38,7 +38,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,417 stars · 32,945 forks · 595 contributors · 5,444 issues · TypeScript · MIT
+192,421 stars · 32,946 forks · 595 contributors · 5,443 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -47,7 +47,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-18,464 stars · 2,698 forks · 45 contributors · 401 issues · Python · MIT
+18,465 stars · 2,698 forks · 45 contributors · 401 issues · Python · MIT
 
     - Feature 1
     - Feature 2
