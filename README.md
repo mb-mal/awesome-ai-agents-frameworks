@@ -4,13 +4,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 06:00:42*
+*Last updated: 2026-02-14 06:01:27*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,559 | 597 | — |
+| 1 | [openclaw](#openclaw) | 192,561 | 597 | — |
 | 2 | [nanobot](#nanobot) | 18,496 | 45 | — |
 | 3 | [moltis](#moltis) | 542 | 5 | — |
 | 4 | [MetaGPT](#metagpt) | 64,164 | 148 | ↑1 |
@@ -34,12 +34,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 22 | [ms-agent](#ms-agent) | 3,978 | 47 | ↑1 |
 | 23 | [agency-swarm](#agency-swarm) | 3,952 | 23 | ↑1 |
 | 24 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | ↑1 |
+| 25 | [SkillOS](#skillos) | 0 | 2 | — |
 
 ---
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,559 stars · 33,000 forks · 597 contributors · 5,478 issues · TypeScript · MIT
+192,561 stars · 33,000 forks · 597 contributors · 5,478 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -252,6 +253,15 @@ A curated list of awesome AI agent frameworks, updated daily.
     - Streaming response capabilities for real-time message processing
     - Type-safe models using Pydantic for requests and responses
     - Native integration with Anthropic's Messages API, including tools and vision
+
+### <a name="skillos"></a>[SkillOS](https://github.com/AlexeyPevz/SkillOS) - Self-hosted AI agent orchestration framework with skills, policies, approvals, budgets & observability
+
+0 stars · 0 forks · 2 contributors · 0 issues · Python · MIT
+
+    - Self-hosted deployment for on-premises AI agent orchestration
+    - Modular skills system for extensible AI agent capabilities
+    - Policy and approval workflows for governed agent execution
+    - Integrated budgets and observability for resource control and monitoring
 
 ---
 ### @tsingular
