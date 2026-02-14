@@ -4,7 +4,7 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-14 18:29:09*
+*Last updated: 2026-02-14 18:30:44*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 13 | [haystack](#haystack) | 24,188 | MDX | Apache-2.0 | ↑1 |
 | 14 | [babyagi](#babyagi) | 22,134 | Python | No License | ↑1 |
 | 15 | [swarm](#swarm) | 20,952 | Python | MIT | ↑1 |
-| 16 | [nanobot](#nanobot) | 18,786 | Python | MIT | ↓14 |
+| 16 | [nanobot](#nanobot) | 18,787 | Python | MIT | ↓14 |
 | 17 | [eliza](#eliza) | 17,506 | TypeScript | MIT | — |
 | 18 | [SuperAGI](#superagi) | 17,170 | Python | MIT | — |
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
@@ -193,12 +193,12 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
 **Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.).**
 
-⭐ 18,786 · 🍴 2,765 · 👥 46 · 🛠️ Python
+⭐ 18,787 · 🍴 2,765 · 👥 46 · 🛠️ Python
 
-- Ultra-lightweight AI agent kernel for high-performance deployment
-- Multi-provider LLM compatibility ensuring vendor flexibility
-- Extensible architecture for custom skills and automated cron jobs
-- Multi-channel communication support including Telegram and Slack
+- Ultra-lightweight and minimalist AI agent kernel architecture
+- Agnostic support for multiple LLM providers
+- Extensible framework for custom skills and automated cron jobs
+- Multi-channel integration for platforms including Telegram and Slack
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Autonomous agents for everyone**
