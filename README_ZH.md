@@ -4,7 +4,7 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*更新于: 2026-02-14 18:29:11*
+*更新于: 2026-02-14 18:30:46*
 
 | 排名 | 框架 | 星标 | 语言 | 许可证 | 变化 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@
 | 13 | [haystack](#haystack) | 24,188 | MDX | Apache-2.0 | ↑1 |
 | 14 | [babyagi](#babyagi) | 22,134 | Python | No License | ↑1 |
 | 15 | [swarm](#swarm) | 20,952 | Python | MIT | ↑1 |
-| 16 | [nanobot](#nanobot) | 18,786 | Python | MIT | ↓14 |
+| 16 | [nanobot](#nanobot) | 18,787 | Python | MIT | ↓14 |
 | 17 | [eliza](#eliza) | 17,506 | TypeScript | MIT | — |
 | 18 | [SuperAGI](#superagi) | 17,170 | Python | MIT | — |
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
@@ -123,30 +123,22 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 ⭐ 22,134 · 🍴 2,849 · 👥 2 · 🛠️ Python
 
-- 基于大语言模型（LLM）的自主任务创建、优先级排序与执行闭环机制
-- 集成向量数据库（如Pinecone或Weaviate）实现任务上下文的长期记忆存储
-- 通过递归自我提示（Self-prompting）实现无需人工干预的持续目标追求
-- 轻量级且模块化的开源架构，支持快速构建特定领域的自主智能体（AI Agents）
+- 基于目标的自主任务管理与执行循环
+- 利用向量数据库实现长期上下文记忆与检索
+- 动态任务优先级排序与实时任务列表更新机制
+- 结合大语言模型（LLM）的递归式任务生成与逻辑推理能力
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.**
 
 ⭐ 20,952 · 🍴 2,229 · 👥 14 · 🛠️ Python
 
-- 轻量级多代理编排架构
-- 人体工程学设计，提升易用性
-- 支持多智能体协作与协调
-- 教育导向，提供学习示例与文档
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
 **"🐈 nanobot: The Ultra-Lightweight OpenClaw"**
 
-⭐ 18,786 · 🍴 2,765 · 👥 46 · 🛠️ Python
+⭐ 18,787 · 🍴 2,765 · 👥 46 · 🛠️ Python
 
-- 超轻量级 AI 代理内核
-- 支持多个提供商
-- 支持自定义技能
-- 支持 Cron 任务和多渠道通信（Telegram、Slack 等）
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Autonomous agents for everyone**
@@ -241,10 +233,10 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,760 · 🍴 456 · 👥 51 · 🛠️ Python
 
-- 全面支持异步（Async）与同步（Sync）调用模式，适配多种并发场景
-- 基于 Pydantic 的严格类型安全与自动数据验证，提升开发效率与代码质量
-- 高效的实时流式响应（Streaming）处理能力，优化大模型交互体验
-- 内置自动重试机制与完善的错误处理逻辑，确保生产环境的系统稳定性
+- 支持同步与异步调用，基于 httpx 构建，确保高性能并发处理。
+- 深度集成 Pydantic 提供严格的类型检查与自动补全，提升开发效率与代码健壮性。
+- 原生支持流式响应（Streaming），适用于构建低延迟的实时对话应用。
+- 内置完善的错误处理与自动重试机制，确保在生产环境中的高可用性。
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
