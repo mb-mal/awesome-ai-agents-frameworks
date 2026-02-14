@@ -4,13 +4,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 12:35:23*
+*Last updated: 2026-02-14 12:35:35*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,295 | 600 | — |
+| 1 | [openclaw](#openclaw) | 193,298 | 599 | — |
 | 2 | [AutoGPT](#autogpt) | 181,793 | 802 | ↑2 |
 | 3 | [opencode](#opencode) | 104,339 | 738 | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,171 | 148 | ↑1 |
@@ -36,7 +36,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 24 | [agency-swarm](#agency-swarm) | 3,952 | 23 | — |
 | 25 | [beeai-framework](#beeai-framework) | 3,094 | 67 | — |
 | 26 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | ↓1 |
-| 27 | [moltis](#moltis) | 601 | 5 | ↓24 |
+| 27 | [moltis](#moltis) | 602 | 5 | ↓24 |
 | 28 | [ValeDesk](#valedesk) | 272 | 12 | ↓2 |
 | 29 | [FastCode](#fastcode) | 221 | 3 | — |
 | 30 | [topsha](#topsha) | 93 | 6 | ↓3 |
@@ -46,7 +46,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-193,295 stars · 33,193 forks · 600 contributors · 5,577 issues · TypeScript · MIT
+193,298 stars · 33,193 forks · 599 contributors · 5,577 issues · TypeScript · MIT
 
     - Cross-operating system compatibility (Any OS)
     - Universal platform support (Any Platform)
@@ -280,7 +280,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) — A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-601 stars · 44 forks · 5 contributors · 34 issues · Rust · MIT
+602 stars · 44 forks · 5 contributors · 34 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
