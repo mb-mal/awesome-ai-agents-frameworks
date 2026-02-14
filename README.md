@@ -4,19 +4,19 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 05:34:26*
+*Last updated: 2026-02-14 06:00:42*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,516 | 595 | — |
-| 2 | [nanobot](#nanobot) | 18,488 | 45 | — |
-| 3 | [moltis](#moltis) | 537 | 5 | — |
-| 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
-| 5 | [open-interpreter](#open-interpreter) | 62,135 | 132 | ↑1 |
+| 1 | [openclaw](#openclaw) | 192,559 | 597 | — |
+| 2 | [nanobot](#nanobot) | 18,496 | 45 | — |
+| 3 | [moltis](#moltis) | 542 | 5 | — |
+| 4 | [MetaGPT](#metagpt) | 64,164 | 148 | ↑1 |
+| 5 | [open-interpreter](#open-interpreter) | 62,134 | 132 | ↑1 |
 | 6 | [autogen](#autogen) | 54,535 | 532 | ↑1 |
-| 7 | [crewAI](#crewai) | 44,090 | 279 | ↑1 |
+| 7 | [crewAI](#crewai) | 44,092 | 279 | ↑1 |
 | 8 | [agno](#agno) | 37,839 | 390 | ↑1 |
 | 9 | [AgentGPT](#agentgpt) | 35,700 | 72 | ↑1 |
 | 10 | [smolagents](#smolagents) | 25,412 | 197 | ↑1 |
@@ -26,7 +26,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 14 | [babyagi](#babyagi) | 22,133 | 2 | ↑1 |
 | 15 | [swarm](#swarm) | 20,950 | 14 | ↑1 |
 | 16 | [eliza](#eliza) | 17,506 | 651 | ↑1 |
-| 17 | [SuperAGI](#superagi) | 17,171 | 74 | ↑1 |
+| 17 | [SuperAGI](#superagi) | 17,170 | 74 | ↑1 |
 | 18 | [camel](#camel) | 16,015 | 192 | ↑1 |
 | 19 | [pydantic-ai](#pydantic-ai) | 14,869 | 368 | ↑1 |
 | 20 | [E2B](#e2b) | 10,887 | 44 | ↑1 |
@@ -39,7 +39,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,516 stars · 32,986 forks · 595 contributors · 5,471 issues · TypeScript · MIT
+192,559 stars · 33,000 forks · 597 contributors · 5,478 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -48,7 +48,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,488 stars · 2,702 forks · 45 contributors · 401 issues · Python · MIT
+18,496 stars · 2,704 forks · 45 contributors · 401 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -57,7 +57,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-537 stars · 40 forks · 5 contributors · 33 issues · Rust · MIT
+542 stars · 40 forks · 5 contributors · 33 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
@@ -66,7 +66,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-64,165 stars · 8,060 forks · 148 contributors · 78 issues · Python · MIT
+64,164 stars · 8,060 forks · 148 contributors · 78 issues · Python · MIT
 
     - Multi-Agent Collaboration: Specialized AI agents (e.g., Product Manager, Architect, Engineer, QA) work together like a software company.
     - Natural Language to Code: Converts high-level user requirements into executable codebases and documentation.
@@ -75,7 +75,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="open-interpreter"></a>[open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
-62,135 stars · 5,342 forks · 132 contributors · 294 issues · Python · AGPL-3.0
+62,134 stars · 5,342 forks · 132 contributors · 294 issues · Python · AGPL-3.0
 
     - Natural language to code translation using LLMs
     - Local code execution on user's computer
@@ -93,7 +93,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="crewai"></a>[crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-44,090 stars · 5,904 forks · 279 contributors · 276 issues · Python · MIT
+44,092 stars · 5,904 forks · 279 contributors · 276 issues · Python · MIT
 
     - Orchestration of role-playing AI agents
     - Support for autonomous agent execution
@@ -183,7 +183,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="superagi"></a>[SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 
-17,171 stars · 2,158 forks · 74 contributors · 211 issues · Python · MIT
+17,170 stars · 2,158 forks · 74 contributors · 211 issues · Python · MIT
 
     - Open-source framework
     - Developer-first design
