@@ -4,7 +4,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 18:36:33*
+*Last updated: 2026-02-14 18:38:29*
 
 ## Comparison Table
 
@@ -13,7 +13,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 1 | [openclaw](#openclaw) | 193,946 | 607 | — |
 | 2 | [AutoGPT](#autogpt) | 181,798 | 802 | ↑2 |
 | 3 | [opencode](#opencode) | 104,496 | 738 | ↑1 |
-| 4 | [MetaGPT](#metagpt) | 64,177 | 148 | ↑1 |
+| 4 | [MetaGPT](#metagpt) | 64,178 | 148 | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,143 | 132 | ↑1 |
 | 6 | [autogen](#autogen) | 54,542 | 532 | ↑1 |
 | 7 | [crewAI](#crewai) | 44,116 | 279 | ↑1 |
@@ -46,7 +46,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-193,946 stars · 33,366 forks · 607 contributors · 5,669 issues · TypeScript · MIT
+193,946 stars · 33,366 forks · 607 contributors · 5,670 issues · TypeScript · MIT
 
     - Cross-operating system compatibility (Any OS)
     - Universal platform support (Any Platform)
@@ -73,7 +73,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT) — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-64,177 stars · 8,063 forks · 148 contributors · 80 issues · Python · MIT
+64,178 stars · 8,063 forks · 148 contributors · 80 issues · Python · MIT
 
     - Multi-Agent Collaboration: Specialized AI agents (e.g., Product Manager, Architect, Engineer, QA) work together like a software company.
     - Natural Language to Code: Converts high-level user requirements into executable codebases and documentation.
