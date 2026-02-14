@@ -4,13 +4,13 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 12:24:23*
+*Last updated: 2026-02-14 12:25:05*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,269 | 600 | — |
+| 1 | [openclaw](#openclaw) | 193,272 | 599 | — |
 | 2 | [AutoGPT](#autogpt) | 181,793 | 802 | ↑2 |
 | 3 | [opencode](#opencode) | 104,336 | 738 | ↑1 |
 | 4 | [MetaGPT](#metagpt) | 64,170 | 148 | ↑1 |
@@ -38,7 +38,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 26 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | ↓1 |
 | 27 | [moltis](#moltis) | 601 | 5 | ↓24 |
 | 28 | [ValeDesk](#valedesk) | 272 | 12 | ↓2 |
-| 29 | [FastCode](#fastcode) | 218 | 3 | — |
+| 29 | [FastCode](#fastcode) | 219 | 3 | — |
 | 30 | [topsha](#topsha) | 93 | 6 | ↓3 |
 | 31 | [SkillOS](#skillos) | 1 | 2 | ↓3 |
 
@@ -46,7 +46,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-193,269 stars · 33,192 forks · 600 contributors · 5,576 issues · TypeScript · MIT
+193,272 stars · 33,193 forks · 599 contributors · 5,577 issues · TypeScript · MIT
 
     - Cross-operating system compatibility (Any OS)
     - Universal platform support (Any Platform)
@@ -298,7 +298,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode) — FastCode: Accelerating and Streamlining Your Code Understanding
 
-218 stars · 29 forks · 3 contributors · 0 issues · Python · No License
+219 stars · 29 forks · 3 contributors · 0 issues · Python · No License
 
     - Lightning-fast code parsing with optimized tokenization
     - Context-aware semantic analysis for deep code comprehension
