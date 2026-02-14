@@ -4,14 +4,14 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 10:14:53*
+*Last updated: 2026-02-14 10:15:34*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 193,073 | 598 | — |
-| 2 | [nanobot](#nanobot) | 18,612 | 45 | — |
+| 1 | [openclaw](#openclaw) | 193,075 | 598 | — |
+| 2 | [nanobot](#nanobot) | 18,612 | 46 | — |
 | 3 | [moltis](#moltis) | 585 | 5 | — |
 | 4 | [opencode](#opencode) | 104,294 | 738 | — |
 | 5 | [MetaGPT](#metagpt) | 64,169 | 148 | — |
@@ -35,14 +35,15 @@ A curated list of awesome AI agent frameworks, updated daily.
 | 23 | [ms-agent](#ms-agent) | 3,978 | 47 | — |
 | 24 | [agency-swarm](#agency-swarm) | 3,952 | 23 | — |
 | 25 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,760 | 51 | — |
-| 26 | [topsha](#topsha) | 93 | 6 | — |
-| 27 | [SkillOS](#skillos) | 1 | 2 | — |
+| 26 | [ValeDesk](#valedesk) | 272 | 12 | — |
+| 27 | [topsha](#topsha) | 93 | 6 | — |
+| 28 | [SkillOS](#skillos) | 1 | 2 | — |
 
 ---
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-193,073 stars · 33,144 forks · 598 contributors · 5,561 issues · TypeScript · MIT
+193,075 stars · 33,145 forks · 598 contributors · 5,561 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -51,7 +52,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.). Designed for efficiency and extensibility.
 
-18,612 stars · 2,729 forks · 45 contributors · 400 issues · Python · MIT
+18,612 stars · 2,729 forks · 46 contributors · 400 issues · Python · MIT
 
     - Ultra-lightweight AI agent kernel
     - Support for multiple AI providers
@@ -69,7 +70,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
-104,294 stars · 10,117 forks · 738 contributors · 5,134 issues · TypeScript · MIT
+104,294 stars · 10,118 forks · 738 contributors · 5,133 issues · TypeScript · MIT
 
     - Open-source codebase under permissive license
     - Autonomous agent architecture for code generation and execution
@@ -264,6 +265,15 @@ A curated list of awesome AI agent frameworks, updated daily.
     - Streaming response capabilities for real-time message processing
     - Type-safe models using Pydantic for requests and responses
     - Native integration with Anthropic's Messages API, including tools and vision
+
+### <a name="valedesk"></a>[ValeDesk](https://github.com/vakovalskii/ValeDesk) - Versatile Almost Local, Eventually Reasonable Assistant 🔫
+
+272 stars · 44 forks · 12 contributors · 21 issues · TypeScript · NOASSERTION
+
+    - Versatile multi-modal task handling across text, image, and audio inputs
+    - Hybrid local-first inference engine with minimal cloud dependency
+    - Eventual consistency reasoning for adaptive and improving responses over time
+    - Secure tool integration and action execution with built-in safety triggers
 
 ### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha) - Local Topsha 🐧 AI Agent for simple PC tasks - focused on local LLM (GPT-OSS, Qwen, GLM)
 
