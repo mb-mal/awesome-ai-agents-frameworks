@@ -4,7 +4,7 @@
 
 [English](README.md) | **Русский** | [中文](README_ZH.md)
 
-*Последнее обновление: 2026-02-14 05:20:30*
+*Последнее обновление: 2026-02-14 05:21:56*
 
 ## Таблица сравнения
 
@@ -16,7 +16,7 @@
 | 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,135 | 132 | ↑1 |
 | 6 | [autogen](#autogen) | 54,535 | 532 | ↑1 |
-| 7 | [crewAI](#crewai) | 44,089 | 279 | ↑1 |
+| 7 | [crewAI](#crewai) | 44,090 | 279 | ↑1 |
 | 8 | [agno](#agno) | 37,839 | 390 | ↑1 |
 | 9 | [AgentGPT](#agentgpt) | 35,700 | 72 | ↑1 |
 | 10 | [smolagents](#smolagents) | 25,411 | 197 | ↑1 |
@@ -39,7 +39,7 @@
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,499 звезд · 32,978 форков · 595 контрибьюторов · 5,465 задач · TypeScript · MIT
+192,499 звезд · 32,979 форков · 595 контрибьюторов · 5,465 задач · TypeScript · MIT
 
     - Кроссплатформенная совместимость: работает на любой ОС (Windows, macOS, Linux, Android, iOS).
     - Поддержка любых платформ: десктоп, мобильные устройства, веб.
@@ -93,7 +93,7 @@
 
 ### <a name="crewai"></a>[crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-44,089 звезд · 5,904 форков · 279 контрибьюторов · 276 задач · Python · MIT
+44,090 звезд · 5,904 форков · 279 контрибьюторов · 276 задач · Python · MIT
 
     - Оркестровка ролевых автономных ИИ-агентов
     - Поддержка совместного интеллекта агентов
