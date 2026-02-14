@@ -4,12 +4,12 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 04:28:53*
+*Last updated: 2026-02-14 04:32:09*
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,410 | 595 | — |
-| 2 | [nanobot](#nanobot) | 18,461 | 45 | — |
+| 1 | [openclaw](#openclaw) | 192,416 | 595 | — |
+| 2 | [nanobot](#nanobot) | 18,462 | 45 | — |
 | 3 | [moltis](#moltis) | 527 | 5 | — |
 | 4 | [AutoGPT](#autogpt) | 181,785 | 802 | — |
 | 5 | [MetaGPT](#metagpt) | 64,164 | 148 | — |
@@ -38,7 +38,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,410 stars · 32,944 forks · 595 contributors · 5,441 issues · TypeScript · MIT
+192,416 stars · 32,945 forks · 595 contributors · 5,442 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -47,7 +47,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
-18,461 stars · 2,698 forks · 45 contributors · 401 issues · Python · MIT
+18,462 stars · 2,698 forks · 45 contributors · 401 issues · Python · MIT
 
     - Feature 1
     - Feature 2
@@ -211,55 +211,55 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 14,867 stars · 1,640 forks · 368 contributors · 535 issues · Python · MIT
 
-    - Pydantic-based type-safe agent definitions
-    - Automatic schema validation for LLM inputs/outputs
-    - Structured tool calling with Pydantic models
-    - Seamless integration of validation in GenAI workflows
+    - Pydantic-based type-safe agent definitions and configurations
+    - Automatic validation of LLM inputs, outputs, and tool calls
+    - Structured generation for reliable parsing of AI responses
+    - Declarative multi-agent workflows with schema-driven orchestration
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 10,886 stars · 769 forks · 44 contributors · 58 issues · MDX · Apache-2.0
 
     - Open-source codebase
-    - Secure runtime environment
-    - Real-world tool integration
-    - Enterprise-grade agent support
+    - Secure sandboxed environments
+    - Integration with real-world tools
+    - Support for enterprise-grade AI agents
 
 ### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 
 5,592 stars · 763 forks · 30 contributors · 58 issues · Python · MIT
 
-    - Production-ready multi-agent LLM framework
-    - Low-code solution for building and managing AI agents
-    - Supports automation of simple to complex tasks
-    - Customizable with human-agent collaboration features
+    - Production-ready multi-agent architecture
+    - Low-code solution for building AI agents
+    - Streamlined management of multi-agent LLM systems
+    - Customization and human-agent collaboration features
 
 ### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
 
 3,977 stars · 460 forks · 47 contributors · 7 issues · Python · Apache-2.0
 
     - Lightweight architecture with minimal dependencies
-    - Agentic execution capabilities for autonomous task handling
-    - Optimized for complex, multi-step task workflows
-    - Modular framework design for easy extensibility
+    - Agentic execution engine for autonomous workflows
+    - Modular tool integration for complex task handling
+    - Efficient resource optimization for scalable deployments
 
 ### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
 
 3,952 stars · 999 forks · 23 contributors · 14 issues · Python · MIT
 
-    - Hierarchical multi-agent orchestration for task decomposition and delegation
-    - Built-in fault tolerance with automatic retries and error recovery
-    - Stateful agent memory management for reliable context persistence
-    - Seamless integration with LLM APIs and external tools for scalable execution
+    - Fault-tolerant multi-agent coordination
+    - Dynamic task orchestration and delegation
+    - Automatic recovery and failover mechanisms
+    - Scalable state management for reliability
 
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 
 2,760 stars · 456 forks · 51 contributors · 101 issues · Python · MIT
 
-    - Asynchronous client support for efficient, non-blocking API interactions
-    - Streaming responses for real-time processing of large outputs
-    - Type-safe interfaces with Pydantic models and full type hints
-    - Native support for tools, vision, and multi-turn conversations
+    - Asynchronous client support with async/await for non-blocking operations
+    - Streaming responses for real-time token-by-token output
+    - Native support for tool use and function calling with Pydantic models
+    - Automatic retries, rate limiting, and robust error handling
 
 ---
 ### @tsingular
