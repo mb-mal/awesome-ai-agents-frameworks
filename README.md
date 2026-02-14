@@ -4,15 +4,15 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 **English** | [Русский](README_RU.md) | [中文](README_ZH.md)
 
-*Last updated: 2026-02-14 05:19:09*
+*Last updated: 2026-02-14 05:20:29*
 
 ## Comparison Table
 
 | Rank | Framework | Stars | Contributors | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 192,495 | 597 | — |
+| 1 | [openclaw](#openclaw) | 192,499 | 595 | — |
 | 2 | [nanobot](#nanobot) | 18,483 | 45 | — |
-| 3 | [moltis](#moltis) | 534 | 5 | — |
+| 3 | [moltis](#moltis) | 535 | 5 | — |
 | 4 | [MetaGPT](#metagpt) | 64,165 | 148 | ↑1 |
 | 5 | [open-interpreter](#open-interpreter) | 62,135 | 132 | ↑1 |
 | 6 | [autogen](#autogen) | 54,535 | 532 | ↑1 |
@@ -39,7 +39,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-192,495 stars · 32,972 forks · 597 contributors · 5,464 issues · TypeScript · MIT
+192,499 stars · 32,978 forks · 595 contributors · 5,465 issues · TypeScript · MIT
 
     - Cross-OS compatibility
     - Platform-agnostic deployment
@@ -57,7 +57,7 @@ A curated list of awesome AI agent frameworks, updated daily.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
 
-534 stars · 40 forks · 5 contributors · 33 issues · Rust · MIT
+535 stars · 40 forks · 5 contributors · 33 issues · Rust · MIT
 
     - Rust-based single binary for easy deployment
     - Multi-provider LLM support
