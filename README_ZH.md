@@ -4,13 +4,13 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*更新于: 2026-02-15 05:33:24*
+*更新于: 2026-02-15 05:33:47*
 
 | 排名 | 框架 | 星标 | 语言 | 问题 (待处理 / 已修复 / 总计) | 更新 | 变化 |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 194,890 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 5882 / 1 / 5883 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 1 | [openclaw](#openclaw) | 194,893 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 5883 / 1 / 5884 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 2 | [AutoGPT](#autogpt) | 181,811 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 329 / 1 / 330 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 3 | [opencode](#opencode) | 104,694 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 5205 / 1 / 5206 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 3 | [opencode](#opencode) | 104,696 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 5205 / 1 / 5206 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 4 | [MetaGPT](#metagpt) | 64,188 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 80 / 1 / 81 | ![](https://img.shields.io/badge/-24d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 5 | [open-interpreter](#open-interpreter) | 62,149 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 295 / 1 / 296 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 6 | [autogen](#autogen) | 54,550 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 589 / 1 / 590 | ![](https://img.shields.io/badge/-23d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
@@ -29,7 +29,7 @@
 | 19 | [camel](#camel) | 16,017 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 445 / 1 / 446 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 536 / 1 / 537 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 21 | [E2B](#e2b) | 10,897 | ![](https://img.shields.io/badge/-MDX-607d8b?style=flat-square) | 58 / 1 / 59 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 22 | [picoclaw](#picoclaw) | 8,053 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 73 / 1 / 74 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 22 | [picoclaw](#picoclaw) | 8,055 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 73 / 1 / 74 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 23 | [PraisonAI](#praisonai) | 5,592 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 58 / 1 / 59 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 24 | [ms-agent](#ms-agent) | 3,978 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 7 / 1 / 8 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 13 / 1 / 14 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
@@ -47,7 +47,7 @@
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **您的专属个人 AI 助手。兼容全系统与全平台。Lobster 范式。🦞**
 
-⭐ 194,890 · 🍴 33,654 · 👥 616 · 🛠️ TypeScript · 📅 Today
+⭐ 194,893 · 🍴 33,655 · 👥 616 · 🛠️ TypeScript · 📅 Today
 
 - 全平台跨系统无缝集成
 - 高度个性化私有化部署
@@ -67,7 +67,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **开源编程智能体**
 
-⭐ 104,694 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Today
+⭐ 104,696 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Today
 
 - 全栈自主开发与复杂任务编排能力
 - 开源架构支持深度定制与私有化部署
@@ -178,9 +178,9 @@
 ⭐ 22,135 · 🍴 2,849 · 👥 2 · 🛠️ Python · 📅 15d
 
 - 自主任务编排与动态优先级调度
-- 基于向量数据库的长短期记忆持久化
-- 闭环式目标驱动的迭代执行引擎
-- 高度可扩展的模块化自主智能体架构
+- 基于向量数据库的持久化上下文记忆
+- 目标导向的递归式自我演进架构
+- 闭环式任务执行与反馈优化机制
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **旨在探索易用、轻量化多智能体编排的教学参考框架。由 OpenAI 解决方案团队维护。**
@@ -255,7 +255,7 @@
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **轻量化高效数据采集方案**
 
-⭐ 8,053 · 🍴 785 · 👥 41 · 🛠️ Go · 📅 Today
+⭐ 8,055 · 🍴 786 · 👥 41 · 🛠️ Go · 📅 Today
 
 - 高精度微型执行机构控制
 - 原生支持RP2040生态集成
@@ -305,10 +305,10 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,764 · 🍴 456 · 👥 51 · 🛠️ Python · 📅 Today
 
-- 全面适配 Claude 系列模型，实现大模型能力的无缝集成与快速部署。
-- 支持高性能异步 I/O 与流式响应，优化大规模并发下的系统吞吐量。
-- 内置企业级异常处理与自动重试机制，保障生产环境的高可用性。
-- 提供完善的类型安全与工程化接口，显著提升复杂业务逻辑的开发效率。
+- 全异步架构支持：提供高性能异步 I/O 接口，满足企业级高并发应用场景。
+- 严谨的类型安全保障：基于 Pydantic 的强类型校验，显著降低集成风险并提升开发效率。
+- 成本与性能优化机制：深度集成 Prompt Caching 技术，有效降低长文本处理成本并缩短首字延迟。
+- 原生 Agent 赋能：完善的 Tool Use（函数调用）支持，简化复杂任务自动化与智能体构建流程。
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **基于 Rust 构建的个人 AI 助手。采用单一二进制架构，支持多模型集成、长期记忆与沙箱化安全执行，集成语音交互与 MCP 工具协议，提供 Web、Telegram 及 API 等多渠道接入能力。**
