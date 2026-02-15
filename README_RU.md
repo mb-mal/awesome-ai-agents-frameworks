@@ -1,20 +1,20 @@
 # Лучшие фреймворки для ИИ-агентов
 
-Экспертная подборка передовых фреймворков для создания ИИ-агентов, ориентированная на бизнес-задачи и R&D.
+Курируемый список ведущих фреймворков для разработки ИИ-агентов в сфере бизнеса и R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Последнее обновление: 2026-02-15 05:16:34*
+*Последнее обновление: 2026-02-15 05:17:52*
 
-| № | Фреймворк | Звезды | Язык | Issues (исправлено / всего) | Обновлено | Изменение |
+| № | Фреймворк | Звезды | Язык | Issues (решено / всего) | Обновлено | Изменение |
 | :--- | :--- | ---: | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 194,866 | TypeScript | 5177 / 11047 | Сегодня | — |
+| 1 | [openclaw](#openclaw) | 194,869 | TypeScript | 5177 / 11047 | Сегодня | — |
 | 2 | [AutoGPT](#autogpt) | 181,811 | Python | 3484 / 3813 | Сегодня | — |
 | 3 | [opencode](#opencode) | 104,688 | TypeScript | 4525 / 9730 | Сегодня | — |
 | 4 | [MetaGPT](#metagpt) | 64,188 | Python | 888 / 968 | 24 дн. | — |
 | 5 | [open-interpreter](#open-interpreter) | 62,149 | Python | 803 / 1098 | 5 дн. | — |
 | 6 | [autogen](#autogen) | 54,550 | Python | 2493 / 3082 | 23 дн. | — |
-| 7 | [crewAI](#crewai) | 44,132 | Python | 1667 / 1945 | Сегодня | — |
+| 7 | [crewAI](#crewai) | 44,133 | Python | 1667 / 1945 | Сегодня | — |
 | 8 | [agno](#agno) | 37,854 | Python | 1646 / 2215 | Сегодня | — |
 | 9 | [AgentGPT](#agentgpt) | 35,705 | TypeScript | 337 / 557 | 292 дн. | — |
 | 10 | [smolagents](#smolagents) | 25,432 | Python | 505 / 875 | 22 дн. | — |
@@ -29,12 +29,12 @@
 | 19 | [camel](#camel) | 16,017 | Python | 1202 / 1647 | 1 дн. | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | Python | 1468 / 2004 | Сегодня | — |
 | 21 | [E2B](#e2b) | 10,897 | MDX | 266 / 324 | Сегодня | — |
-| 22 | [picoclaw](#picoclaw) | 8,032 | Go | 23 / 96 | Сегодня | — |
+| 22 | [picoclaw](#picoclaw) | 8,033 | Go | 23 / 96 | Сегодня | — |
 | 23 | [PraisonAI](#praisonai) | 5,592 | Python | 269 / 327 | Сегодня | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | 218 / 225 | 1 дн. | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | Python | 143 / 156 | Сегодня | ↓1 |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | 0 / 4 | 1 дн. | ↓1 |
-| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | 0 / 102 | Сегодня | ↓1 |
+| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | 0 / 102 | 1 дн. | ↓1 |
 | 28 | [moltis](#moltis) | 764 | Rust | 6 / 47 | Сегодня | ↓1 |
 | 29 | [FastCode](#fastcode) | 447 | Python | 3 / 3 | 1 дн. | — |
 | 30 | [ValeDesk](#valedesk) | 272 | TypeScript | 17 / 38 | 3 дн. | ↓2 |
@@ -42,329 +42,328 @@
 | 32 | [topsha](#topsha) | 94 | Python | 5 / 9 | 1 дн. | ↓2 |
 | 33 | [SkillOS](#skillos) | 1 | Python | 0 / 0 | 15 дн. | ↓2 |
 ---
-
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
-**Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
+**Ваш персональный ИИ-ассистент. Любая ОС. Любая платформа. В стиле «lobster way». 🦞**
 
-⭐ 194,866 · 🍴 33,647 · 👥 616 · 🛠️ TypeScript · 📅 Today
+⭐ 194,869 · 🍴 33,648 · 👥 616 · 🛠️ TypeScript · 📅 Сегодня
 
-- Cross-operating system compatibility (Any OS)
-- Universal platform support (Any Platform)
-- Personalized local AI assistant deployment
-- Lightweight, modular 'lobster way' architecture
+- Кроссплатформенная совместимость (любая ОС)
+- Универсальная поддержка платформ
+- Развертывание персонализированного локального ИИ-ассистента
+- Легковесная модульная архитектура «lobster way»
 
 ### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-**AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.**
+**AutoGPT — это концепция общедоступного ИИ для каждого: как для использования, так и для разработки. Наша миссия — предоставить инструменты, чтобы вы могли сосредоточиться на главном.**
 
-⭐ 181,811 · 🍴 46,223 · 👥 802 · 🛠️ Python · 📅 Today
+⭐ 181,811 · 🍴 46,223 · 👥 802 · 🛠️ Python · 📅 Сегодня
 
-- Autonomous AI agent capabilities powered by GPT models
-- Recursive self-prompting for task decomposition and execution
-- Integration with external tools like web browsing and file I/O
-- Open-source framework for extensibility and customization
+- Возможности автономных ИИ-агентов на базе моделей GPT
+- Рекурсивный самопромптинг для декомпозиции и выполнения задач
+- Интеграция с внешними инструментами (веб-браузинг, файловый ввод-вывод)
+- Open-source фреймворк для расширения и кастомизации
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
-**The open source coding agent.**
+**Open-source агент для написания кода.**
 
-⭐ 104,688 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Today
+⭐ 104,688 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Сегодня
 
-- Open-source codebase under permissive license
-- Autonomous agent architecture for code generation and execution
-- Modular tool integration for file I/O, shell commands, and testing
-- LLM-agnostic design supporting multiple model providers
+- Открытый исходный код под разрешительной лицензией
+- Архитектура автономного агента для генерации и исполнения кода
+- Модульная интеграция инструментов для работы с файлами, shell-командами и тестирования
+- LLM-агностичный дизайн с поддержкой различных поставщиков моделей
 
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT)
-**🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming**
+**🌟 Мультиагентный фреймворк: первая ИИ-софтверная компания, путь к программированию на естественном языке**
 
-⭐ 64,188 · 🍴 8,063 · 👥 148 · 🛠️ Python · 📅 24d
+⭐ 64,188 · 🍴 8,063 · 👥 148 · 🛠️ Python · 📅 24 дн.
 
-- Multi-Agent Collaboration: Specialized AI agents (e.g., Product Manager, Architect, Engineer, QA) work together like a software company.
-- Natural Language to Code: Converts high-level user requirements into executable codebases and documentation.
-- Standardized Operating Procedures (SOPs): Defines structured workflows for consistent agent interactions and outputs.
-- Comprehensive Outputs: Generates PRDs, architecture diagrams, source code, and tests from natural language specs.
+- Мультиагентное взаимодействие: специализированные ИИ-агенты (продакт-менеджер, архитектор, инженер, QA) работают совместно как ИТ-компания.
+- Перевод естественного языка в код: преобразование высокоуровневых требований пользователя в исполняемый код и документацию.
+- Стандартные операционные процедуры (SOP): определение структурированных рабочих процессов для согласованного взаимодействия агентов.
+- Комплексные результаты: генерация PRD, диаграмм архитектуры, исходного кода и тестов на основе спецификаций на естественном языке.
 
 ### <a name="open-interpreter"></a>[open-interpreter](https://github.com/openinterpreter/open-interpreter)
-**A natural language interface for computers**
+**Интерфейс на естественном языке для управления компьютерами**
 
-⭐ 62,149 · 🍴 5,342 · 👥 132 · 🛠️ Python · 📅 5d
+⭐ 62,149 · 🍴 5,342 · 👥 132 · 🛠️ Python · 📅 5 дн.
 
-- Natural language to code translation using LLMs
-- Local code execution on user's computer
-- Support for multiple languages including Python and shell
-- Computer vision capabilities for image and screenshot interpretation
+- Трансляция естественного языка в код с помощью LLM
+- Локальное выполнение кода на компьютере пользователя
+- Поддержка нескольких языков, включая Python и shell
+- Возможности компьютерного зрения для интерпретации изображений и скриншотов
 
 ### <a name="autogen"></a>[autogen](https://github.com/microsoft/autogen)
-**A programming framework for agentic AI**
+**Программный фреймворк для агентного ИИ**
 
-⭐ 54,550 · 🍴 8,218 · 👥 532 · 🛠️ Python · 📅 23d
+⭐ 54,550 · 🍴 8,218 · 👥 532 · 🛠️ Python · 📅 23 дн.
 
-- Multi-agent conversation orchestration
-- Customizable LLM-powered agents
-- Tool and code execution integration
-- Human-in-the-loop collaboration
+- Оркестрация диалогов между несколькими агентами
+- Настраиваемые агенты на базе LLM
+- Интеграция инструментов и выполнения кода
+- Совместная работа с участием человека (human-in-the-loop)
 
 ### <a name="crewai"></a>[crewAI](https://github.com/crewAIInc/crewAI)
-**Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.**
+**Фреймворк для оркестрации ролевых автономных ИИ-агентов. Развивая коллективный интеллект, CrewAI позволяет агентам бесшовно работать вместе для решения сложных задач.**
 
-⭐ 44,132 · 🍴 5,913 · 👥 279 · 🛠️ Python · 📅 Today
+⭐ 44,133 · 🍴 5,913 · 👥 279 · 🛠️ Python · 📅 Сегодня
 
-- Orchestration of role-playing AI agents
-- Support for autonomous agent execution
-- Fostering collaborative intelligence
-- Seamless multi-agent collaboration for complex tasks
+- Оркестрация ИИ-агентов с распределением ролей
+- Поддержка автономного выполнения задач агентами
+- Развитие систем коллективного интеллекта
+- Бесшовное мультиагентное взаимодействие для реализации сложных сценариев
 
 ### <a name="agno"></a>[agno](https://github.com/agno-agi/agno)
-**Build multi-agent systems that learn and improve with every interaction.**
+**Создавайте мультиагентные системы, которые учатся и совершенствуются с каждым взаимодействием.**
 
-⭐ 37,854 · 🍴 5,007 · 👥 390 · 🛠️ Python · 📅 Today
+⭐ 37,854 · 🍴 5,007 · 👥 390 · 🛠️ Python · 📅 Сегодня
 
-- Multi-Agent Architecture for Collaborative Systems
-- Real-Time Online Learning from Interactions
-- Adaptive Feedback Loops for Continuous Improvement
-- Interaction Memory and Experience Replay Mechanisms
+- Мультиагентная архитектура для коллаборативных систем
+- Обучение в режиме реального времени на основе взаимодействий
+- Адаптивные петли обратной связи для непрерывного улучшения
+- Механизмы памяти взаимодействий и воспроизведения опыта (experience replay)
 
 ### <a name="agentgpt"></a>[AgentGPT](https://github.com/reworkd/AgentGPT)
-**🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.**
+**🤖 Собирайте, настраивайте и развертывайте автономных ИИ-агентов прямо в браузере.**
 
-⭐ 35,705 · 🍴 9,453 · 👥 72 · 🛠️ TypeScript · 📅 292d
+⭐ 35,705 · 🍴 9,453 · 👥 72 · 🛠️ TypeScript · 📅 292 дн.
 
-- Browser-based agent assembly
-- Real-time agent configuration
-- One-click autonomous deployment
-- No-installation browser execution
+- Сборка агентов в интерфейсе браузера
+- Конфигурация агентов в реальном времени
+- Автономное развертывание в один клик
+- Работа в браузере без необходимости установки
 
 ### <a name="smolagents"></a>[smolagents](https://github.com/huggingface/smolagents)
-**🤗 smolagents: a barebones library for agents that think in code.**
+**🤗 smolagents: минималистичная библиотека для агентов, которые «думают кодом».**
 
-⭐ 25,432 · 🍴 2,292 · 👥 197 · 🛠️ Python · 📅 22d
+⭐ 25,432 · 🍴 2,292 · 👥 197 · 🛠️ Python · 📅 22 дн.
 
-- Barebones, lightweight design with minimal dependencies
-- Agents reason and act by generating and executing Python code
-- Seamless integration with Hugging Face Transformers for local LLMs
-- Sandboxed code execution for safe tool interaction and reasoning
+- Легковесный дизайн с минимальным количеством зависимостей
+- Агенты рассуждают и действуют путем генерации и выполнения Python-кода
+- Бесшовная интеграция с Hugging Face Transformers для локальных LLM
+- Выполнение кода в «песочнице» для безопасного взаимодействия с инструментами
 
 ### <a name="gpt-researcher"></a>[gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-**An autonomous agent that conducts deep research on any data using any LLM providers.**
+**Автономный агент для проведения глубоких исследований любых данных с использованием любых провайдеров LLM.**
 
-⭐ 25,319 · 🍴 3,360 · 👥 216 · 🛠️ Python · 📅 13d
+⭐ 25,319 · 🍴 3,360 · 👥 216 · 🛠️ Python · 📅 13 дн.
 
-- Autonomous agent architecture enabling independent research execution
-- Deep research capabilities through iterative data gathering and synthesis
-- Universal data processing for any input type or topic
-- Multi-provider LLM support for flexible model integration
+- Архитектура автономного агента для независимого проведения исследований
+- Возможности глубокого анализа через итеративный сбор и синтез данных
+- Универсальная обработка данных для любых типов входной информации или тем
+- Поддержка нескольких провайдеров LLM для гибкой интеграции моделей
 
 ### <a name="langgraph"></a>[langgraph](https://github.com/langchain-ai/langgraph)
-**Build resilient language agents as graphs.**
+**Создавайте отказоустойчивых языковых агентов в виде графов.**
 
-⭐ 24,717 · 🍴 4,304 · 👥 273 · 🛠️ Python · 📅 Today
+⭐ 24,717 · 🍴 4,304 · 👥 273 · 🛠️ Python · 📅 Сегодня
 
-- Graph-based architecture for building agents
-- Resilient execution with error handling and retries
-- Stateful workflows with persistent checkpoints
-- Support for cycles, branching, and multi-agent coordination
+- Графовая архитектура для построения агентов
+- Отказоустойчивое выполнение с обработкой ошибок и повторными попытками
+- Рабочие процессы с сохранением состояния (stateful) и контрольными точками
+- Поддержка циклов, ветвления и координации нескольких агентов
 
 ### <a name="haystack"></a>[haystack](https://github.com/deepset-ai/haystack)
-**Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.**
+**Open-source фреймворк оркестрации ИИ для создания готовых к продакшну LLM-приложений с контекстной инженерией. Проектируйте модульные пайплайны и агентные воркфлоу с явным контролем над поиском, маршрутизацией, памятью и генерацией. Создан для масштабируемых агентов, RAG, мультимодальных приложений и семантического поиска.**
 
-⭐ 24,192 · 🍴 2,600 · 👥 323 · 🛠️ MDX · 📅 1d
+⭐ 24,192 · 🍴 2,600 · 👥 323 · 🛠️ MDX · 📅 1 дн.
 
-- Modular pipelines and agent workflows
-- Explicit control over retrieval, routing, memory, and generation
-- Support for scalable agents and RAG
-- Optimized for multimodal applications, semantic search, and conversational systems
+- Модульные пайплайны и рабочие процессы агентов
+- Явный контроль над извлечением (retrieval), маршрутизацией, памятью и генерацией
+- Поддержка масштабируемых агентов и архитектур RAG
+- Оптимизация для мультимодальных приложений, семантического поиска и диалоговых систем
 
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
-⭐ 22,135 · 🍴 2,849 · 👥 2 · 🛠️ Python · 📅 15d
+⭐ 22,135 · 🍴 2,849 · 👥 2 · 🛠️ Python · 📅 15 дн.
 
-- Autonomous task generation using LLM prompts
-- Vector-based task prioritization with embeddings and similarity search
-- Persistent storage of tasks and execution results in a vector database like Pinecone
-- Iterative loop for continuous task creation, prioritization, and execution
+- Автономная генерация задач с использованием промптов LLM
+- Векторная приоритизация задач с помощью эмбеддингов и поиска сходства
+- Постоянное хранение задач и результатов выполнения в векторных БД (например, Pinecone)
+- Итеративный цикл для непрерывного создания, приоритизации и выполнения задач
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
-**Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.**
+**Образовательный фреймворк для изучения эргономичной и легковесной мультиагентной оркестрации. Управляется командой OpenAI Solution.**
 
-⭐ 20,954 · 🍴 2,229 · 👥 14 · 🛠️ Python · 📅 340d
+⭐ 20,954 · 🍴 2,229 · 👥 14 · 🛠️ Python · 📅 340 дн.
 
-- Lightweight multi-agent orchestration with minimal dependencies
-- Ergonomic APIs for intuitive agent definition and handoffs
-- Simple orchestration loop for coordinating agent workflows
-- Modular design optimized for educational exploration
+- Легковесная мультиагентная оркестрация с минимумом зависимостей
+- Эргономичные API для интуитивного определения агентов и передачи задач (handoffs)
+- Простой цикл оркестрации для координации рабочих процессов агентов
+- Модульный дизайн, оптимизированный для образовательных целей и экспериментов
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
-**Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.).**
+**Ультралегкое ядро ИИ-агента. Поддерживает множество провайдеров, кастомные навыки, cron-задачи и омниканальную связь (Telegram, Slack и др.).**
 
-⭐ 18,991 · 🍴 2,793 · 👥 46 · 🛠️ Python · 📅 Today
+⭐ 18,991 · 🍴 2,793 · 👥 46 · 🛠️ Python · 📅 Сегодня
 
-- Ultra-lightweight, high-performance kernel for resource-efficient AI agent orchestration.
-- Provider-agnostic architecture supporting seamless integration with multiple LLM backends.
-- Extensible modular framework for custom skill development and autonomous task scheduling.
-- Omnichannel deployment capabilities across major enterprise communication platforms.
+- Высокопроизводительное ядро для ресурсоэффективной оркестрации ИИ-агентов
+- Архитектура, независимая от провайдера, поддерживающая бесшовную интеграцию с различными LLM-бэкендами
+- Расширяемый модульный фреймворк для разработки навыков и автономного планирования задач
+- Возможности омниканального развертывания в крупнейших корпоративных мессенджерах
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
-**Autonomous agents for everyone**
+**Автономные агенты для каждого**
 
-⭐ 17,509 · 🍴 5,414 · 👥 651 · 🛠️ TypeScript · 📅 Today
+⭐ 17,509 · 🍴 5,414 · 👥 651 · 🛠️ TypeScript · 📅 Сегодня
 
-- Modular agent architecture for rapid customization
-- Built-in autonomous planning and reasoning engine
-- Seamless tool integration and API connectivity
-- Lightweight local deployment for universal accessibility
+- Модульная архитектура агентов для быстрой кастомизации
+- Встроенный движок автономного планирования и логического вывода
+- Бесшовная интеграция инструментов и подключение через API
+- Легковесное локальное развертывание для обеспечения универсальной доступности
 
 ### <a name="superagi"></a>[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
-**<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.**
+**<⚡️> SuperAGI — open-source фреймворк автономных ИИ-агентов, ориентированный на разработчиков. Позволяет быстро и надежно создавать, управлять и запускать полезных автономных агентов.**
 
-⭐ 17,171 · 🍴 2,156 · 👥 74 · 🛠️ Python · 📅 388d
+⭐ 17,171 · 🍴 2,156 · 👥 74 · 🛠️ Python · 📅 388 дн.
 
-- Open-source framework
-- Developer-first design
-- Autonomous AI agent building
-- Reliable management and execution
+- Фреймворк с открытым исходным кодом
+- Дизайн, ориентированный на потребности разработчиков (developer-first)
+- Создание автономных ИИ-агентов
+- Надежное управление и исполнение
 
 ### <a name="camel"></a>[camel](https://github.com/camel-ai/camel)
-**🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org**
+**🐫 CAMEL: первый и лучший мультиагентный фреймворк. Поиск закона масштабирования агентов. https://www.camel-ai.org**
 
-⭐ 16,017 · 🍴 1,770 · 👥 192 · 🛠️ Python · 📅 1d
+⭐ 16,017 · 🍴 1,770 · 👥 192 · 🛠️ Python · 📅 1 дн.
 
-- Multi-agent communication protocol for LLM-based agents
-- Role-playing capabilities for task specialization
-- Scalable architecture exploring agent scaling laws
-- Integration with multiple LLM backends and providers
+- Протокол мультиагентной коммуникации для агентов на базе LLM
+- Возможности ролевого взаимодействия для специализации на задачах
+- Масштабируемая архитектура для исследования законов масштабирования агентов
+- Интеграция с множеством LLM-бэкендов и провайдеров
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
-**GenAI Agent Framework, the Pydantic way**
+**Фреймворк для GenAI-агентов в стиле Pydantic**
 
-⭐ 14,889 · 🍴 1,641 · 👥 368 · 🛠️ Python · 📅 Today
+⭐ 14,889 · 🍴 1,641 · 👥 368 · 🛠️ Python · 📅 Сегодня
 
-- Pydantic-based type-safe agent definitions and configurations
-- Automatic validation of LLM inputs, outputs, and tool calls
-- Structured generation for reliable parsing of AI responses
-- Declarative multi-agent workflows with schema-driven orchestration
+- Типобезопасные определения и конфигурации агентов на базе Pydantic
+- Автоматическая валидация входных и выходных данных LLM, а также вызовов инструментов
+- Структурированная генерация для надежного парсинга ответов ИИ
+- Декларативные мультиагентные воркфлоу с оркестрацией на основе схем
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
-**Open-source, secure environment with real-world tools for enterprise-grade agents.**
+**Безопасная среда с открытым исходным кодом и реальными инструментами для агентов корпоративного уровня.**
 
-⭐ 10,897 · 🍴 769 · 👥 44 · 🛠️ MDX · 📅 Today
+⭐ 10,897 · 🍴 769 · 👥 44 · 🛠️ MDX · 📅 Сегодня
 
-- Open-source codebase
-- Secure sandboxed environments
-- Integration with real-world tools
-- Support for enterprise-grade AI agents
+- Кодовая база с открытым исходным кодом
+- Безопасные изолированные среды («песочницы»)
+- Интеграция с инструментами реального мира
+- Поддержка ИИ-агентов корпоративного класса
 
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 8,032 · 🍴 780 · 👥 41 · 🛠️ Go · 📅 Today
+⭐ 8,033 · 🍴 780 · 👥 41 · 🛠️ Go · 📅 Сегодня
 
-- RP2040-based control architecture for low-latency servo management
-- Compact, 3D-printable mechanical design optimized for small-scale robotics
-- High-precision PWM-driven servo actuation for delicate object manipulation
-- Seamless integration with MicroPython and C++ for rapid prototyping and deployment
+- Архитектура управления на базе RP2040 для низколатентного контроля сервоприводов
+- Компактный механический дизайн для 3D-печати, оптимизированный для малой робототехники
+- Высокоточное управление сервоприводами через ШИМ для деликатных манипуляций
+- Бесшовная интеграция с MicroPython и C++ для быстрого прототипирования
 
 ### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI)
-**PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.**
+**PraisonAI — это готовый к эксплуатации мультиагентный фреймворк, предназначенный для создания ИИ-агентов для автоматизации и решения задач любой сложности. Предоставляет low-code решение для упрощения сборки и управления мультиагентными LLM-системами.**
 
-⭐ 5,592 · 🍴 762 · 👥 30 · 🛠️ Python · 📅 Today
+⭐ 5,592 · 🍴 762 · 👥 30 · 🛠️ Python · 📅 Сегодня
 
-- Production-ready multi-agent architecture
-- Low-code solution for building AI agents
-- Streamlined management of multi-agent LLM systems
-- Customization and human-agent collaboration features
+- Готовая к продакшну мультиагентная архитектура
+- Low-code решение для создания ИИ-агентов
+- Оптимизированное управление мультиагентными LLM-системами
+- Функции кастомизации и эффективного взаимодействия человека с агентом
 
 ### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent)
-**MS-Agent: a lightweight framework to empower agentic execution of complex tasks**
+**MS-Agent: легковесный фреймворк для агентного выполнения сложных задач**
 
-⭐ 3,978 · 🍴 461 · 👥 47 · 🛠️ Python · 📅 1d
+⭐ 3,978 · 🍴 461 · 👥 47 · 🛠️ Python · 📅 1 дн.
 
-- Lightweight architecture with minimal dependencies
-- Agentic execution engine for autonomous workflows
-- Modular tool integration for complex task handling
-- Efficient resource optimization for scalable deployments
+- Легковесная архитектура с минимальными зависимостями
+- Движок агентного исполнения для автономных рабочих процессов
+- Модульная интеграция инструментов для обработки сложных задач
+- Эффективная оптимизация ресурсов для масштабируемого развертывания
 
 ### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm)
-**Reliable Multi-Agent Orchestration Framework**
+**Надежный фреймворк мультиагентной оркестрации**
 
-⭐ 3,956 · 🍴 998 · 👥 23 · 🛠️ Python · 📅 Today
+⭐ 3,956 · 🍴 998 · 👥 23 · 🛠️ Python · 📅 Сегодня
 
-- Fault-tolerant multi-agent coordination
-- Dynamic task orchestration and delegation
-- Automatic recovery and failover mechanisms
-- Scalable state management for reliability
+- Отказоустойчивая координация нескольких агентов
+- Динамическая оркестрация и делегирование задач
+- Механизмы автоматического восстановления и переключения при сбоях
+- Масштабируемое управление состоянием для обеспечения надежности
 
 ### <a name="beeai-framework"></a>[beeai-framework](https://github.com/i-am-bee/beeai-framework)
-**Build production-ready AI agents in both Python and Typescript.**
+**Создавайте готовых к продакшну ИИ-агентов на Python и TypeScript.**
 
-⭐ 3,098 · 🍴 402 · 👥 67 · 🛠️ Python · 📅 1d
+⭐ 3,098 · 🍴 402 · 👥 67 · 🛠️ Python · 📅 1 дн.
 
-- Dual-language support for Python and TypeScript
-- Production-ready agent scaffolding and tooling
-- Scalable deployment capabilities for AI agents
-- Streamlined development workflow for agentic AI
+- Поддержка двух языков: Python и TypeScript
+- Инструментарий и шаблоны для создания промышленных агентов
+- Возможности масштабируемого развертывания ИИ-агентов
+- Оптимизированный процесс разработки агентного ИИ
 
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
-⭐ 2,764 · 🍴 456 · 👥 51 · 🛠️ Python · 📅 Today
+⭐ 2,764 · 🍴 456 · 👥 51 · 🛠️ Python · 📅 1 дн.
 
-- Asynchronous client support with async/await for efficient API interactions
-- Streaming response capabilities for real-time message processing
-- Type-safe models using Pydantic for requests and responses
-- Native integration with Anthropic's Messages API, including tools and vision
+- Поддержка асинхронного клиента (async/await) для эффективного взаимодействия с API
+- Возможность потоковой передачи ответов для обработки сообщений в реальном времени
+- Типобезопасные модели на базе Pydantic для запросов и ответов
+- Нативная интеграция с Anthropic Messages API, включая инструменты и зрение
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
-**A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
+**Персональный ИИ-ассистент на Rust. Единый бинарный файл, поддержка нескольких провайдеров LLM, долгосрочная память, выполнение в песочнице, голос, инструменты MCP и многоканальный доступ.**
 
-⭐ 764 · 🍴 62 · 👥 5 · 🛠️ Rust · 📅 Today
+⭐ 764 · 🍴 62 · 👥 5 · 🛠️ Rust · 📅 Сегодня
 
-- Rust-based single binary for easy deployment
-- Multi-provider LLM support
-- Long-term memory capabilities
-- Sandboxed execution for security
+- Единый исполняемый файл на базе Rust для простого развертывания
+- Поддержка различных провайдеров LLM
+- Возможности долгосрочной памяти
+- Выполнение в изолированной среде («песочнице») для безопасности
 
 ### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode)
-**FastCode: Accelerating and Streamlining Your Code Understanding**
+**FastCode: ускорение и упрощение понимания кода**
 
-⭐ 447 · 🍴 48 · 👥 3 · 🛠️ Python · 📅 1d
+⭐ 447 · 🍴 48 · 👥 3 · 🛠️ Python · 📅 1 дн.
 
-- Lightning-fast code parsing with optimized tokenization
-- Context-aware semantic analysis for deep code comprehension
-- Real-time code explanation and summarization engine
-- Multi-language support with graph-based dependency mapping
+- Молниеносный парсинг кода с оптимизированной токенизацией
+- Контекстно-зависимый семантический анализ для глубокого понимания кода
+- Движок объяснения и суммаризации кода в реальном времени
+- Мультиязычная поддержка с графовым отображением зависимостей
 
 ### <a name="valedesk"></a>[ValeDesk](https://github.com/vakovalskii/ValeDesk)
-**Versatile Almost Local, Eventually Reasonable Assistant 🔫**
+**Универсальный почти локальный и в конечном счете разумный ассистент 🔫**
 
-⭐ 272 · 🍴 44 · 👥 12 · 🛠️ TypeScript · 📅 3d
+⭐ 272 · 🍴 44 · 👥 12 · 🛠️ TypeScript · 📅 3 дн.
 
-- Versatile multi-domain task handling
-- Near-local inference with minimal cloud dependency
-- Iterative reasoning for eventual accuracy
-- Secure assistant framework with robust safeguards
+- Универсальная обработка задач в различных доменах
+- Инференс, близкий к локальному, с минимальной зависимостью от облака
+- Итеративное рассуждение для достижения итоговой точности
+- Безопасный фреймворк ассистента с надежными механизмами защиты
 
 ### <a name="agent-second-brain"></a>[agent-second-brain](https://github.com/smixs/agent-second-brain)
-**The Second Brain Agentic System**
+**Агентная система «Второй мозг»**
 
-⭐ 117 · 🍴 105 · 👥 2 · 🛠️ Python · 📅 14d
+⭐ 117 · 🍴 105 · 👥 2 · 🛠️ Python · 📅 14 дн.
 
-- Autonomous Semantic Memory Integration
-- Proactive Task Execution and Workflow Orchestration
-- Agentic Retrieval-Augmented Generation (RAG) for Real-time Synthesis
-- Cross-Platform Interoperability and Ecosystem Synchronization
+- Автономная интеграция семантической памяти
+- Проактивное выполнение задач и оркестрация рабочих процессов
+- Агентная генерация с дополненной выборкой (RAG) для синтеза в реальном времени
+- Кроссплатформенная совместимость и синхронизация экосистемы
 
 ### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha)
-**Local Topsha 🐧 AI Agent for simple PC tasks - focused on local LLM (GPT-OSS, Qwen, GLM)**
+**Локальный ИИ-агент Topsha 🐧 для простых задач на ПК — фокус на локальных LLM (GPT-OSS, Qwen, GLM)**
 
-⭐ 94 · 🍴 20 · 👥 6 · 🛠️ Python · 📅 1d
+⭐ 94 · 🍴 20 · 👥 6 · 🛠️ Python · 📅 1 дн.
 
-- Fully local execution on personal PCs without cloud dependency
-- Supports integration with local LLMs such as GPT-OSS, Qwen, and GLM
-- AI agent designed for automating simple PC tasks
-- Linux-compatible architecture (indicated by 🐧)
+- Полностью локальное выполнение на персональных компьютерах без облачной зависимости
+- Поддержка интеграции с локальными LLM, такими как GPT-OSS, Qwen и GLM
+- ИИ-агент, предназначенный для автоматизации простых повседневных задач на ПК
+- Архитектура, совместимая с Linux (символ 🐧)
 
 ### <a name="skillos"></a>[SkillOS](https://github.com/AlexeyPevz/SkillOS)
-**Self-hosted AI agent orchestration framework with skills, policies, approvals, budgets & observability**
+**Self-hosted фреймворк оркестрации ИИ-агентов с навыками, политиками, апрувами, бюджетами и мониторингом**
 
-⭐ 1 · 🍴 0 · 👥 2 · 🛠️ Python · 📅 15d
+⭐ 1 · 🍴 0 · 👥 2 · 🛠️ Python · 📅 15 дн.
 
-- Self-hosted deployment
-- AI agent orchestration
-- Modular skills system
-- Policies, approvals, budgets, and observability
+- Развертывание на собственных мощностях (self-hosted)
+- Оркестрация ИИ-агентов
+- Модульная система навыков
+- Управление политиками, согласованиями, бюджетами и наблюдаемостью (observability)
