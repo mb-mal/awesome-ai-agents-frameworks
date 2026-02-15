@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 08:43:00*
+*Last updated: 2026-02-15 08:44:05*
 
 | Rank | Framework | Stars | Language | Issues (open / fixed / total) | Updated | Change |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 195,187 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 2956 / 5186 / 8142 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 1 | [openclaw](#openclaw) | 195,190 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 2956 / 5186 / 8142 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 2 | [AutoGPT](#autogpt) | 181,814 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 237 / 3484 / 3721 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 3 | [opencode](#opencode) | 104,758 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3814 / 4527 / 8341 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 4 | [MetaGPT](#metagpt) | 64,193 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 13 / 888 / 901 | ![](https://img.shields.io/badge/-663d-e55039?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
@@ -29,15 +29,15 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 208 / 1202 / 1410 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 386 / 1468 / 1854 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 21 | [E2B](#e2b) | 10,897 | ![](https://img.shields.io/badge/-MDX-607d8b?style=flat-square) | 38 / 266 / 304 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 22 | [picoclaw](#picoclaw) | 8,473 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 45 / 23 / 68 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 22 | [picoclaw](#picoclaw) | 8,477 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 45 / 23 / 68 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 23 | [agent-framework](#agent-framework) | 7,181 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 579 / 1210 / 1789 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 24 | [PraisonAI](#praisonai) | 5,592 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 41 / 269 / 310 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 25 | [ms-agent](#ms-agent) | 3,978 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 6 / 218 / 224 | ![](https://img.shields.io/badge/-9d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 26 | [agency-swarm](#agency-swarm) | 3,956 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 2 / 143 / 145 | ![](https://img.shields.io/badge/-25d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 27 | [beeai-framework](#beeai-framework) | 3,099 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 0 / 505 / 505 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 28 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 57 / 247 / 304 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
-| 29 | [tinyclaw](#tinyclaw) | 1,497 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 27 / 7 / 34 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 30 | [moltis](#moltis) | 806 | ![](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | 24 / 6 / 30 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%932-e55039?style=flat-square) |
+| 29 | [tinyclaw](#tinyclaw) | 1,498 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 27 / 7 / 34 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 30 | [moltis](#moltis) | 808 | ![](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | 24 / 6 / 30 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%932-e55039?style=flat-square) |
 | 31 | [FastCode](#fastcode) | 503 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 0 / 3 / 3 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%932-e55039?style=flat-square) |
 | 32 | [ValeDesk](#valedesk) | 272 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 18 / 17 / 35 | ![](https://img.shields.io/badge/-19d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%932-e55039?style=flat-square) |
 | 33 | [agent-second-brain](#agent-second-brain) | 117 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-14d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
@@ -49,7 +49,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 195,187 · 🍴 33,749 · 👥 617 · 🛠️ TypeScript · 📅 Today
+⭐ 195,190 · 🍴 33,751 · 👥 617 · 🛠️ TypeScript · 📅 Today
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -257,7 +257,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 8,473 · 🍴 850 · 👥 41 · 🛠️ Go · 📅 2d
+⭐ 8,477 · 🍴 851 · 👥 41 · 🛠️ Go · 📅 2d
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
@@ -325,7 +325,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="tinyclaw"></a>[tinyclaw](https://github.com/jlia0/tinyclaw)
 **TinyClaw is a team of personal agents that collaborate with each other**
 
-⭐ 1,497 · 🍴 202 · 👥 1 · 🛠️ TypeScript · 📅 Today
+⭐ 1,498 · 🍴 202 · 👥 1 · 🛠️ TypeScript · 📅 Today
 
 - Autonomous Multi-Agent Orchestration
 - Collaborative Task Decomposition and Delegation
@@ -335,7 +335,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
 
-⭐ 806 · 🍴 71 · 👥 6 · 🛠️ Rust · 📅 Today
+⭐ 808 · 🍴 71 · 👥 6 · 🛠️ Rust · 📅 Today
 
 - Rust-based single binary for easy deployment
 - Multi-provider LLM support
