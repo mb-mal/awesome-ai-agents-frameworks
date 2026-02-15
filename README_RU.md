@@ -4,11 +4,11 @@
 
 [EN](README.md) | **RU** | [ZH](README_ZH.md)
 
-*Обновлено: 2026-02-15 05:37:29*
+*Обновлено: 2026-02-15 05:39:36*
 
 | № | Фреймворк | Звезды | Язык | Задачи (откр / испр / всего) | Обновлен | Изм. |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 194,896 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 2924 / 5182 / 8106 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 1 | [openclaw](#openclaw) | 194,897 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 2925 / 5182 / 8107 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 2 | [AutoGPT](#autogpt) | 181,811 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 237 / 3484 / 3721 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 3 | [opencode](#opencode) | 104,697 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3812 / 4525 / 8337 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 4 | [MetaGPT](#metagpt) | 64,188 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 13 / 888 / 901 | ![](https://img.shields.io/badge/-24d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
@@ -29,14 +29,14 @@
 | 19 | [camel](#camel) | 16,017 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 208 / 1202 / 1410 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 386 / 1468 / 1854 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 21 | [E2B](#e2b) | 10,897 | ![](https://img.shields.io/badge/-MDX-607d8b?style=flat-square) | 38 / 266 / 304 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 22 | [picoclaw](#picoclaw) | 8,056 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 42 / 23 / 65 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 22 | [picoclaw](#picoclaw) | 8,059 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 42 / 23 / 65 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 23 | [PraisonAI](#praisonai) | 5,592 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 41 / 269 / 310 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 24 | [ms-agent](#ms-agent) | 3,978 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 6 / 218 / 224 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 2 / 143 / 145 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 0 / 505 / 505 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 57 / 247 / 304 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
-| 28 | [moltis](#moltis) | 768 | ![](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | 24 / 6 / 30 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
-| 29 | [FastCode](#fastcode) | 452 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 0 / 3 / 3 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 28 | [moltis](#moltis) | 769 | ![](https://img.shields.io/badge/-Rust-dea584?style=flat-square) | 24 / 6 / 30 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
+| 29 | [FastCode](#fastcode) | 454 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 0 / 3 / 3 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 30 | [ValeDesk](#valedesk) | 272 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 18 / 17 / 35 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%932-e55039?style=flat-square) |
 | 31 | [agent-second-brain](#agent-second-brain) | 117 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-14d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 32 | [topsha](#topsha) | 94 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 3 / 5 / 8 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%932-e55039?style=flat-square) |
@@ -47,7 +47,7 @@
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Ваш персональный ИИ-ассистент. Любая ОС. Любая платформа. Подход Lobster. 🦞**
 
-⭐ 194,896 · 🍴 33,656 · 👥 616 · 🛠️ TypeScript · 📅 Today
+⭐ 194,897 · 🍴 33,658 · 👥 616 · 🛠️ TypeScript · 📅 Today
 
 - Кроссплатформенная экосистема: полная совместимость с любыми ОС и цифровыми средами
 - Персонализированный ИИ-интеллект: адаптация под индивидуальные задачи и сценарии пользователя
@@ -67,7 +67,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **Агент для разработки программного обеспечения с открытым исходным кодом.**
 
-⭐ 104,697 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Today
+⭐ 104,697 · 🍴 10,177 · 👥 739 · 🛠️ TypeScript · 📅 Today
 
 - Прозрачность и отсутствие вендор-лока благодаря open-source архитектуре
 - Ускорение цикла разработки (SDLC) через интеллектуальную автоматизацию написания кода
@@ -177,10 +177,10 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 ⭐ 22,135 · 🍴 2,849 · 👥 2 · 🛠️ Python · 📅 15d
 
-- Автономная система управления задачами с функциями динамической приоритизации и исполнения.
-- Интеграция больших языковых моделей (LLM) и векторных хранилищ для реализации долгосрочной памяти.
-- Рекурсивный цикл самообучения и адаптации стратегии на основе анализа полученных результатов.
-- Модульная архитектура для автоматизации высокоуровневых бизнес-целей и когнитивных рабочих процессов.
+- Автономная оркестрация и приоритизация задач на основе заданных стратегических целей.
+- Интеграция с векторными хранилищами для обеспечения долгосрочной памяти и контекстуальной релевантности.
+- Рекурсивный цикл самооптимизации планов действий на основе анализа результатов предыдущих итераций.
+- Масштабируемая архитектура для автоматизации сложных многоуровневых когнитивных бизнес-процессов.
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Образовательный фреймворк для изучения принципов эргономичной и легковесной оркестрации мультиагентных систем. Проект поддерживается командой OpenAI Solutions.**
@@ -255,7 +255,7 @@
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **Компактный инструмент для автоматизированного извлечения данных.**
 
-⭐ 8,056 · 🍴 787 · 👥 41 · 🛠️ Go · 📅 Today
+⭐ 8,059 · 🍴 787 · 👥 41 · 🛠️ Go · 📅 Today
 
 - Бесшовная интеграция с экосистемой Raspberry Pi Pico для ускоренного прототипирования.
 - Прецизионное сервоуправление для высокоточного манипулирования объектами.
@@ -301,15 +301,15 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,764 · 🍴 456 · 👥 51 · 🛠️ Python · 📅 Today
 
-- Нативная поддержка асинхронного программирования (asyncio) для создания высокопроизводительных и масштабируемых систем.
-- Строгая типизация и интеграция с Pydantic для обеспечения надежности кода и ускорения цикла разработки.
-- Оптимизированная потоковая передача ответов (streaming) для минимизации задержек в пользовательских интерфейсах.
-- Встроенные механизмы автоматических повторных попыток и обработки ошибок для обеспечения корпоративной отказоустойчивости.
+- Полная поддержка асинхронного и синхронного взаимодействия для разработки высокопроизводительных и масштабируемых приложений.
+- Строгая типизация и интеграция с Pydantic для обеспечения надежности данных и ускорения цикла промышленной разработки.
+- Оптимизированная потоковая передача ответов (streaming) для минимизации задержек и создания отзывчивых интерфейсов.
+- Нативная поддержка расширенного функционала Claude, включая вызов внешних инструментов (Tool Use) и мультимодальный ввод.
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **Персональный ИИ-ассистент на базе Rust. Единый исполняемый файл, поддержка различных провайдеров LLM, долговременная память, изолированная среда исполнения, голосовой интерфейс, поддержка протокола MCP и многоканальный доступ (веб, Telegram, API).**
 
-⭐ 768 · 🍴 64 · 👥 5 · 🛠️ Rust · 📅 Today
+⭐ 769 · 🍴 64 · 👥 5 · 🛠️ Rust · 📅 Today
 
 - Высокопроизводительная архитектура на Rust: легковесное развертывание единым бинарным файлом с минимальным потреблением ресурсов.
 - Гибкая экосистема LLM и инструментов: поддержка мультивендорных моделей и протокола MCP для неограниченного расширения функциональности.
@@ -319,7 +319,7 @@
 ### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode)
 **FastCode: Ускорение и оптимизация процессов анализа программного кода.**
 
-⭐ 452 · 🍴 49 · 👥 3 · 🛠️ Python · 📅 1d
+⭐ 454 · 🍴 49 · 👥 3 · 🛠️ Python · 📅 1d
 
 - Ускорение циклов анализа и аудита кодовой базы
 - Оптимизация навигации по сложным программным архитектурам
