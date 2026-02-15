@@ -4,13 +4,13 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 05:54:12*
+*Last updated: 2026-02-15 05:56:12*
 
 | Rank | Framework | Stars | Language | Issues (open / fixed / total) | Updated | Change |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 194,917 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 2926 / 5183 / 8109 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 1 | [openclaw](#openclaw) | 194,919 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 2926 / 5183 / 8109 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 2 | [AutoGPT](#autogpt) | 181,811 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 237 / 3484 / 3721 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 3 | [opencode](#opencode) | 104,699 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3812 / 4525 / 8337 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 3 | [opencode](#opencode) | 104,700 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3812 / 4525 / 8337 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 4 | [MetaGPT](#metagpt) | 64,188 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 13 / 888 / 901 | ![](https://img.shields.io/badge/-663d-e55039?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 5 | [open-interpreter](#open-interpreter) | 62,149 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 241 / 803 / 1044 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 6 | [autogen](#autogen) | 54,550 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 433 / 2493 / 2926 | ![](https://img.shields.io/badge/-137d-f6b93b?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
@@ -29,7 +29,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 208 / 1202 / 1410 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 386 / 1468 / 1854 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 21 | [E2B](#e2b) | 10,897 | ![](https://img.shields.io/badge/-MDX-607d8b?style=flat-square) | 38 / 266 / 304 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 22 | [picoclaw](#picoclaw) | 8,088 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 42 / 23 / 65 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 22 | [picoclaw](#picoclaw) | 8,089 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 42 / 23 / 65 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 23 | [PraisonAI](#praisonai) | 5,592 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 41 / 269 / 310 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 24 | [ms-agent](#ms-agent) | 3,978 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 6 / 218 / 224 | ![](https://img.shields.io/badge/-8d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 2 / 143 / 145 | ![](https://img.shields.io/badge/-25d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%E2%86%931-e55039?style=flat-square) |
@@ -47,7 +47,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 194,917 · 🍴 33,662 · 👥 616 · 🛠️ TypeScript · 📅 Today
+⭐ 194,919 · 🍴 33,662 · 👥 616 · 🛠️ TypeScript · 📅 Today
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -67,7 +67,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **The open source coding agent.**
 
-⭐ 104,699 · 🍴 10,177 · 👥 739 · 🛠️ TypeScript · 📅 Today
+⭐ 104,700 · 🍴 10,177 · 👥 739 · 🛠️ TypeScript · 📅 Today
 
 - Open-source codebase under permissive license
 - Autonomous agent architecture for code generation and execution
@@ -255,7 +255,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 8,088 · 🍴 793 · 👥 41 · 🛠️ Go · 📅 2d
+⭐ 8,089 · 🍴 794 · 👥 41 · 🛠️ Go · 📅 2d
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
@@ -313,7 +313,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
 
-⭐ 772 · 🍴 64 · 👥 6 · 🛠️ Rust · 📅 Today
+⭐ 772 · 🍴 64 · 👥 5 · 🛠️ Rust · 📅 Today
 
 - Rust-based single binary for easy deployment
 - Multi-provider LLM support
