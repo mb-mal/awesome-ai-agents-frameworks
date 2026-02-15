@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 05:13:58*
+*Last updated: 2026-02-15 05:15:12*
 
 | Rank | Framework | Stars | Language | Issues (fixed/total) | Updated | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 194,862 | TypeScript | 5176/11045 | Today | — |
+| 1 | [openclaw](#openclaw) | 194,863 | TypeScript | 5176/11045 | Today | — |
 | 2 | [AutoGPT](#autogpt) | 181,811 | Python | 3484/3813 | Today | — |
 | 3 | [opencode](#opencode) | 104,688 | TypeScript | 4525/9730 | Today | — |
 | 4 | [MetaGPT](#metagpt) | 64,188 | Python | 888/968 | 24d | — |
@@ -29,12 +29,12 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | 1202/1647 | 1d | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | Python | 1468/2004 | Today | — |
 | 21 | [E2B](#e2b) | 10,897 | MDX | 266/324 | Today | — |
-| 22 | [picoclaw](#picoclaw) | 8,025 | Go | 23/96 | Today | — |
+| 22 | [picoclaw](#picoclaw) | 8,028 | Go | 23/96 | Today | — |
 | 23 | [PraisonAI](#praisonai) | 5,592 | Python | 269/327 | Today | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | 218/225 | 1d | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | Python | 143/156 | Today | ↓1 |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | 0/4 | 1d | ↓1 |
-| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | 247/349 | Today | ↓1 |
+| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | 0/102 | Today | ↓1 |
 | 28 | [moltis](#moltis) | 763 | Rust | 6/47 | Today | ↓1 |
 | 29 | [FastCode](#fastcode) | 447 | Python | 3/3 | 1d | — |
 | 30 | [ValeDesk](#valedesk) | 272 | TypeScript | 17/38 | 3d | ↓2 |
@@ -47,7 +47,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 194,862 · 🍴 33,644 · 👥 616 · 🛠️ TypeScript · 📅 Today
+⭐ 194,863 · 🍴 33,645 · 👥 616 · 🛠️ TypeScript · 📅 Today
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -255,7 +255,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 8,025 · 🍴 780 · 👥 41 · 🛠️ Go · 📅 Today
+⭐ 8,028 · 🍴 780 · 👥 41 · 🛠️ Go · 📅 Today
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
