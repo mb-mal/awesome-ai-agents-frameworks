@@ -4,13 +4,13 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 05:09:33*
+*Last updated: 2026-02-15 05:10:44*
 
 | Rank | Framework | Stars | Language | Issues | Updated | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 194,853 | TypeScript | 5175/11042 | Today | — |
+| 1 | [openclaw](#openclaw) | 194,853 | TypeScript | 5176/11043 | Today | — |
 | 2 | [AutoGPT](#autogpt) | 181,811 | Python | 3484/3813 | Today | — |
-| 3 | [opencode](#opencode) | 104,685 | TypeScript | 4525/9729 | Today | — |
+| 3 | [opencode](#opencode) | 104,686 | TypeScript | 4525/9730 | Today | — |
 | 4 | [MetaGPT](#metagpt) | 64,188 | Python | 888/968 | 24d ago | — |
 | 5 | [open-interpreter](#open-interpreter) | 62,149 | Python | 803/1098 | 5d ago | — |
 | 6 | [autogen](#autogen) | 54,550 | Python | 2493/3082 | 23d ago | — |
@@ -29,12 +29,12 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | 1202/1647 | 1d ago | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | Python | 1468/2004 | Today | — |
 | 21 | [E2B](#e2b) | 10,897 | MDX | 266/324 | Today | — |
-| 22 | [picoclaw](#picoclaw) | 8,022 | Go | 23/96 | Today | — |
+| 22 | [picoclaw](#picoclaw) | 8,023 | Go | 23/96 | Today | — |
 | 23 | [PraisonAI](#praisonai) | 5,592 | Python | 269/327 | Today | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | 218/225 | 1d ago | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | Python | 143/156 | Today | ↓1 |
 | 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | 0/4 | 1d ago | ↓1 |
-| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | 0/102 | Today | ↓1 |
+| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | 247/349 | Today | ↓1 |
 | 28 | [moltis](#moltis) | 763 | Rust | 6/48 | Today | ↓1 |
 | 29 | [FastCode](#fastcode) | 447 | Python | 3/3 | 1d ago | — |
 | 30 | [ValeDesk](#valedesk) | 272 | TypeScript | 17/38 | 3d ago | ↓2 |
@@ -67,7 +67,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **The open source coding agent.**
 
-⭐ 104,685 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Today
+⭐ 104,686 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript · 📅 Today
 
 - Open-source codebase under permissive license
 - Autonomous agent architecture for code generation and execution
@@ -255,7 +255,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 8,022 · 🍴 780 · 👥 41 · 🛠️ Go · 📅 Today
+⭐ 8,023 · 🍴 780 · 👥 41 · 🛠️ Go · 📅 Today
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
@@ -285,7 +285,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm)
 **Reliable Multi-Agent Orchestration Framework**
 
-⭐ 3,956 · 🍴 998 · 👥 23 · 🛠️ Python · 📅 Today
+⭐ 3,956 · 🍴 998 · 👥 0 · 🛠️ Python · 📅 Today
 
 - Fault-tolerant multi-agent coordination
 - Dynamic task orchestration and delegation
