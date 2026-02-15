@@ -4,7 +4,7 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*更新于: 2026-02-15 07:50:15*
+*更新于: 2026-02-15 07:50:17*
 
 | 排名 | 框架 | 星标 | 语言 | 问题 (待处理 / 已修复 / 总计) | 更新 | 变化 |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
@@ -178,10 +178,10 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 ⭐ 22,136 · 🍴 2,849 · 👥 2 · 🛠️ Python · 📅 15d
 
-- 任务驱动型自主循环架构
-- 基于向量数据库的长期记忆管理
-- 动态任务优先级排序与逻辑编排
-- 目标导向的递归式自我演进机制
+- 自主任务驱动与闭环执行架构
+- 动态任务优先级评估与实时重排机制
+- 基于向量数据库的长短期记忆与上下文持久化
+- 目标导向的任务递归生成与逻辑演进
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **旨在探索易用、轻量化多智能体编排的教学参考框架。由 OpenAI 解决方案团队维护。**
@@ -306,10 +306,10 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,764 · 🍴 456 · 👥 51 · 🛠️ Python · 📅 7d
 
-- 高性能异步架构与流式响应支持
-- 生产级类型安全与 Pydantic 数据验证
-- 自动化重试机制与弹性容错设计
-- 深度集成工具调用（Tool Use）等核心模型能力
+- 原生异步 I/O 支持与流式响应优化
+- 深度适配 Claude 系列模型的核心功能集成
+- 基于 Pydantic 的严谨类型校验与开发体验
+- 工业级自动重试机制与稳健的错误处理体系
 
 ### <a name="tinyclaw"></a>[tinyclaw](https://github.com/jlia0/tinyclaw)
 **TinyClaw：协同运作的个人智能体集群。**
