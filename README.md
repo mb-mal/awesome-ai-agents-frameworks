@@ -4,13 +4,13 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 04:49:35*
+*Last updated: 2026-02-15 04:50:48*
 
 | Rank | Framework | Stars | Language | License | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [openclaw](#openclaw) | 194,829 | TypeScript | MIT | — |
 | 2 | [AutoGPT](#autogpt) | 181,811 | Python | NOASSERTION | — |
-| 3 | [opencode](#opencode) | 104,680 | TypeScript | MIT | — |
+| 3 | [opencode](#opencode) | 104,681 | TypeScript | MIT | — |
 | 4 | [MetaGPT](#metagpt) | 64,188 | Python | MIT | — |
 | 5 | [open-interpreter](#open-interpreter) | 62,149 | Python | AGPL-3.0 | — |
 | 6 | [autogen](#autogen) | 54,549 | Python | CC-BY-4.0 | — |
@@ -29,7 +29,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | Python | MIT | — |
 | 21 | [E2B](#e2b) | 10,896 | MDX | Apache-2.0 | — |
-| 22 | [picoclaw](#picoclaw) | 7,999 | Go | NOASSERTION | — |
+| 22 | [picoclaw](#picoclaw) | 8,003 | Go | NOASSERTION | — |
 | 23 | [PraisonAI](#praisonai) | 5,592 | Python | MIT | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | Python | MIT | ↓1 |
@@ -67,7 +67,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **The open source coding agent.**
 
-⭐ 104,680 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript
+⭐ 104,681 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript
 
 - Open-source codebase under permissive license
 - Autonomous agent architecture for code generation and execution
@@ -255,7 +255,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 7,999 · 🍴 774 · 👥 41 · 🛠️ Go
+⭐ 8,003 · 🍴 774 · 👥 41 · 🛠️ Go
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
