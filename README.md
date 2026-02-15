@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 05:05:34*
+*Last updated: 2026-02-15 05:05:51*
 
 | Rank | Framework | Stars | Language | Issues | Updated | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 194,846 | TypeScript | 5867 | 2026-02-15 | — |
+| 1 | [openclaw](#openclaw) | 194,847 | TypeScript | 5866 | 2026-02-15 | — |
 | 2 | [AutoGPT](#autogpt) | 181,811 | Python | 329 | 2026-02-14 | — |
 | 3 | [opencode](#opencode) | 104,684 | TypeScript | 5204 | 2026-02-15 | — |
 | 4 | [MetaGPT](#metagpt) | 64,188 | Python | 80 | 2026-01-21 | — |
@@ -47,7 +47,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 194,846 · 🍴 33,644 · 👥 616 · 🛠️ TypeScript · 📅 2026-02-15
+⭐ 194,847 · 🍴 33,644 · 👥 616 · 🛠️ TypeScript · 📅 2026-02-15
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
