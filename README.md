@@ -1,235 +1,375 @@
 # Awesome AI Agents Frameworks
 
-A curated list of awesome AI agent frameworks, updated daily.
+Curated list of top AI agent frameworks for business and R&D.
+
+**EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
+
+*Last updated: 2026-02-15 04:49:35*
+
+| Rank | Framework | Stars | Language | License | Change |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | [openclaw](#openclaw) | 194,829 | TypeScript | MIT | — |
+| 2 | [AutoGPT](#autogpt) | 181,811 | Python | NOASSERTION | — |
+| 3 | [opencode](#opencode) | 104,680 | TypeScript | MIT | — |
+| 4 | [MetaGPT](#metagpt) | 64,188 | Python | MIT | — |
+| 5 | [open-interpreter](#open-interpreter) | 62,149 | Python | AGPL-3.0 | — |
+| 6 | [autogen](#autogen) | 54,549 | Python | CC-BY-4.0 | — |
+| 7 | [crewAI](#crewai) | 44,131 | Python | MIT | — |
+| 8 | [agno](#agno) | 37,853 | Python | Apache-2.0 | — |
+| 9 | [AgentGPT](#agentgpt) | 35,705 | TypeScript | GPL-3.0 | — |
+| 10 | [smolagents](#smolagents) | 25,432 | Python | Apache-2.0 | — |
+| 11 | [gpt-researcher](#gpt-researcher) | 25,319 | Python | Apache-2.0 | — |
+| 12 | [langgraph](#langgraph) | 24,716 | Python | MIT | — |
+| 13 | [haystack](#haystack) | 24,192 | MDX | Apache-2.0 | — |
+| 14 | [babyagi](#babyagi) | 22,135 | Python | No License | — |
+| 15 | [swarm](#swarm) | 20,954 | Python | MIT | — |
+| 16 | [nanobot](#nanobot) | 18,982 | Python | MIT | — |
+| 17 | [eliza](#eliza) | 17,509 | TypeScript | MIT | — |
+| 18 | [SuperAGI](#superagi) | 17,171 | Python | MIT | — |
+| 19 | [camel](#camel) | 16,017 | Python | Apache-2.0 | — |
+| 20 | [pydantic-ai](#pydantic-ai) | 14,889 | Python | MIT | — |
+| 21 | [E2B](#e2b) | 10,896 | MDX | Apache-2.0 | — |
+| 22 | [picoclaw](#picoclaw) | 7,999 | Go | NOASSERTION | — |
+| 23 | [PraisonAI](#praisonai) | 5,592 | Python | MIT | ↓1 |
+| 24 | [ms-agent](#ms-agent) | 3,978 | Python | Apache-2.0 | ↓1 |
+| 25 | [agency-swarm](#agency-swarm) | 3,956 | Python | MIT | ↓1 |
+| 26 | [beeai-framework](#beeai-framework) | 3,098 | Python | Apache-2.0 | ↓1 |
+| 27 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,764 | Python | MIT | ↓1 |
+| 28 | [moltis](#moltis) | 759 | Rust | MIT | ↓1 |
+| 29 | [FastCode](#fastcode) | 441 | Python | No License | — |
+| 30 | [ValeDesk](#valedesk) | 272 | TypeScript | NOASSERTION | ↓2 |
+| 31 | [agent-second-brain](#agent-second-brain) | 116 | Python | No License | — |
+| 32 | [topsha](#topsha) | 94 | Python | MIT | ↓2 |
+| 33 | [SkillOS](#skillos) | 1 | Python | MIT | ↓2 |
+
+---
+
+### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
+**Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
+
+⭐ 194,829 · 🍴 33,637 · 👥 616 · 🛠️ TypeScript
+
+- Cross-operating system compatibility (Any OS)
+- Universal platform support (Any Platform)
+- Personalized local AI assistant deployment
+- Lightweight, modular 'lobster way' architecture
+
+### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+**AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.**
+
+⭐ 181,811 · 🍴 46,222 · 👥 802 · 🛠️ Python
+
+- Autonomous AI agent capabilities powered by GPT models
+- Recursive self-prompting for task decomposition and execution
+- Integration with external tools like web browsing and file I/O
+- Open-source framework for extensibility and customization
+
+### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
+**The open source coding agent.**
+
+⭐ 104,680 · 🍴 10,178 · 👥 739 · 🛠️ TypeScript
 
-**English** | [Русский](README_RU.md) | [中文](README_ZH.md)
+- Open-source codebase under permissive license
+- Autonomous agent architecture for code generation and execution
+- Modular tool integration for file I/O, shell commands, and testing
+- LLM-agnostic design supporting multiple model providers
+
+### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT)
+**🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming**
 
-[openclaw](#openclaw) | [AutoGPT](#autogpt) | [MetaGPT](#metagpt) | [open-interpreter](#open-interpreter) | [autogen](#autogen) | [crewAI](#crewai) | [agno](#agno) | [AgentGPT](#agentgpt) | [smolagents](#smolagents) | [gpt-researcher](#gpt-researcher) | [langgraph](#langgraph) | [haystack](#haystack) | [babyagi](#babyagi) | [swarm](#swarm) | [nanobot](#nanobot) | [eliza](#eliza) | [SuperAGI](#superagi) | [camel](#camel) | [pydantic-ai](#pydantic-ai) | [E2B](#e2b) | [PraisonAI](#praisonai) | [ms-agent](#ms-agent) | [agency-swarm](#agency-swarm) | [anthropic-sdk-python](#anthropic-sdk-python) | [moltis](#moltis)
+⭐ 64,188 · 🍴 8,062 · 👥 148 · 🛠️ Python
 
-*Last updated: 2026-02-14 22:00:37*
+- Multi-Agent Collaboration: Specialized AI agents (e.g., Product Manager, Architect, Engineer, QA) work together like a software company.
+- Natural Language to Code: Converts high-level user requirements into executable codebases and documentation.
+- Standardized Operating Procedures (SOPs): Defines structured workflows for consistent agent interactions and outputs.
+- Comprehensive Outputs: Generates PRDs, architecture diagrams, source code, and tests from natural language specs.
 
-### [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+### <a name="open-interpreter"></a>[open-interpreter](https://github.com/openinterpreter/open-interpreter)
+**A natural language interface for computers**
 
-194,220 stars · 33,462 forks · 610 contributors · 5,792 issues · TypeScript · MIT
+⭐ 62,149 · 🍴 5,342 · 👥 132 · 🛠️ Python
 
-    - Distributed agent architecture
-    - High-performance task execution
-    - Scalable multi-agent systems
-    - Enterprise-grade infrastructure
+- Natural language to code translation using LLMs
+- Local code execution on user's computer
+- Support for multiple languages including Python and shell
+- Computer vision capabilities for image and screenshot interpretation
 
-### [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+### <a name="autogen"></a>[autogen](https://github.com/microsoft/autogen)
+**A programming framework for agentic AI**
 
-181,803 stars · 46,221 forks · 802 contributors · 329 issues · Python · NOASSERTION
+⭐ 54,549 · 🍴 8,218 · 👥 532 · 🛠️ Python
 
-    - Autonomous AI agent for general tasks
-    - Self-prompting and execution
-    - Web browsing and file management
-    - Extensible through plugins
+- Multi-agent conversation orchestration
+- Customizable LLM-powered agents
+- Tool and code execution integration
+- Human-in-the-loop collaboration
 
-### [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+### <a name="crewai"></a>[crewAI](https://github.com/crewAIInc/crewAI)
+**Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.**
 
-64,179 stars · 8,062 forks · 148 contributors · 80 issues · Python · MIT
+⭐ 44,131 · 🍴 5,913 · 👥 279 · 🛠️ Python
 
-    - Multi-agent software company
-    - Standardized Operating Procedures (SOPs)
-    - Role-based delegation
-    - Production-grade code generation
+- Orchestration of role-playing AI agents
+- Support for autonomous agent execution
+- Fostering collaborative intelligence
+- Seamless multi-agent collaboration for complex tasks
 
-### [open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+### <a name="agno"></a>[agno](https://github.com/agno-agi/agno)
+**Build multi-agent systems that learn and improve with every interaction.**
 
-62,146 stars · 5,343 forks · 132 contributors · 295 issues · Python · AGPL-3.0
+⭐ 37,853 · 🍴 5,006 · 👥 390 · 🛠️ Python
 
-    - Local code execution
-    - System-level control
-    - Natural language interface
-    - Powerful multimodal support
+- Multi-Agent Architecture for Collaborative Systems
+- Real-Time Online Learning from Interactions
+- Adaptive Feedback Loops for Continuous Improvement
+- Interaction Memory and Experience Replay Mechanisms
 
-### [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
+### <a name="agentgpt"></a>[AgentGPT](https://github.com/reworkd/AgentGPT)
+**🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.**
 
-54,545 stars · 8,217 forks · 532 contributors · 587 issues · Python · CC-BY-4.0
+⭐ 35,705 · 🍴 9,453 · 👥 72 · 🛠️ TypeScript
 
-    - Multi-agent conversation framework
-    - Customizable and conversable agents
-    - Human-in-the-loop support
-    - Code execution capabilities
+- Browser-based agent assembly
+- Real-time agent configuration
+- One-click autonomous deployment
+- No-installation browser execution
 
-### [crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+### <a name="smolagents"></a>[smolagents](https://github.com/huggingface/smolagents)
+**🤗 smolagents: a barebones library for agents that think in code.**
 
-44,120 stars · 5,909 forks · 279 contributors · 278 issues · Python · MIT
+⭐ 25,432 · 🍴 2,292 · 👥 197 · 🛠️ Python
 
-    - Role-based agent design
-    - Multi-agent collaboration
-    - Flexible memory system
-    - Built-in error handling
+- Barebones, lightweight design with minimal dependencies
+- Agents reason and act by generating and executing Python code
+- Seamless integration with Hugging Face Transformers for local LLMs
+- Sandboxed code execution for safe tool interaction and reasoning
 
-### [agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+### <a name="gpt-researcher"></a>[gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+**An autonomous agent that conducts deep research on any data using any LLM providers.**
 
-37,845 stars · 5,007 forks · 390 contributors · 567 issues · Python · Apache-2.0
+⭐ 25,319 · 🍴 3,360 · 👥 216 · 🛠️ Python
 
-    - Multi-agent system core
-    - Continuous learning focus
-    - Dynamic agent orchestration
-    - Scalable knowledge management
+- Autonomous agent architecture enabling independent research execution
+- Deep research capabilities through iterative data gathering and synthesis
+- Universal data processing for any input type or topic
+- Multi-provider LLM support for flexible model integration
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+### <a name="langgraph"></a>[langgraph](https://github.com/langchain-ai/langgraph)
+**Build resilient language agents as graphs.**
 
-35,705 stars · 9,453 forks · 72 contributors · 220 issues · TypeScript · GPL-3.0
+⭐ 24,716 · 🍴 4,304 · 👥 273 · 🛠️ Python
 
-    - Browser-based autonomous AI agents
-    - User-friendly interface
-    - Long-term memory through vector DB
-    - Goal-oriented execution
+- Graph-based architecture for building agents
+- Resilient execution with error handling and retries
+- Stateful workflows with persistent checkpoints
+- Support for cycles, branching, and multi-agent coordination
 
-### [smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
+### <a name="haystack"></a>[haystack](https://github.com/deepset-ai/haystack)
+**Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.**
 
-25,426 stars · 2,290 forks · 197 contributors · 369 issues · Python · Apache-2.0
+⭐ 24,192 · 🍴 2,600 · 👥 323 · 🛠️ MDX
 
-    - Lightweight agentic core
-    - Hugging Face ecosystem
-    - Tool-centric design
-    - Code-first approach
+- Modular pipelines and agent workflows
+- Explicit control over retrieval, routing, memory, and generation
+- Support for scalable agents and RAG
+- Optimized for multimodal applications, semantic search, and conversational systems
 
-### [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
+⭐ 22,135 · 🍴 2,849 · 👥 2 · 🛠️ Python
 
-25,313 stars · 3,359 forks · 216 contributors · 181 issues · Python · Apache-2.0
+- Autonomous task generation using LLM prompts
+- Vector-based task prioritization with embeddings and similarity search
+- Persistent storage of tasks and execution results in a vector database like Pinecone
+- Iterative loop for continuous task creation, prioritization, and execution
 
-    - Autonomous agent for online research
-    - Aggregates data from 20+ sources
-    - Generates comprehensive PDF reports
-    - Optimized for objective analysis
+### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
+**Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.**
 
-### [langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
+⭐ 20,954 · 🍴 2,229 · 👥 14 · 🛠️ Python
 
-24,711 stars · 4,302 forks · 273 contributors · 295 issues · Python · MIT
+- Lightweight multi-agent orchestration with minimal dependencies
+- Ergonomic APIs for intuitive agent definition and handoffs
+- Simple orchestration loop for coordinating agent workflows
+- Modular design optimized for educational exploration
 
-    - Stateful multi-agent orchestration
-    - Cyclic graph support
-    - Fine-grained control over flow
-    - Seamless LangChain integration
+### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
+**Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.).**
 
-### [haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.
+⭐ 18,982 · 🍴 2,790 · 👥 46 · 🛠️ Python
 
-24,189 stars · 2,600 forks · 323 contributors · 114 issues · MDX · Apache-2.0
+- Ultra-lightweight, high-performance kernel for resource-efficient AI agent orchestration.
+- Provider-agnostic architecture supporting seamless integration with multiple LLM backends.
+- Extensible modular framework for custom skill development and autonomous task scheduling.
+- Omnichannel deployment capabilities across major enterprise communication platforms.
 
-    - Modular NLP pipeline design
-    - Integration with vector databases
-    - Search and retrieval optimized
-    - Scalable RAG applications
+### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
+**Autonomous agents for everyone**
 
-### [babyagi](https://github.com/yoheinakajima/babyagi) - 
+⭐ 17,509 · 🍴 5,414 · 👥 651 · 🛠️ TypeScript
 
-22,135 stars · 2,849 forks · 2 contributors · 17 issues · Python · No License
+- Modular agent architecture for rapid customization
+- Built-in autonomous planning and reasoning engine
+- Seamless tool integration and API connectivity
+- Lightweight local deployment for universal accessibility
 
-    - Simple task-driven autonomous agent
-    - Python-based task management
-    - Integration with Pinecone for memory
-    - Focused on automation efficiency
+### <a name="superagi"></a>[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+**<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.**
 
-### [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+⭐ 17,171 · 🍴 2,156 · 👥 74 · 🛠️ Python
 
-20,953 stars · 2,229 forks · 14 contributors · 16 issues · Python · MIT
+- Open-source framework
+- Developer-first design
+- Autonomous AI agent building
+- Reliable management and execution
 
-    - Educational framework by OpenAI
-    - Lightweight agent coordination
-    - Focus on 'routines' and 'handoffs'
-    - Minimalist and easy to hack
+### <a name="camel"></a>[camel](https://github.com/camel-ai/camel)
+**🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org**
 
-### [nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+⭐ 16,017 · 🍴 1,770 · 👥 192 · 🛠️ Python
 
-18,852 stars · 2,773 forks · 46 contributors · 416 issues · Python · MIT
+- Multi-agent communication protocol for LLM-based agents
+- Role-playing capabilities for task specialization
+- Scalable architecture exploring agent scaling laws
+- Integration with multiple LLM backends and providers
 
-    - Extensible AI agent kernel
-    - Support for multiple chat platforms
-    - Skill-based architecture
-    - Local and remote tool execution
+### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
+**GenAI Agent Framework, the Pydantic way**
 
-### [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+⭐ 14,889 · 🍴 1,640 · 👥 368 · 🛠️ Python
 
-17,509 stars · 5,413 forks · 651 contributors · 141 issues · TypeScript · MIT
+- Pydantic-based type-safe agent definitions and configurations
+- Automatic validation of LLM inputs, outputs, and tool calls
+- Structured generation for reliable parsing of AI responses
+- Declarative multi-agent workflows with schema-driven orchestration
 
-    - Autonomous social agents
-    - Multi-platform support (Discord/Twitter)
-    - Character-driven logic
-    - Crypto/Web3 integration
+### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
+**Open-source, secure environment with real-world tools for enterprise-grade agents.**
 
-### [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+⭐ 10,896 · 🍴 769 · 👥 44 · 🛠️ MDX
 
-17,170 stars · 2,156 forks · 74 contributors · 211 issues · Python · MIT
+- Open-source codebase
+- Secure sandboxed environments
+- Integration with real-world tools
+- Support for enterprise-grade AI agents
 
-    - Dev-first open-source agent framework
-    - Infrastructure for autonomous agents
-    - Marketplace for tools and agents
-    - Resource management and auditing
+### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
+**picoclaw**
 
-### [camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+⭐ 7,999 · 🍴 774 · 👥 41 · 🛠️ Go
 
-16,017 stars · 1,771 forks · 192 contributors · 445 issues · Python · Apache-2.0
+- RP2040-based control architecture for low-latency servo management
+- Compact, 3D-printable mechanical design optimized for small-scale robotics
+- High-precision PWM-driven servo actuation for delicate object manipulation
+- Seamless integration with MicroPython and C++ for rapid prototyping and deployment
 
-    - Role-playing agent framework
-    - Communication-based reasoning
-    - Complex task solving
-    - Symmetry of dialogue
+### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI)
+**PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.**
 
-### [pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+⭐ 5,592 · 🍴 762 · 👥 30 · 🛠️ Python
 
-14,880 stars · 1,639 forks · 368 contributors · 535 issues · Python · MIT
+- Production-ready multi-agent architecture
+- Low-code solution for building AI agents
+- Streamlined management of multi-agent LLM systems
+- Customization and human-agent collaboration features
 
-    - Type-safe agent development
-    - Model-agnostic design
-    - Integrated with Pydantic for validation
-    - Built for production reliability
+### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent)
+**MS-Agent: a lightweight framework to empower agentic execution of complex tasks**
 
-### [E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+⭐ 3,978 · 🍴 461 · 👥 47 · 🛠️ Python
 
-10,895 stars · 769 forks · 44 contributors · 58 issues · MDX · Apache-2.0
+- Lightweight architecture with minimal dependencies
+- Agentic execution engine for autonomous workflows
+- Modular tool integration for complex task handling
+- Efficient resource optimization for scalable deployments
 
-    - Sandboxed cloud environments
-    - Code-interpreting as a service
-    - Secure agent execution
-    - Infrastructure for AI apps
+### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm)
+**Reliable Multi-Agent Orchestration Framework**
 
-### [PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
+⭐ 3,956 · 🍴 998 · 👥 23 · 🛠️ Python
 
-5,593 stars · 763 forks · 30 contributors · 58 issues · Python · MIT
+- Fault-tolerant multi-agent coordination
+- Dynamic task orchestration and delegation
+- Automatic recovery and failover mechanisms
+- Scalable state management for reliability
 
-    - Production-ready frameworks
-    - Low-code solution
-    - Human-agent collaboration
-    - Problem-solving efficiency
+### <a name="beeai-framework"></a>[beeai-framework](https://github.com/i-am-bee/beeai-framework)
+**Build production-ready AI agents in both Python and Typescript.**
 
-### [ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
+⭐ 3,098 · 🍴 402 · 👥 67 · 🛠️ Python
 
-3,978 stars · 460 forks · 47 contributors · 7 issues · Python · Apache-2.0
+- Dual-language support for Python and TypeScript
+- Production-ready agent scaffolding and tooling
+- Scalable deployment capabilities for AI agents
+- Streamlined development workflow for agentic AI
 
-    - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
+### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
+⭐ 2,764 · 🍴 456 · 👥 51 · 🛠️ Python
 
-### [agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
+- Asynchronous client support with async/await for efficient API interactions
+- Streaming response capabilities for real-time message processing
+- Type-safe models using Pydantic for requests and responses
+- Native integration with Anthropic's Messages API, including tools and vision
 
-3,955 stars · 998 forks · 23 contributors · 13 issues · Python · MIT
+### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
+**A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).**
 
-    - Educational framework by OpenAI
-    - Lightweight agent coordination
-    - Focus on 'routines' and 'handoffs'
-    - Minimalist and easy to hack
+⭐ 759 · 🍴 60 · 👥 5 · 🛠️ Rust
 
-### [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
+- Rust-based single binary for easy deployment
+- Multi-provider LLM support
+- Long-term memory capabilities
+- Sandboxed execution for security
 
-2,762 stars · 456 forks · 51 contributors · 102 issues · Python · MIT
+### <a name="fastcode"></a>[FastCode](https://github.com/HKUDS/FastCode)
+**FastCode: Accelerating and Streamlining Your Code Understanding**
 
-    - Official Anthropic SDK
-    - Optimized for Claude series
-    - Reliable API access
-    - Simple async support
+⭐ 441 · 🍴 48 · 👥 3 · 🛠️ Python
 
-### [moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- Lightning-fast code parsing with optimized tokenization
+- Context-aware semantic analysis for deep code comprehension
+- Real-time code explanation and summarization engine
+- Multi-language support with graph-based dependency mapping
 
-657 stars · 49 forks · 5 contributors · 41 issues · Rust · MIT
+### <a name="valedesk"></a>[ValeDesk](https://github.com/vakovalskii/ValeDesk)
+**Versatile Almost Local, Eventually Reasonable Assistant 🔫**
 
-    - Rust-based autonomous agent
-    - Sandboxed tool execution
-    - Cross-platform accessibility
-    - Long-term persistent memory
+⭐ 272 · 🍴 44 · 👥 12 · 🛠️ TypeScript
+
+- Versatile multi-domain task handling
+- Near-local inference with minimal cloud dependency
+- Iterative reasoning for eventual accuracy
+- Secure assistant framework with robust safeguards
+
+### <a name="agent-second-brain"></a>[agent-second-brain](https://github.com/smixs/agent-second-brain)
+**The Second Brain Agentic System**
+
+⭐ 116 · 🍴 105 · 👥 2 · 🛠️ Python
+
+- Autonomous Semantic Memory Integration
+- Proactive Task Execution and Workflow Orchestration
+- Agentic Retrieval-Augmented Generation (RAG) for Real-time Synthesis
+- Cross-Platform Interoperability and Ecosystem Synchronization
+
+### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha)
+**Local Topsha 🐧 AI Agent for simple PC tasks - focused on local LLM (GPT-OSS, Qwen, GLM)**
+
+⭐ 94 · 🍴 20 · 👥 6 · 🛠️ Python
+
+- Fully local execution on personal PCs without cloud dependency
+- Supports integration with local LLMs such as GPT-OSS, Qwen, and GLM
+- AI agent designed for automating simple PC tasks
+- Linux-compatible architecture (indicated by 🐧)
+
+### <a name="skillos"></a>[SkillOS](https://github.com/AlexeyPevz/SkillOS)
+**Self-hosted AI agent orchestration framework with skills, policies, approvals, budgets & observability**
+
+⭐ 1 · 🍴 0 · 👥 2 · 🛠️ Python
+
+- Self-hosted deployment
+- AI agent orchestration
+- Modular skills system
+- Policies, approvals, budgets, and observability
 
 ---
 ### @tsingular
-Telegram channel: [@tsingular](https://t.me/tsingular)
+Strategic AI Insights: [@tsingular](https://t.me/tsingular)
