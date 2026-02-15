@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-15 05:04:48*
+*Last updated: 2026-02-15 05:05:34*
 
 | Rank | Framework | Stars | Language | Issues | Updated | Change |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [openclaw](#openclaw) | 194,844 | TypeScript | 5867 | 2026-02-15 | — |
+| 1 | [openclaw](#openclaw) | 194,846 | TypeScript | 5867 | 2026-02-15 | — |
 | 2 | [AutoGPT](#autogpt) | 181,811 | Python | 329 | 2026-02-14 | — |
 | 3 | [opencode](#opencode) | 104,684 | TypeScript | 5204 | 2026-02-15 | — |
 | 4 | [MetaGPT](#metagpt) | 64,188 | Python | 80 | 2026-01-21 | — |
@@ -23,13 +23,13 @@ Curated list of top AI agent frameworks for business and R&D.
 | 13 | [haystack](#haystack) | 24,192 | MDX | 114 | 2026-02-13 | — |
 | 14 | [babyagi](#babyagi) | 22,135 | Python | 17 | 2026-01-31 | — |
 | 15 | [swarm](#swarm) | 20,954 | Python | 16 | 2025-03-11 | — |
-| 16 | [nanobot](#nanobot) | 18,988 | Python | 416 | 2026-02-14 | — |
+| 16 | [nanobot](#nanobot) | 18,989 | Python | 416 | 2026-02-14 | — |
 | 17 | [eliza](#eliza) | 17,509 | TypeScript | 141 | 2026-02-15 | — |
 | 18 | [SuperAGI](#superagi) | 17,171 | Python | 211 | 2025-01-22 | — |
 | 19 | [camel](#camel) | 16,017 | Python | 445 | 2026-02-14 | — |
 | 20 | [pydantic-ai](#pydantic-ai) | 14,889 | Python | 536 | 2026-02-14 | — |
 | 21 | [E2B](#e2b) | 10,897 | MDX | 58 | 2026-02-14 | — |
-| 22 | [picoclaw](#picoclaw) | 8,016 | Go | 73 | 2026-02-15 | — |
+| 22 | [picoclaw](#picoclaw) | 8,017 | Go | 73 | 2026-02-15 | — |
 | 23 | [PraisonAI](#praisonai) | 5,592 | Python | 58 | 2026-02-15 | ↓1 |
 | 24 | [ms-agent](#ms-agent) | 3,978 | Python | 7 | 2026-02-13 | ↓1 |
 | 25 | [agency-swarm](#agency-swarm) | 3,956 | Python | 13 | 2026-02-14 | ↓1 |
@@ -47,7 +47,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 194,844 · 🍴 33,644 · 👥 616 · 🛠️ TypeScript · 📅 2026-02-15
+⭐ 194,846 · 🍴 33,644 · 👥 616 · 🛠️ TypeScript · 📅 2026-02-15
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -195,7 +195,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
 **Ultra-lightweight AI agent kernel. Supports multiple providers, custom skills, cron jobs, and multi-channel communication (Telegram, Slack, etc.).**
 
-⭐ 18,988 · 🍴 2,791 · 👥 46 · 🛠️ Python · 📅 2026-02-14
+⭐ 18,989 · 🍴 2,792 · 👥 46 · 🛠️ Python · 📅 2026-02-14
 
 - Ultra-lightweight, high-performance kernel for resource-efficient AI agent orchestration.
 - Provider-agnostic architecture supporting seamless integration with multiple LLM backends.
@@ -255,7 +255,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **picoclaw**
 
-⭐ 8,016 · 🍴 778 · 👥 41 · 🛠️ Go · 📅 2026-02-15
+⭐ 8,017 · 🍴 779 · 👥 41 · 🛠️ Go · 📅 2026-02-15
 
 - RP2040-based control architecture for low-latency servo management
 - Compact, 3D-printable mechanical design optimized for small-scale robotics
