@@ -4,14 +4,14 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*更新于: 2026-02-17 06:35:39*
+*更新于: 2026-02-17 06:39:44*
 
 | 排名 | 框架 | 星标 | 语言 | 问题 (待处理 / 已修复 / 总计) | 更新 | 变化 |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 202,422 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3394 / 5575 / 8969 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 1 | [openclaw](#openclaw) | 202,423 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3395 / 5575 / 8970 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 2 | [AutoGPT](#autogpt) | 181,835 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 234 / 3487 / 3721 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 3 | [langchain](#langchain) | 126,778 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 230 / 8837 / 9067 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
-| 4 | [opencode](#opencode) | 105,696 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3875 / 4605 / 8480 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
+| 4 | [opencode](#opencode) | 105,697 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3875 / 4605 / 8480 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 5 | [open-interpreter](#open-interpreter) | 62,163 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 241 / 803 / 1044 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 6 | [crewAI](#crewai) | 44,212 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 50 / 1670 / 1720 | ![](https://img.shields.io/badge/-17d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
 | 7 | [agno](#agno) | 37,888 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 267 / 1655 / 1922 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-—-95a5a6?style=flat-square) |
@@ -51,7 +51,7 @@
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **您的专属个人 AI 助手。兼容全系统与全平台。Lobster 范式。🦞**
 
-⭐ 202,422 · 🍴 36,440 · 👥 718 · 🛠️ TypeScript · 📅 1d
+⭐ 202,423 · 🍴 36,440 · 👥 718 · 🛠️ TypeScript · 📅 1d
 
 - 全平台跨系统无缝集成
 - 高度个性化私有化部署
@@ -81,7 +81,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **开源编程智能体**
 
-⭐ 105,696 · 🍴 10,323 · 👥 751 · 🛠️ TypeScript · 📅 Today
+⭐ 105,697 · 🍴 10,323 · 👥 751 · 🛠️ TypeScript · 📅 Today
 
 - 全栈自主开发与复杂任务编排能力
 - 开源架构支持深度定制与私有化部署
@@ -151,10 +151,10 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 ⭐ 22,136 · 🍴 2,849 · 👥 2 · 🛠️ Python · 📅 17d
 
-- 自主任务编排与优先级动态调整机制
-- 基于反馈循环的递归式任务迭代与自我优化
-- 集成向量数据库实现长短期记忆的持久化管理
-- 目标导向的端到端自动化业务流程执行
+- 自主任务编排与闭环执行引擎
+- 基于目标驱动的动态优先级调度
+- 融合向量数据库的长期记忆管理
+- 递归式任务生成与自我演进架构
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
 **超轻量级 AI Agent 核心引擎。支持多模型供应商接入、自定义技能扩展及自动化定时任务，具备 Telegram、Slack 等多渠道集成与交互能力。**
@@ -279,10 +279,10 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 ⭐ 2,776 · 🍴 457 · 👥 51 · 🛠️ Python · 📅 9d
 
-- 全面适配 Claude 系列模型的高级特性集成
-- 基于异步 I/O 的高性能并发请求处理架构
-- 深度集成 Pydantic 的严谨类型安全校验机制
-- 优化用户交互体验的实时流式响应支持
+- 全系模型原生集成：深度适配 Claude 3.5 等核心模型，确保前沿 AI 能力的即时接入。
+- 高性能异步并发支持：内置 asyncio 兼容性，优化大规模生产环境下的响应效率与吞吐量。
+- 企业级类型安全保障：通过 Pydantic 验证与完善的类型提示，降低集成风险并提升代码健壮性。
+- 实时流式交互与工具调用：支持低延迟 SSE 流式输出及复杂函数调用，赋能动态智能体构建。
 
 ### <a name="tinyclaw"></a>[tinyclaw](https://github.com/jlia0/tinyclaw)
 **TinyClaw：协同运作的个人智能体集群。**
