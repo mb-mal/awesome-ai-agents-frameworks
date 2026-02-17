@@ -4,11 +4,11 @@ Curated list of top AI agent frameworks for business and R&D.
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-02-17 06:48:53*
+*Last updated: 2026-02-17 06:48:56*
 
 | Rank | Framework | Stars | Language | Issues (open / fixed / total) | Updated | Change |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 202,468 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3396 / 5575 / 8971 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4179-2eb872?style=flat-square) |
+| 1 | [openclaw](#openclaw) | 202,457 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3396 / 5575 / 8971 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4168-2eb872?style=flat-square) |
 | 2 | [AutoGPT](#autogpt) | 181,835 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 234 / 3487 / 3721 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
 | 3 | [langchain](#langchain) | 126,778 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 230 / 8837 / 9067 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B56-2eb872?style=flat-square) |
 | 4 | [opencode](#opencode) | 105,697 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3875 / 4605 / 8480 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B486-2eb872?style=flat-square) |
@@ -24,7 +24,7 @@ Curated list of top AI agent frameworks for business and R&D.
 | 14 | [eliza](#eliza) | 17,523 | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 104 / 1534 / 1638 | ![](https://img.shields.io/badge/-28d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
 | 15 | [camel](#camel) | 16,032 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 208 / 1202 / 1410 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
 | 16 | [pydantic-ai](#pydantic-ai) | 14,926 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 384 / 1474 / 1858 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B22-2eb872?style=flat-square) |
-| 17 | [picoclaw](#picoclaw) | 13,793 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 90 / 28 / 118 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2344-2eb872?style=flat-square) |
+| 17 | [picoclaw](#picoclaw) | 13,792 | ![](https://img.shields.io/badge/-Go-00add8?style=flat-square) | 90 / 28 / 118 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2343-2eb872?style=flat-square) |
 | 18 | [E2B](#e2b) | 10,911 | ![](https://img.shields.io/badge/-MDX-607d8b?style=flat-square) | 39 / 266 / 305 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
 | 19 | [agent-framework](#agent-framework) | 7,203 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 586 / 1225 / 1811 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
 | 20 | [PraisonAI](#praisonai) | 5,593 | ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square) | 42 / 269 / 311 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--1-e55039?style=flat-square) |
@@ -51,7 +51,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞**
 
-⭐ 202,468 · 🍴 36,454 · 👥 718 · 🛠️ TypeScript · 📅 1d
+⭐ 202,457 · 🍴 36,453 · 👥 718 · 🛠️ TypeScript · 📅 1d
 
 - Cross-operating system compatibility (Any OS)
 - Universal platform support (Any Platform)
@@ -209,7 +209,7 @@ Curated list of top AI agent frameworks for business and R&D.
 ### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
 **Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity**
 
-⭐ 13,793 · 🍴 1,446 · 👥 51 · 🛠️ Go · 📅 4d
+⭐ 13,792 · 🍴 1,446 · 👥 51 · 🛠️ Go · 📅 4d
 
 - Ultra-lightweight architecture optimized for high-speed execution
 - Agnostic deployment capabilities across diverse edge and cloud environments
