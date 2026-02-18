@@ -2,60 +2,60 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*Last updated: 2026-02-18 07:25:57*
+*Last updated: 2026-02-18 18:06:22*
 
 | 排名 | 框架 | 星标 | 许可证 | 语言 | 问题 | 更新 | 变化 |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | [openclaw](#openclaw) | 206,318 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3701 / 5665 / 9366 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3168-2eb872?style=flat-square) |
-| 2 | [open-webui](#open-webui) | 124,204 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 175 / 7456 / 7631 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B71-2eb872?style=flat-square) |
-| 3 | [picoclaw](#picoclaw) | 15,036 |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 104 / 31 / 135 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B998-2eb872?style=flat-square) |
-| 4 | [pydantic-ai](#pydantic-ai) | 14,945 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 388 / 1476 / 1864 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
-| 5 | [PraisonAI](#praisonai) | 5,594 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 42 / 269 / 311 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 6 | [anthropic-sdk-python](#anthropic-sdk-python) | 2,778 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 58 / 247 / 305 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 7 | [moltis](#moltis) | 1,131 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 30 / 22 / 52 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B117-2eb872?style=flat-square) |
-| 8 | [AutoGPT](#autogpt) | 181,853 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 234 / 3487 / 3721 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B15-2eb872?style=flat-square) |
-| 9 | [dify](#dify) | 129,747 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 405 / 16074 / 16479 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B32-2eb872?style=flat-square) |
-| 10 | [langchain](#langchain) | 126,835 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 227 / 8841 / 9068 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B48-2eb872?style=flat-square) |
-| 11 | [opencode](#opencode) | 106,229 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3918 / 4632 / 8550 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B430-2eb872?style=flat-square) |
-| 12 | [open-interpreter](#open-interpreter) | 62,181 | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 241 / 803 / 1044 | ![](https://img.shields.io/badge/-8d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B15-2eb872?style=flat-square) |
-| 13 | [llama_index](#llama_index) | 47,049 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 247 / 6654 / 6901 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
-| 14 | [crewAI](#crewai) | 44,255 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 49 / 1671 / 1720 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
-| 15 | [agno](#agno) | 37,919 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 265 / 1658 / 1923 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
-| 16 | [ChatDev](#chatdev) | 31,010 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 33 / 267 / 300 | ![](https://img.shields.io/badge/-27d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B6-2eb872?style=flat-square) |
-| 17 | [gpt-researcher](#gpt-researcher) | 25,341 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 147 / 496 / 643 | ![](https://img.shields.io/badge/-19d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
-| 18 | [langgraph](#langgraph) | 24,801 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 178 / 976 / 1154 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B30-2eb872?style=flat-square) |
-| 19 | [haystack](#haystack) | 24,224 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-MDX-3178c6?style=flat-square) | 95 / 4116 / 4211 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
-| 20 | [babyagi](#babyagi) | 22,138 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 9 / 147 / 156 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 21 | [letta](#letta) | 21,148 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 34 / 1075 / 1109 | ![](https://img.shields.io/badge/-19d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
-| 22 | [nanobot](#nanobot) | 21,083 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 209 / 46 / 255 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B429-2eb872?style=flat-square) |
-| 23 | [DeepResearch](#deepresearch) | 18,239 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 72 / 116 / 188 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B0-95a5a6?style=flat-square) |
-| 24 | [DB-GPT](#db-gpt) | 18,135 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 425 / 1187 / 1612 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 25 | [adk-python](#adk-python) | 17,794 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 369 / 1779 / 2148 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B39-2eb872?style=flat-square) |
-| 26 | [eliza](#eliza) | 17,528 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 104 / 1534 / 1638 | ![](https://img.shields.io/badge/-29d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B6-2eb872?style=flat-square) |
-| 27 | [camel](#camel) | 16,037 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 210 / 1202 / 1412 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 28 | [llmware](#llmware) | 14,853 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 66 / 100 / 166 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
-| 29 | [E2B](#e2b) | 10,920 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-MDX-3178c6?style=flat-square) | 39 / 266 / 305 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
-| 30 | [agent-framework](#agent-framework) | 7,220 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 586 / 1238 / 1824 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
-| 31 | [ms-agent](#ms-agent) | 3,979 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 6 / 218 / 224 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 32 | [agency-swarm](#agency-swarm) | 3,959 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 144 / 146 | ![](https://img.shields.io/badge/-28d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
-| 33 | [langroid](#langroid) | 3,887 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 46 / 203 / 249 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 34 | [beeai-framework](#beeai-framework) | 3,107 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 505 / 505 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
-| 35 | [tinyclaw](#tinyclaw) | 2,071 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Shell-3178c6?style=flat-square) | 31 / 17 / 48 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B74-2eb872?style=flat-square) |
-| 36 | [LocalAGI](#localagi) | 1,587 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 45 / 43 / 88 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 37 | [sgr-agent-core](#sgr-agent-core) | 993 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 23 / 39 / 62 | ![](https://img.shields.io/badge/-24d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 38 | [FastCode](#fastcode) | 803 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 3 / 5 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B50-2eb872?style=flat-square) |
-| 39 | [ValeDesk](#valedesk) | 276 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 17 / 20 / 37 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 40 | [agent-second-brain](#agent-second-brain) | 121 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-17d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 41 | [topsha](#topsha) | 105 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 3 / 5 / 8 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
-| 42 | [SkillOS](#skillos) | 1 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 43 | [autogen](#autogen) | 54,614 | ![](https://img.shields.io/badge/-CC--BY--4.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 433 / 2494 / 2927 | ![](https://img.shields.io/badge/-141d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B21-2eb872?style=flat-square) |
-| 44 | [aider](#aider) | 40,709 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1150 / 2802 / 3952 | ![](https://img.shields.io/badge/-192d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B15-2eb872?style=flat-square) |
-| 45 | [smolagents](#smolagents) | 25,483 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 204 / 505 / 709 | ![](https://img.shields.io/badge/-33d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B17-2eb872?style=flat-square) |
-| 46 | [swarm](#swarm) | 20,967 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 12 / 5 / 17 | ![](https://img.shields.io/badge/-343d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 47 | [MetaGPT](#metagpt) | 64,270 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 13 / 888 / 901 | ![](https://img.shields.io/badge/-666d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
-| 48 | [AgentGPT](#agentgpt) | 35,712 | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 133 / 337 / 470 | ![](https://img.shields.io/badge/-839d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 49 | [SuperAGI](#superagi) | 17,179 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 150 / 278 / 428 | ![](https://img.shields.io/badge/-763d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 50 | [Adala](#adala) | 1,361 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8 / 8 / 16 | ![](https://img.shields.io/badge/-810d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 1 | [**openclaw**](#openclaw) | 208,012 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3862 / 5699 / 9561 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4862-2eb872?style=flat-square) |
+| 2 | [**nanobot**](#nanobot) | 21,328 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 211 / 46 / 257 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B674-2eb872?style=flat-square) |
+| 3 | [**pydantic-ai**](#pydantic-ai) | 14,951 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 390 / 1477 / 1867 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
+| 4 | [**PraisonAI**](#praisonai) | 5,593 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 42 / 269 / 311 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 5 | [**anthropic-sdk-python**](#anthropic-sdk-python) | 2,780 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 60 / 247 / 307 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
+| 6 | [**topsha**](#topsha) | 107 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 3 / 5 / 8 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B6-2eb872?style=flat-square) |
+| 7 | [**AutoGPT**](#autogpt) | 181,863 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 231 / 3490 / 3721 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
+| 8 | [**dify**](#dify) | 129,767 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 404 / 16077 / 16481 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B52-2eb872?style=flat-square) |
+| 9 | [**langchain**](#langchain) | 126,876 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 231 / 8841 / 9072 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B89-2eb872?style=flat-square) |
+| 10 | [**open-webui**](#open-webui) | 124,248 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 177 / 7457 / 7634 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B115-2eb872?style=flat-square) |
+| 11 | [**opencode**](#opencode) | 106,504 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3944 / 4644 / 8588 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B705-2eb872?style=flat-square) |
+| 12 | [**open-interpreter**](#open-interpreter) | 62,184 | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 241 / 803 / 1044 | ![](https://img.shields.io/badge/-9d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
+| 13 | [**llama_index**](#llama_index) | 47,054 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 245 / 6656 / 6901 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
+| 14 | [**crewAI**](#crewai) | 44,275 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 49 / 1673 / 1722 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B58-2eb872?style=flat-square) |
+| 15 | [**agno**](#agno) | 37,928 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 266 / 1659 / 1925 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B33-2eb872?style=flat-square) |
+| 16 | [**ChatDev**](#chatdev) | 31,015 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 33 / 267 / 300 | ![](https://img.shields.io/badge/-27d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
+| 17 | [**gpt-researcher**](#gpt-researcher) | 25,348 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 147 / 496 / 643 | ![](https://img.shields.io/badge/-20d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
+| 18 | [**langgraph**](#langgraph) | 24,817 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 178 / 976 / 1154 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B46-2eb872?style=flat-square) |
+| 19 | [**haystack**](#haystack) | 24,231 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-MDX-3178c6?style=flat-square) | 92 / 4120 / 4212 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
+| 20 | [**babyagi**](#babyagi) | 22,139 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 9 / 147 / 156 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 21 | [**letta**](#letta) | 21,154 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 34 / 1075 / 1109 | ![](https://img.shields.io/badge/-19d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
+| 22 | [**DeepResearch**](#deepresearch) | 18,241 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 72 / 116 / 188 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 23 | [**DB-GPT**](#db-gpt) | 18,137 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 425 / 1187 / 1612 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 24 | [**adk-python**](#adk-python) | 17,810 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 373 / 1781 / 2154 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B55-2eb872?style=flat-square) |
+| 25 | [**eliza**](#eliza) | 17,533 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 105 / 1534 / 1639 | ![](https://img.shields.io/badge/-29d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
+| 26 | [**camel**](#camel) | 16,044 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 210 / 1204 / 1414 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
+| 27 | [**picoclaw**](#picoclaw) | 15,581 |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 106 / 34 / 140 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1543-2eb872?style=flat-square) |
+| 28 | [**llmware**](#llmware) | 14,852 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 66 / 100 / 166 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
+| 29 | [**E2B**](#e2b) | 10,924 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-MDX-3178c6?style=flat-square) | 39 / 266 / 305 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
+| 30 | [**agent-framework**](#agent-framework) | 7,230 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 584 / 1242 / 1826 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B23-2eb872?style=flat-square) |
+| 31 | [**ms-agent**](#ms-agent) | 3,981 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 6 / 218 / 224 | ![](https://img.shields.io/badge/-12d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 32 | [**agency-swarm**](#agency-swarm) | 3,959 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 144 / 146 | ![](https://img.shields.io/badge/-29d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
+| 33 | [**langroid**](#langroid) | 3,887 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 46 / 203 / 249 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 34 | [**beeai-framework**](#beeai-framework) | 3,108 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 505 / 505 | ![](https://img.shields.io/badge/-7d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 35 | [**tinyclaw**](#tinyclaw) | 2,108 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Shell-3178c6?style=flat-square) | 32 / 17 / 49 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B111-2eb872?style=flat-square) |
+| 36 | [**LocalAGI**](#localagi) | 1,588 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 45 / 43 / 88 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 37 | [**moltis**](#moltis) | 1,157 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 31 / 22 / 53 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B143-2eb872?style=flat-square) |
+| 38 | [**sgr-agent-core**](#sgr-agent-core) | 995 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 22 / 40 / 62 | ![](https://img.shields.io/badge/-24d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
+| 39 | [**FastCode**](#fastcode) | 836 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 3 / 5 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B83-2eb872?style=flat-square) |
+| 40 | [**ValeDesk**](#valedesk) | 277 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 17 / 20 / 37 | ![](https://img.shields.io/badge/-23d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 41 | [**agent-second-brain**](#agent-second-brain) | 123 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-17d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
+| 42 | [**SkillOS**](#skillos) | 1 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-19d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 43 | [**autogen**](#autogen) | 54,621 | ![](https://img.shields.io/badge/-CC--BY--4.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 433 / 2494 / 2927 | ![](https://img.shields.io/badge/-141d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B28-2eb872?style=flat-square) |
+| 44 | [**aider**](#aider) | 40,718 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1150 / 2802 / 3952 | ![](https://img.shields.io/badge/-193d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
+| 45 | [**smolagents**](#smolagents) | 25,486 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 204 / 505 / 709 | ![](https://img.shields.io/badge/-33d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B20-2eb872?style=flat-square) |
+| 46 | [**swarm**](#swarm) | 20,970 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 12 / 5 / 17 | ![](https://img.shields.io/badge/-344d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
+| 47 | [**MetaGPT**](#metagpt) | 64,282 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 13 / 888 / 901 | ![](https://img.shields.io/badge/-667d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B30-2eb872?style=flat-square) |
+| 48 | [**AgentGPT**](#agentgpt) | 35,714 | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 133 / 337 / 470 | ![](https://img.shields.io/badge/-839d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
+| 49 | [**SuperAGI**](#superagi) | 17,179 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 150 / 278 / 428 | ![](https://img.shields.io/badge/-764d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 50 | [**Adala**](#adala) | 1,361 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8 / 8 / 16 | ![](https://img.shields.io/badge/-811d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
 
 ---
 
@@ -79,73 +79,34 @@
 *   **Any OS/Platform:** Translated as **“全系统支持，跨平台运行”** to sound like a professional software solution.
 *   **The Lobster Way:** Translated as **“龙虾之道”** (The Tao/Way of the Lobster), which gives it a philosophical and strategic weight common in tech manifestos.**
 
-⭐ 206,318 · 🍴 37,704 · 🛠️ TypeScript · 📅 Today
+⭐ 208,012 · 🍴 38,217 · 🛠️ TypeScript · 📅 Today
 
 - 个人 AI 助手
 - 支持任何操作系统
 - 全平台兼容
 - 独特的龙虾式风格
 
-### <a name="open-webui"></a>[open-webui](https://github.com/open-webui/open-webui)
-**To convey a **strategic and professional** tone for a GitHub repository, the translation should emphasize accessibility, integration, and positioning within the AI ecosystem.
+### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
+**根据您的要求，为了体现**战略性（Strategic）**和专业感，建议将该描述翻译为以下版本：
 
-Here are a few options depending on the specific "strategic" angle you want to take:
+**首选方案（兼具专业度与力量感）：**
+> 🐈 **nanobot：极轻量化 OpenClaw 架构**
 
-### Option 1: Focus on Ecosystem & Integration (Most Professional)
-> **用户友好的全能 AI 交互界面：深度集成 Ollama、OpenAI API 及主流大模型生态。**
-> *(User-friendly all-around AI interaction interface: Deeply integrating Ollama, OpenAI API, and mainstream LLM ecosystems.)*
+**备选方案（侧重于解决方案定位）：**
+> 🐈 **nanobot：极致轻量级 OpenClaw 解决方案**
 
-### Option 2: Focus on Experience & Vision (More "Next-Gen")
-> **新一代智能化 AI 交互门户：全面兼容 Ollama 与 OpenAI API，重塑大模型应用体验。**
-> *(Next-generation intelligent AI interaction gateway: Fully compatible with Ollama and OpenAI API, reshaping the LLM application experience.)*
+**词汇处理说明：**
+*   **nanobot**: 品牌/项目名，保留原名以维持品牌一致性。
+*   **Ultra-Lightweight**: 翻译为“极轻量化”或“极致轻量级”，比普通的“超轻”更具技术战略感。
+*   **OpenClaw**: 核心技术名词，保留英文原名以体现专业性和国际化定位。
+*   **架构/解决方案**: 增加此类后缀可以提升项目的“战略高度”，使其听起来不仅是一个工具，而是一个完整的技术体系。**
 
-### Option 3: Concise & Impactful (Best for a clean README)
-> **一站式 AI 交互引擎：支持 Ollama 与 OpenAI API，打造极致易用的智能入口。**
-> *(One-stop AI interaction engine: Supporting Ollama and OpenAI API, creating an extremely easy-to-use intelligent entry point.)*
+⭐ 21,328 · 🍴 3,240 · 🛠️ Python · 📅 Today
 
----
-
-### Key Terminology Used:
-*   **User-friendly:** 极致易用 (Extremely easy to use) or 用户友好 (User-friendly).
-*   **Interface:** 交互界面 (Interaction interface) or 门户 (Gateway/Portal).
-*   **Supports:** 深度集成 (Deeply integrated) or 全面兼容 (Fully compatible).
-*   **AI Interface:** AI 交互引擎 (AI Interaction Engine) — *this sounds more "strategic" than just "interface".***
-
-⭐ 124,204 · 🍴 17,554 · 🛠️ Python · 📅 Today
-
-- 用户友好的交互界面
-- 多模型后端支持（如 Ollama 和 OpenAI）
-- 内置 RAG 与文档交互功能
-- 完善的用户管理与权限控制
-
-### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
-**Here are a few ways to translate this description into Chinese, depending on the specific "strategic" nuance you want to convey:
-
-**Option 1: Professional & Impactful (Recommended)**
-> **精悍、极速、全场景部署 —— 告别繁琐重复，释放无限创意。**
-*   *Why:* "精悍" (small but powerful) captures "Tiny" better than just "small." "全场景部署" sounds more strategic and versatile than "deploy anywhere."
-
-**Option 2: Modern & Tech-Forward (Focus on Empowerment)**
-> **轻量高效，随处部署 —— 驱动流程自动化，赋能核心创造力。**
-*   *Why:* Uses "赋能" (empower/enable), a popular strategic term in the Chinese tech industry. It positions the tool as a catalyst for high-value work.
-
-**Option 3: Concise & Visionary (Punchy)**
-> **极简、极速、无界部署 —— 自动化平庸，成就非凡创意。**
-*   *Why:* "无界" (borderless) gives "deployable anywhere" a more ambitious feel. "自动化平庸" (automate the mediocre/mundane) creates a strong contrast with "非凡创意" (extraordinary creativity).
-
-**Key Terminology Breakdown:**
-*   **Tiny:** 精悍 (Small but capable) / 轻量 (Lightweight)
-*   **Fast:** 极速 (Lightning fast) / 高效 (Efficient)
-*   **Deployable anywhere:** 全场景部署 (All-scenario) / 随处部署 (Deploy anywhere)
-*   **Automate the mundane:** 告别繁琐 (Say goodbye to tediousness) / 自动化常规任务 (Automate routine tasks)
-*   **Unleash your creativity:** 释放创意 (Release creativity) / 赋能创造 (Empower creation)**
-
-⭐ 15,036 · 🍴 1,642 · 🛠️ Go · 📅 Today
-
-- 体积小巧
-- 运行高效
-- 随处部署
-- 自动化繁琐任务
+- 超轻量化设计
+- 开源 OpenClaw 架构
+- 高灵活性抓取
+- 结构精简高效
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
 **根据您的要求，为您提供三个兼具专业性与战略高度的中文翻译版本：
@@ -164,7 +125,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **GenAI Agent Framework:** GenAI 智能体框架（目前行业通用术语）。
 *   **The Pydantic way:** 翻译为“范式”或“之道”比单纯的“方式”更具战略感，体现了对 Pydantic 数据验证和建模哲学的深度集成。**
 
-⭐ 14,945 · 🍴 1,646 · 🛠️ Python · 📅 Today
+⭐ 14,951 · 🍴 1,647 · 🛠️ Python · 📅 Today
 
 - 原生集成 Pydantic，提供严谨的类型检查与数据验证
 - 模型无关设计，支持 OpenAI、Anthropic 及 Gemini 等主流模型
@@ -193,7 +154,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Human-agent collaboration:** 人机协同 / 人机协作
 *   **LLM systems:** 大模型系统 / LLM 系统**
 
-⭐ 5,594 · 🍴 762 · 🛠️ Python · 📅 Today
+⭐ 5,593 · 🍴 761 · 🛠️ Python · 📅 Today
 
 - 生产级多智能体框架
 - 低代码构建与管理方案
@@ -203,40 +164,39 @@ Here are a few options depending on the specific "strategic" angle you want to t
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 **None**
 
-⭐ 2,778 · 🍴 457 · 🛠️ Python · 📅 Today
+⭐ 2,780 · 🍴 458 · 🛠️ Python · 📅 Today
 
 - 官方支持 Anthropic API 及 Claude 系列模型
 - 同时支持同步和异步（async/await）调用方式
 - 提供完整的类型提示和 IDE 自动补全支持
 - 支持流式响应（Streaming）以实现实时文本输出
 
-### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
-**根据您的要求，为您提供三个版本的中文翻译，侧重于**战略性（Strategic）**、**专业性**和**技术影响力**：
+### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha)
+**以下是为您翻译的几个版本，采用了更具战略感和专业性的表达方式：
 
-### 版本一：专业精炼版（最推荐，适合 GitHub 简介）
-> **基于 Rust 构建的高性能个人 AI 助手。单二进制架构，集成多模型驱动、长期记忆、沙箱化安全执行及语音交互。深度整合 MCP 工具协议，支持 Web、Telegram 与 API 等多端全场景接入。**
+**版本一（专业稳重型 - 推荐）：**
+> **Local Topsha 🐧：专注于 PC 基础任务自动化的本地 AI 智能体 —— 深度适配 GPT-OSS、Qwen、GLM 等本地大模型。**
 
-### 版本二：战略架构版（强调技术优势与布局）
-> **一款基于 Rust 打造的下一代个人 AI 助手：采用单二进制部署方案，具备多模型兼容性、长期记忆与沙箱化执行环境。通过对语音、MCP 工具及多渠道（Web/Telegram/API）的全面支持，构建安全、可扩展的个人智能中枢。**
+**版本二（简洁有力型）：**
+> **Local Topsha 🐧：赋能 PC 简易任务处理的本地 AI Agent，核心支持 GPT-OSS、通义千问 (Qwen) 及智谱 (GLM) 等开源模型。**
 
-### 版本三：极简有力版（适合 Slogan 或 Readme 标题）
-> **基于 Rust 的全能型个人 AI 助手。单文件极简部署，融合长期记忆、沙箱安全与语音能力。支持 MCP 协议与多模型接入，实现 Web、Telegram 及 API 的多维度交互。**
+**版本三（侧重技术架构）：**
+> **Local Topsha 🐧：基于本地 LLM 的 PC 任务 AI 智能体，旨在通过 GPT-OSS、Qwen、GLM 等模型实现高效的本地化电脑操作自动化。**
 
 ---
 
-**核心术语翻译说明：**
-*   **Single binary:** 单二进制文件 / 单二进制架构（强调部署简单、无依赖）。
-*   **Multi-provider LLMs:** 多模型供应商支持 / 多模型驱动。
-*   **Sandboxed execution:** 沙箱化执行（强调安全性）。
-*   **MCP tools:** MCP 工具协议（Model Context Protocol，行业标准术语）。
-*   **Multi-channel access:** 多渠道接入 / 多端全场景接入。**
+**词汇处理说明：**
+*   **AI Agent**：翻译为“AI 智能体”，这是目前行业内最标准且具战略感的称呼。
+*   **Simple PC tasks**：翻译为“PC 基础任务自动化”或“简易任务处理”，提升了工具的应用价值感。
+*   **Focused on**：翻译为“深度适配”或“核心支持”，体现了技术专注度。
+*   **Local LLM**：保留或翻译为“本地大模型”，强调隐私与本地化部署的优势。**
 
-⭐ 1,131 · 🍴 107 · 🛠️ Rust · 📅 Today
+⭐ 107 · 🍴 22 · 🛠️ Python · 📅 Today
 
-- 基于 Rust 构建的单二进制架构
-- 支持多供应商大模型集成
-- 具备长期记忆与沙箱化执行环境
-- 支持多渠道访问（Web、Telegram、API）
+- 本地化运行与隐私保护
+- 自动化执行 PC 简单任务
+- 支持多种开源大模型（如 Qwen、GLM）
+- 专注本地 LLM 的 AI 智能体
 
 ### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 **这里为您提供几个不同侧重点的翻译，均采用**战略性（Strategic）**语气，旨在体现前瞻性、赋能感和专业深度：
@@ -257,7 +217,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **To build on:** 翻译为“自由构建”或“开发基石”，体现了开源生态的扩展性。
 *   **Focus on what matters:** 翻译为“专注于核心价值”或“聚焦关键事务”，比“重要的事情”更具商业和战略语感。**
 
-⭐ 181,853 · 🍴 46,221 · 🛠️ Python · 📅 7d
+⭐ 181,863 · 🍴 46,224 · 🛠️ Python · 📅 7d
 
 - 人人可用的普及化 AI
 - 支持二次开发与构建
@@ -283,7 +243,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Agentic workflow:** 译为“智能体工作流”，是目前 AI 领域对 Agent 驱动流程的标准表达。
 *   **Platform:** 译为“平台”，体现其作为基础设施的定位。**
 
-⭐ 129,747 · 🍴 20,190 · 🛠️ TypeScript · 📅 6d
+⭐ 129,767 · 🍴 20,197 · 🛠️ TypeScript · 📅 7d
 
 - Agent 工作流编排
 - RAG 管道与知识库管理
@@ -307,12 +267,44 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Reliable** 译为 “可靠”，在技术语境下代表可投入生产环境、稳健。
 *   **Agents** 译为 “智能体”，这是目前 AI 领域对 Agent 最具战略感和专业性的标准译法。**
 
-⭐ 126,835 · 🍴 20,875 · 🛠️ Python · 📅 2d
+⭐ 126,876 · 🍴 20,878 · 🛠️ Python · 📅 3d
 
 - 模块化组件
 - 链式工作流
 - 智能代理构建
 - 数据连接与集成
+
+### <a name="open-webui"></a>[open-webui](https://github.com/open-webui/open-webui)
+**To convey a **strategic and professional** tone for a GitHub repository, the translation should emphasize accessibility, integration, and positioning within the AI ecosystem.
+
+Here are a few options depending on the specific "strategic" angle you want to take:
+
+### Option 1: Focus on Ecosystem & Integration (Most Professional)
+> **用户友好的全能 AI 交互界面：深度集成 Ollama、OpenAI API 及主流大模型生态。**
+> *(User-friendly all-around AI interaction interface: Deeply integrating Ollama, OpenAI API, and mainstream LLM ecosystems.)*
+
+### Option 2: Focus on Experience & Vision (More "Next-Gen")
+> **新一代智能化 AI 交互门户：全面兼容 Ollama 与 OpenAI API，重塑大模型应用体验。**
+> *(Next-generation intelligent AI interaction gateway: Fully compatible with Ollama and OpenAI API, reshaping the LLM application experience.)*
+
+### Option 3: Concise & Impactful (Best for a clean README)
+> **一站式 AI 交互引擎：支持 Ollama 与 OpenAI API，打造极致易用的智能入口。**
+> *(One-stop AI interaction engine: Supporting Ollama and OpenAI API, creating an extremely easy-to-use intelligent entry point.)*
+
+---
+
+### Key Terminology Used:
+*   **User-friendly:** 极致易用 (Extremely easy to use) or 用户友好 (User-friendly).
+*   **Interface:** 交互界面 (Interaction interface) or 门户 (Gateway/Portal).
+*   **Supports:** 深度集成 (Deeply integrated) or 全面兼容 (Fully compatible).
+*   **AI Interface:** AI 交互引擎 (AI Interaction Engine) — *this sounds more "strategic" than just "interface".***
+
+⭐ 124,248 · 🍴 17,559 · 🛠️ Python · 📅 1d
+
+- 用户友好的交互界面
+- 多模型后端支持（如 Ollama 和 OpenAI）
+- 内置 RAG 与文档交互功能
+- 完善的用户管理与权限控制
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **根据您的要求，为了体现“战略性”和“权威性”，以下是几种不同侧重点的中文翻译：
@@ -337,7 +329,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 如果您希望在 GitHub 上展现出一种**“行业标准”**的姿态，建议直接使用：
 **开源 AI 编程智能体** 或 **新一代开源 AI 编程智能体**。**
 
-⭐ 106,229 · 🍴 10,393 · 🛠️ TypeScript · 📅 1d
+⭐ 106,504 · 🍴 10,428 · 🛠️ TypeScript · 📅 1d
 
 - 开源开放
 - 智能编程助手
@@ -362,7 +354,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 **建议：**
 如果该项目旨在成为行业标准或基础架构，建议使用第一种 **“计算机自然语言交互界面”**，这种表述最具“定义权”色彩。**
 
-⭐ 62,181 · 🍴 5,342 · 🛠️ Python · 📅 8d
+⭐ 62,184 · 🍴 5,342 · 🛠️ Python · 📅 9d
 
 - 自然语言控制计算机
 - 支持多种编程语言本地运行
@@ -387,7 +379,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **LLM-powered agents:** 翻译为“LLM 智能体”或“大模型驱动的智能体”，这是目前 AI 领域的标准战略术语。
 *   **Over your data:** 翻译为“基于私有数据”或“基于自有数据”，突出了 LlamaIndex 解决数据孤岛、实现 RAG（检索增强生成）的核心价值。**
 
-⭐ 47,049 · 🍴 6,838 · 🛠️ Python · 📅 7d
+⭐ 47,054 · 🍴 6,841 · 🛠️ Python · 📅 7d
 
 - 数据连接与集成
 - 索引与结构化数据管理
@@ -414,7 +406,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Seamlessly:** 无缝 (Commonly used to describe smooth integration)
 *   **Tackling:** 攻克 / 应对 (Implies overcoming difficulty)**
 
-⭐ 44,255 · 🍴 5,935 · 🛠️ Python · 📅 18d
+⭐ 44,275 · 🍴 5,937 · 🛠️ Python · 📅 18d
 
 - 角色扮演型自主智能体编排
 - 协同智能与团队协作
@@ -422,31 +414,31 @@ Here are a few options depending on the specific "strategic" angle you want to t
 - 复杂任务的处理能力
 
 ### <a name="agno"></a>[agno](https://github.com/agno-agi/agno)
-**根据您的要求，为您提供几个不同侧重点的中文翻译，均保持了专业且具战略高度的语气：
+**这里为您提供几个不同侧重点的中文翻译，均采用专业且具战略高度的措辞：
 
-**方案一：专业稳健型（最推荐，适合官方描述）**
-> **专为智能体软件打造的编程语言。构建具备流式处理、记忆、治理与请求隔离能力的多智能体系统。**
+**方案一：专业权威风（最推荐，适合 GitHub 简介）**
+> **智能体软件专用编程语言：实现多智能体系统的规模化构建、运行与管理。**
 
-**方案二：愿景引领型（更具战略高度）**
-> **定义智能体软件的编程语言。构建集流式交互、持久化记忆、架构治理与请求隔离于一体的多智能体系统。**
+**方案二：愿景引领风（强调行业地位）**
+> **定义智能体软件的编程语言。助力多智能体系统的规模化开发、部署与治理。**
 
-**方案三：技术硬核型（适合开发者社区）**
-> **面向 Agent 软件的编程语言。构建支持流式传输、记忆管理、合规治理及请求隔离的多智能体系统。**
+**方案三：精炼干练风（适合极简风格）**
+> **面向智能体软件的编程语言。规模化构建、运行及管理多智能体系统。**
 
 ---
 
-**核心术语翻译说明：**
-*   **Agentic software:** 翻译为“智能体软件”，这是目前 AI 领域最标准且具战略感的表达。
-*   **Governance:** 翻译为“治理”，体现了对系统可控性、合规性和管理的高级要求。
-*   **Request isolation:** 翻译为“请求隔离”，强调系统在高并发或复杂环境下的稳定性与安全性。
-*   **Streaming:** 翻译为“流式处理”或“流式交互”，体现 Agent 实时反馈的特性。**
+**词汇对齐：**
+*   **Agentic software:** 智能体软件（目前 AI 领域最标准、最具战略感的译法）
+*   **Multi-agent systems:** 多智能体系统
+*   **At scale:** 规模化（体现了从实验室原型到工业级应用的跨越）
+*   **Build, run, and manage:** 构建、运行与管理（涵盖了全生命周期）**
 
-⭐ 37,919 · 🍴 5,019 · 🛠️ Python · 📅 2d
+⭐ 37,928 · 🍴 5,023 · 🛠️ Python · 📅 2d
 
-- 多智能体系统构建
-- 流式传输支持
-- 记忆管理能力
-- 治理与请求隔离
+- 专为智能体软件设计的编程语言
+- 构建多智能体系统
+- 运行与管理多智能体架构
+- 支持大规模扩展与部署
 
 ### <a name="chatdev"></a>[ChatDev](https://github.com/OpenBMB/ChatDev)
 **根据您的要求，为您提供几个不同侧重点的战略性翻译：
@@ -465,7 +457,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **LLM-powered:** 译为“大模型驱动”或“大模型赋能”，体现技术核心。
 *   **Multi-Agent Collaboration:** 译为“多智能体协作/协同”，这是目前 AI 领域的标准专业术语。**
 
-⭐ 31,010 · 🍴 3,821 · 🛠️ Python · 📅 27d
+⭐ 31,015 · 🍴 3,820 · 🛠️ Python · 📅 27d
 
 - 多智能体协作
 - 全流程自动化软件开发
@@ -490,7 +482,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Any data:** 翻译为“全场景数据”或“全量数据”，比“任何数据”更具商业和战略高度。
 *   **Any LLM providers:** 翻译为“多模型驱动”或“兼容任意大模型提供商”，强调其灵活性和适配性。**
 
-⭐ 25,341 · 🍴 3,363 · 🛠️ Python · 📅 19d
+⭐ 25,348 · 🍴 3,366 · 🛠️ Python · 📅 20d
 
 - 自主化研究代理
 - 深度内容调研
@@ -517,7 +509,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Language agents:** 语言智能体（行业标准术语）。
 *   **As graphs:** 以图结构为核心 / 基于图结构（强调底层逻辑从线性转向复杂的图拓扑结构）。**
 
-⭐ 24,801 · 🍴 4,326 · 🛠️ Python · 📅 3d
+⭐ 24,817 · 🍴 4,334 · 🛠️ Python · 📅 3d
 
 - 支持循环与迭代的图结构控制流
 - 内置状态管理与检查点持久化
@@ -549,7 +541,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Semantic search:** 语义搜索
 *   **Conversational systems:** 对话系统**
 
-⭐ 24,224 · 🍴 2,610 · 🛠️ MDX · 📅 5d
+⭐ 24,231 · 🍴 2,611 · 🛠️ MDX · 📅 6d
 
 - 开源AI编排框架
 - 模块化流水线与智能体工作流设计
@@ -559,7 +551,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 **None**
 
-⭐ 22,138 · 🍴 2,848 · 🛠️ Python · 📅 18d
+⭐ 22,139 · 🍴 2,848 · 🛠️ Python · 📅 18d
 
 - 任务自动创建、优先级排序与执行的闭环管理
 - 基于大语言模型（LLM）的自主推理与决策能力
@@ -584,34 +576,12 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Self-improve:** 自我进化 / 自我完善 / 自我迭代.
 *   **Over time:** 随时间推移 / 持续.**
 
-⭐ 21,148 · 🍴 2,205 · 🛠️ Python · 📅 19d
+⭐ 21,154 · 🍴 2,205 · 🛠️ Python · 📅 19d
 
 - 构建有状态智能体
 - 高级记忆系统
 - 持续学习能力
 - 自我进化与改进
-
-### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
-**根据您的要求，为了体现**战略性（Strategic）**和专业感，建议将该描述翻译为以下版本：
-
-**首选方案（兼具专业度与力量感）：**
-> 🐈 **nanobot：极轻量化 OpenClaw 架构**
-
-**备选方案（侧重于解决方案定位）：**
-> 🐈 **nanobot：极致轻量级 OpenClaw 解决方案**
-
-**词汇处理说明：**
-*   **nanobot**: 品牌/项目名，保留原名以维持品牌一致性。
-*   **Ultra-Lightweight**: 翻译为“极轻量化”或“极致轻量级”，比普通的“超轻”更具技术战略感。
-*   **OpenClaw**: 核心技术名词，保留英文原名以体现专业性和国际化定位。
-*   **架构/解决方案**: 增加此类后缀可以提升项目的“战略高度”，使其听起来不仅是一个工具，而是一个完整的技术体系。**
-
-⭐ 21,083 · 🍴 3,191 · 🛠️ Python · 📅 5d
-
-- 超轻量化设计
-- 开源 OpenClaw 架构
-- 高灵活性抓取
-- 结构精简高效
 
 ### <a name="deepresearch"></a>[DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 **根据您的要求，为您提供几个不同侧重点的战略性翻译：
@@ -631,7 +601,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Open-source:** 开源
 *   **Deep Research Agent:** 深度研究智能体（“智能体”是目前 AI 领域对 Agent 的标准专业翻译）**
 
-⭐ 18,239 · 🍴 1,403 · 🛠️ Python · 📅 11d
+⭐ 18,241 · 🍴 1,404 · 🛠️ Python · 📅 11d
 
 - 开源领先的智能体架构
 - 深度自主调研与分析
@@ -654,7 +624,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 **翻译亮点：**
 该翻译采用了技术文档中常见的“基于...构建”的句式，突出了 AWEL 和 Agents 作为核心技术底座的地位，同时保留了“AI 原生”这一极具战略前瞻性的行业术语。**
 
-⭐ 18,135 · 🍴 2,560 · 🛠️ Python · 📅 7d
+⭐ 18,137 · 🍴 2,559 · 🛠️ Python · 📅 7d
 
 - AI原生数据应用开发框架
 - AWEL（智能体工作流表达式语言）
@@ -682,7 +652,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Toolkit:** 工具包/工具链 (Gōngjù bāo/liàn)
 *   **Flexibility and control:** 灵活性与掌控力 (Línghuó xìng yǔ zhǎngkòng lì)**
 
-⭐ 17,794 · 🍴 2,926 · 🛠️ Python · 📅 6d
+⭐ 17,810 · 🍴 2,930 · 🛠️ Python · 📅 6d
 
 - 开源且代码优先的 Python 工具包
 - 支持 AI 智能体的构建、评估与部署全流程
@@ -711,7 +681,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 **建议：**
 如果该项目侧重于**降低门槛**，建议用第一种；如果侧重于**宏大愿景**，建议用第二种。在中文语境下，“触手可及”或“赋能”比直译的“为每个人”更具战略动感。**
 
-⭐ 17,528 · 🍴 5,416 · 🛠️ TypeScript · 📅 29d
+⭐ 17,533 · 🍴 5,418 · 🛠️ TypeScript · 📅 29d
 
 - 多平台集成（支持 Discord、Twitter 和 Telegram 等）
 - 强大的记忆管理系统（包含长期记忆与 RAG 功能）
@@ -738,12 +708,41 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Multi-agent framework:** 多智能体框架.
 *   **Scaling Law:** Often kept in English or translated as "规模定律" within the AI community. Using both ensures clarity and technical accuracy.**
 
-⭐ 16,037 · 🍴 1,779 · 🛠️ Python · 📅 5d
+⭐ 16,044 · 🍴 1,779 · 🛠️ Python · 📅 6d
 
 - 首个多智能体框架
 - 探索智能体规模法则
 - 领先的自主智能体系统
 - 角色扮演式协作模式
+
+### <a name="picoclaw"></a>[picoclaw](https://github.com/sipeed/picoclaw)
+**Here are a few ways to translate this description into Chinese, depending on the specific "strategic" nuance you want to convey:
+
+**Option 1: Professional & Impactful (Recommended)**
+> **精悍、极速、全场景部署 —— 告别繁琐重复，释放无限创意。**
+*   *Why:* "精悍" (small but powerful) captures "Tiny" better than just "small." "全场景部署" sounds more strategic and versatile than "deploy anywhere."
+
+**Option 2: Modern & Tech-Forward (Focus on Empowerment)**
+> **轻量高效，随处部署 —— 驱动流程自动化，赋能核心创造力。**
+*   *Why:* Uses "赋能" (empower/enable), a popular strategic term in the Chinese tech industry. It positions the tool as a catalyst for high-value work.
+
+**Option 3: Concise & Visionary (Punchy)**
+> **极简、极速、无界部署 —— 自动化平庸，成就非凡创意。**
+*   *Why:* "无界" (borderless) gives "deployable anywhere" a more ambitious feel. "自动化平庸" (automate the mediocre/mundane) creates a strong contrast with "非凡创意" (extraordinary creativity).
+
+**Key Terminology Breakdown:**
+*   **Tiny:** 精悍 (Small but capable) / 轻量 (Lightweight)
+*   **Fast:** 极速 (Lightning fast) / 高效 (Efficient)
+*   **Deployable anywhere:** 全场景部署 (All-scenario) / 随处部署 (Deploy anywhere)
+*   **Automate the mundane:** 告别繁琐 (Say goodbye to tediousness) / 自动化常规任务 (Automate routine tasks)
+*   **Unleash your creativity:** 释放创意 (Release creativity) / 赋能创造 (Empower creation)**
+
+⭐ 15,581 · 🍴 1,728 · 🛠️ Go · 📅 1d
+
+- 体积小巧
+- 运行高效
+- 随处部署
+- 自动化繁琐任务
 
 ### <a name="llmware"></a>[llmware](https://github.com/llmware-ai/llmware)
 **根据您的要求，为您提供三个版本的翻译，侧重点略有不同，但均保持了战略性的专业语调：
@@ -765,7 +764,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Small, specialized models:** 小型专业化模型（精准对应当前 SLM 和领域模型趋势）。
 *   **Building:** 构建（比“建立”或“做”更具架构感）。**
 
-⭐ 14,853 · 🍴 2,965 · 🛠️ Python · 📅 6d
+⭐ 14,852 · 🍴 2,962 · 🛠️ Python · 📅 7d
 
 - 统一的企业级 RAG 开发框架
 - 专注于小型专业化模型应用
@@ -792,7 +791,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Secure environment**: 翻译为“**安全环境**”，在企业级语境下，安全是核心战略考量。
 *   **Open-source**: **开源**，体现社区驱动与透明度。**
 
-⭐ 10,920 · 🍴 773 · 🛠️ MDX · 📅 6d
+⭐ 10,924 · 🍴 772 · 🛠️ MDX · 📅 6d
 
 - 开源
 - 安全沙箱环境
@@ -821,7 +820,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Framework:** 框架
 *   **Deploying:** 部署**
 
-⭐ 7,220 · 🍴 1,174 · 🛠️ Python · 📅 5d
+⭐ 7,230 · 🍴 1,176 · 🛠️ Python · 📅 5d
 
 - AI 智能体构建、编排与部署
 - 多智能体工作流支持
@@ -847,7 +846,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Agentic execution:** 翻译为“智能体化执行”或“自主执行”，精准捕捉了 Agent 自动决策并执行任务的核心特性。
 *   **Lightweight:** 翻译为“轻量级”，体现了框架的灵活性与低门槛。**
 
-⭐ 3,979 · 🍴 460 · 🛠️ Python · 📅 11d
+⭐ 3,981 · 🍴 460 · 🛠️ Python · 📅 12d
 
 - 轻量级框架设计
 - 赋能复杂任务处理
@@ -872,7 +871,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Orchestration:** 翻译为“编排”，在云原生和分布式系统中代表了高层次的自动化管理与协同。
 *   **Framework:** 翻译为“框架”，体现其作为基础设施的定位。**
 
-⭐ 3,959 · 🍴 999 · 🛠️ Python · 📅 28d
+⭐ 3,959 · 🍴 1,000 · 🛠️ Python · 📅 29d
 
 - 基于角色的多智能体协作架构
 - 分层级的通信与任务编排机制
@@ -900,7 +899,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 **建议选择：**
 如果该项目侧重于**工具属性和掌控力**，推荐方案一；如果侧重于**技术创新和未来趋势**，推荐方案三。**
 
-⭐ 3,887 · 🍴 358 · 🛠️ Python · 📅 6d
+⭐ 3,887 · 🍴 358 · 🛠️ Python · 📅 7d
 
 - 多智能体编程范式
 - 层次化任务委派与协作
@@ -927,7 +926,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **AI agents:** AI 智能体 (AI zhìnéng-tǐ)
 *   **Build:** 构建 (Gòujiàn) or 打造 (Dǎozào)**
 
-⭐ 3,107 · 🍴 407 · 🛠️ Python · 📅 6d
+⭐ 3,108 · 🍴 407 · 🛠️ Python · 📅 7d
 
 - 支持 Python 和 TypeScript 双语言开发
 - 专注于构建生产级 AI 智能体
@@ -954,7 +953,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Collaborate**：翻译为“协同”而非简单的“合作”，更能体现系统间的有机整合。
 *   **Team**：根据语境处理为“集群”、“团队”或“架构”，以增强战略厚度。**
 
-⭐ 2,071 · 🍴 288 · 🛠️ Shell · 📅 2d
+⭐ 2,108 · 🍴 292 · 🛠️ Shell · 📅 2d
 
 - 个人智能体团队
 - 多智能体协同工作
@@ -982,12 +981,40 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Consumer-grade hardware:** 消费级硬件
 *   **No clouds:** 无需云端 / 零云端依赖**
 
-⭐ 1,587 · 🍴 241 · 🛠️ Go · 📅 1d
+⭐ 1,588 · 🍴 241 · 🛠️ Go · 📅 1d
 
 - 自托管与极致隐私保护
 - 完全兼容 OpenAI API
 - 先进的智能体 (Agent) 能力
 - 支持消费级硬件本地运行
+
+### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
+**根据您的要求，为您提供三个版本的中文翻译，侧重于**战略性（Strategic）**、**专业性**和**技术影响力**：
+
+### 版本一：专业精炼版（最推荐，适合 GitHub 简介）
+> **基于 Rust 构建的高性能个人 AI 助手。单二进制架构，集成多模型驱动、长期记忆、沙箱化安全执行及语音交互。深度整合 MCP 工具协议，支持 Web、Telegram 与 API 等多端全场景接入。**
+
+### 版本二：战略架构版（强调技术优势与布局）
+> **一款基于 Rust 打造的下一代个人 AI 助手：采用单二进制部署方案，具备多模型兼容性、长期记忆与沙箱化执行环境。通过对语音、MCP 工具及多渠道（Web/Telegram/API）的全面支持，构建安全、可扩展的个人智能中枢。**
+
+### 版本三：极简有力版（适合 Slogan 或 Readme 标题）
+> **基于 Rust 的全能型个人 AI 助手。单文件极简部署，融合长期记忆、沙箱安全与语音能力。支持 MCP 协议与多模型接入，实现 Web、Telegram 及 API 的多维度交互。**
+
+---
+
+**核心术语翻译说明：**
+*   **Single binary:** 单二进制文件 / 单二进制架构（强调部署简单、无依赖）。
+*   **Multi-provider LLMs:** 多模型供应商支持 / 多模型驱动。
+*   **Sandboxed execution:** 沙箱化执行（强调安全性）。
+*   **MCP tools:** MCP 工具协议（Model Context Protocol，行业标准术语）。
+*   **Multi-channel access:** 多渠道接入 / 多端全场景接入。**
+
+⭐ 1,157 · 🍴 110 · 🛠️ Rust · 📅 1d
+
+- 基于 Rust 构建的单二进制架构
+- 支持多供应商大模型集成
+- 具备长期记忆与沙箱化执行环境
+- 支持多渠道访问（Web、Telegram、API）
 
 ### <a name="sgr-agent-core"></a>[sgr-agent-core](https://github.com/vamplabAI/sgr-agent-core)
 **根据您的要求，为您提供几个不同侧重点的战略性中文翻译：
@@ -1010,7 +1037,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Agentic system design:** 智能体系统设计（“Agentic”在 AI 领域通常译为“智能体”或“代理式”）
 *   **neuraldeep community:** neuraldeep 社区（品牌名建议保留英文）**
 
-⭐ 993 · 🍴 170 · 🛠️ Python · 📅 24d
+⭐ 995 · 🍴 171 · 🛠️ Python · 📅 24d
 
 - 模式引导推理 (Schema-Guided Reasoning)
 - 智能体系统架构设计
@@ -1037,7 +1064,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Streamlining:** 优化 (Yōuhuà - Optimize) / 精简 (Jīngjiǎn - Simplify/Streamline)
 *   **Code Understanding:** 代码理解 (Dàimǎ lǐjiě) / 代码认知 (Dàimǎ rènzhī)**
 
-⭐ 803 · 🍴 94 · 🛠️ Python · 📅 4d
+⭐ 836 · 🍴 96 · 🛠️ Python · 📅 5d
 
 - 极速代码分析
 - 简化理解流程
@@ -1061,7 +1088,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 
 **建议选择方案一**，它在中文语境下最具“战略高度”，听起来像是一个经过深思熟虑的技术架构。**
 
-⭐ 276 · 🍴 47 · 🛠️ TypeScript · 📅 22d
+⭐ 277 · 🍴 47 · 🛠️ TypeScript · 📅 23d
 
 - 多功能全能助手
 - 近乎本地化运行
@@ -1084,39 +1111,12 @@ Here are a few options depending on the specific "strategic" angle you want to t
 如果您希望强调该项目的**前瞻性与架构深度**，推荐使用：
 > **自主化第二大脑智能体系****
 
-⭐ 121 · 🍴 115 · 🛠️ Python · 📅 17d
+⭐ 123 · 🍴 117 · 🛠️ Python · 📅 17d
 
 - 智能知识检索与管理
 - 自主任务规划与执行
 - 多源数据整合与同步
 - 个性化记忆与长期学习
-
-### <a name="topsha"></a>[topsha](https://github.com/vakovalskii/topsha)
-**以下是为您翻译的几个版本，采用了更具战略感和专业性的表达方式：
-
-**版本一（专业稳重型 - 推荐）：**
-> **Local Topsha 🐧：专注于 PC 基础任务自动化的本地 AI 智能体 —— 深度适配 GPT-OSS、Qwen、GLM 等本地大模型。**
-
-**版本二（简洁有力型）：**
-> **Local Topsha 🐧：赋能 PC 简易任务处理的本地 AI Agent，核心支持 GPT-OSS、通义千问 (Qwen) 及智谱 (GLM) 等开源模型。**
-
-**版本三（侧重技术架构）：**
-> **Local Topsha 🐧：基于本地 LLM 的 PC 任务 AI 智能体，旨在通过 GPT-OSS、Qwen、GLM 等模型实现高效的本地化电脑操作自动化。**
-
----
-
-**词汇处理说明：**
-*   **AI Agent**：翻译为“AI 智能体”，这是目前行业内最标准且具战略感的称呼。
-*   **Simple PC tasks**：翻译为“PC 基础任务自动化”或“简易任务处理”，提升了工具的应用价值感。
-*   **Focused on**：翻译为“深度适配”或“核心支持”，体现了技术专注度。
-*   **Local LLM**：保留或翻译为“本地大模型”，强调隐私与本地化部署的优势。**
-
-⭐ 105 · 🍴 22 · 🛠️ Python · 📅 1d
-
-- 本地化运行与隐私保护
-- 自动化执行 PC 简单任务
-- 支持多种开源大模型（如 Qwen、GLM）
-- 专注本地 LLM 的 AI 智能体
 
 ### <a name="skillos"></a>[SkillOS](https://github.com/AlexeyPevz/SkillOS)
 **根据您的要求，为您提供三个版本的中文翻译，侧重点略有不同，但均保持了战略和专业语调：
@@ -1141,7 +1141,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Budgets:** 预算约束 / 成本管控
 *   **Observability:** 全链路可观测性 / 多维可观测性**
 
-⭐ 1 · 🍴 0 · 🛠️ Python · 📅 18d
+⭐ 1 · 🍴 0 · 🛠️ Python · 📅 19d
 
 - 自托管 AI 智能体编排框架
 - 灵活的技能与策略管理机制
@@ -1167,7 +1167,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Agentic AI：** 翻译为“智能体 AI”。这是目前业界对具有自主性、推理和执行能力的 AI 系统的标准称呼。
 *   **Programming framework：** 翻译为“编程框架”或“开发框架”。**
 
-⭐ 54,614 · 🍴 8,226 · 🛠️ Python · 📅 141d
+⭐ 54,621 · 🍴 8,227 · 🛠️ Python · 📅 141d
 
 - 多智能体对话框架
 - 可定制且可对话的智能体
@@ -1191,7 +1191,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Terminal**：翻译为“终端”，体现其命令行工具的属性。
 *   **Strategic Tone**：在中文语境下，通过使用“助手”、“效能”或“原生”等词汇，可以提升工具的专业感和定位高度。**
 
-⭐ 40,709 · 🍴 3,898 · 🛠️ Python · 📅 192d
+⭐ 40,718 · 🍴 3,897 · 🛠️ Python · 📅 193d
 
 - 在终端中进行交互式 AI 结对编程
 - 直接编辑本地源代码并自动提交 Git 变更
@@ -1218,7 +1218,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Agents:** 智能体
 *   **Think in code:** 以代码进行思考 / 代码驱动型逻辑**
 
-⭐ 25,483 · 🍴 2,300 · 🛠️ Python · 📅 33d
+⭐ 25,486 · 🍴 2,300 · 🛠️ Python · 📅 33d
 
 - 以代码为核心的推理方式
 - 极简且轻量级的库设计
@@ -1250,7 +1250,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Managed by:** 由……管理 / 维护
 *   **OpenAI Solution team:** OpenAI 解决方案团队**
 
-⭐ 20,967 · 🍴 2,233 · 🛠️ Python · 📅 343d
+⭐ 20,970 · 🍴 2,232 · 🛠️ Python · 📅 344d
 
 - 教育性框架
 - 轻量级多智能体编排
@@ -1277,7 +1277,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Towards:** 迈向 / 致力于 / 开启（体现前瞻性）
 *   **Natural Language Programming:** 自然语言编程（技术愿景核心）**
 
-⭐ 64,270 · 🍴 8,075 · 🛠️ Python · 📅 666d
+⭐ 64,282 · 🍴 8,076 · 🛠️ Python · 📅 667d
 
 - 多智能体框架
 - 首个AI软件公司
@@ -1302,7 +1302,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Deploy**：译为“部署”，体现从开发到落地的完整生命周期。
 *   **In your browser**：译为“在浏览器中”或“浏览器原生”，强调无需复杂环境配置的战略优势。**
 
-⭐ 35,712 · 🍴 9,449 · 🛠️ TypeScript · 📅 839d
+⭐ 35,714 · 🍴 9,450 · 🛠️ TypeScript · 📅 839d
 
 - 组装自定义AI智能体
 - 灵活配置智能体参数
@@ -1330,7 +1330,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Enabling:** 赋能 / 助力
 *   **Quickly and reliably:** 高效且可靠 / 快速且稳定**
 
-⭐ 17,179 · 🍴 2,156 · 🛠️ Python · 📅 763d
+⭐ 17,179 · 🍴 2,156 · 🛠️ Python · 📅 764d
 
 - 开发者优先的架构设计
 - 开源自主AI智能体框架
@@ -1350,7 +1350,7 @@ Here are a few options depending on the specific "strategic" angle you want to t
 *   **Agent (智能体):** 这是当前 AI 领域的核心战略术语，指代具有感知、决策和执行能力的实体。
 *   **Framework (框架):** 体现了其作为底层支撑和可扩展性的定位。**
 
-⭐ 1,361 · 🍴 124 · 🛠️ Python · 📅 810d
+⭐ 1,361 · 🍴 124 · 🛠️ Python · 📅 811d
 
 - 自主学习与迭代优化
 - 模块化的技能与运行时架构
