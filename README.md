@@ -868,3 +868,11 @@
 - Iterative learning through feedback loops
 - Extensible framework for diverse data processing tasks
 
+### <a name="remoteopenclaw"></a>[RemoteOpenClaw](https://remoteopenclaw.com)
+**Open marketplace for AI skills and personas built on OpenClaw.**
+
+- Open marketplace for discovering and distributing AI agent skills
+- Community-built AI personas and skills sharing
+- Buy and sell premium AI capabilities
+- Built on the open-source OpenClaw standard
+
