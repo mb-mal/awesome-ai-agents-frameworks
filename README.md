@@ -520,6 +520,16 @@
 - Real-world tools
 - Enterprise-grade infrastructure
 
+### <a name="octopal"></a>[Octopal](https://github.com/pmbstyle/Octopal)
+**Secure multi-agent runtime with isolated workers and policy-controlled execution**
+
+⭐ 4 · 🍴 1 · 🛠️ Python · 📅 0d · [📈 Star History](https://star-history.com/#pmbstyle/Octopal&Date)
+
+- Local-first autonomous runtime
+- Isolated worker execution with strict boundaries
+- Filesystem allowlists and protected secrets by default
+- Built-in tools, skills, scheduling, and dashboard
+
 ### <a name="autoresearchclaw"></a>[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
 **Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞**
 
