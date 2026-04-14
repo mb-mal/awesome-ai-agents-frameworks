@@ -2,7 +2,7 @@
 
 [EN](README.md) | **RU** | [ZH](README_ZH.md)
 
-*Last updated: 2026-04-14 20:43:23*
+*Last updated: 2026-04-14 20:44:28*
 
 | № | Фреймворк | Звезды | Лицензия | Язык | Задачи | Обновлен | Изм. |
 | :--- | :--- | ---: | :---: | :---: | :---: | :---: | :---: |
@@ -31,7 +31,7 @@
 | 23 | [**`dify`**](#dify) | 137,764 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 409 / 16935 / 17344 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B284-2eb872?style=flat-square) |
 | 24 | [**`langchain`**](#langchain) | 133,544 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 361 / 9018 / 9379 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B221-2eb872?style=flat-square) |
 | 25 | [**`open-webui`**](#open-webui) | 131,849 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 124 / 8042 / 8166 | ![](https://img.shields.io/badge/-18d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B337-2eb872?style=flat-square) |
-| 26 | [**`hermes-agent`**](#hermes-agent) | 83,874 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1550 / 787 / 2337 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13542-2eb872?style=flat-square) |
+| 26 | [**`hermes-agent`**](#hermes-agent) | 83,875 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1550 / 787 / 2337 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13543-2eb872?style=flat-square) |
 | 27 | [**`vllm`**](#vllm) | 76,592 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1827 / 12903 / 14730 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B255-2eb872?style=flat-square) |
 | 28 | [**`paperclip`**](#paperclip) | 53,607 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 982 / 187 / 1169 | ![](https://img.shields.io/badge/-10d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1099-2eb872?style=flat-square) |
 | 29 | [**`crewAI`**](#crewai) | 48,875 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 81 / 1802 / 1883 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B140-2eb872?style=flat-square) |
@@ -42,7 +42,7 @@
 | 34 | [**`picoclaw`**](#picoclaw) | 28,143 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 155 / 520 / 675 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B66-2eb872?style=flat-square) |
 | 35 | [**`mlflow`**](#mlflow) | 25,356 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1481 / 3751 / 5232 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B51-2eb872?style=flat-square) |
 | 36 | [**`haystack`**](#haystack) | 24,831 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-MDX-3178c6?style=flat-square) | 99 / 4205 / 4304 | ![](https://img.shields.io/badge/-13d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B10-2eb872?style=flat-square) |
-| 37 | [**`strix`**](#strix) | 23,731 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 51 / 106 / 157 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B0-95a5a6?style=flat-square) |
+| 37 | [**`strix`**](#strix) | 23,731 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 51 / 106 / 157 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 38 | [**`letta`**](#letta) | 22,052 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 65 / 1131 / 1196 | ![](https://img.shields.io/badge/-14d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B26-2eb872?style=flat-square) |
 | 39 | [**`swarm`**](#swarm) | 21,308 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 18 / 6 / 24 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
 | 40 | [**`deepagents`**](#deepagents) | 20,721 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 140 / 500 / 640 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B192-2eb872?style=flat-square) |
@@ -54,7 +54,7 @@
 | 46 | [**`ironclaw`**](#ironclaw) | 11,763 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 421 / 433 / 854 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B58-2eb872?style=flat-square) |
 | 47 | [**`E2B`**](#e2b) | 11,716 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 41 / 288 / 329 | ![](https://img.shields.io/badge/-12d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B37-2eb872?style=flat-square) |
 | 48 | [**`AutoResearchClaw`**](#autoresearchclaw) | 11,150 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 128 / 130 | ![](https://img.shields.io/badge/-13d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B95-2eb872?style=flat-square) |
-| 49 | [**`agent-framework`**](#agent-framework) | 9,447 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 589 / 1698 / 2287 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B67-2eb872?style=flat-square) |
+| 49 | [**`agent-framework`**](#agent-framework) | 9,446 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 589 / 1698 / 2287 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B66-2eb872?style=flat-square) |
 | 50 | [**`agent-orchestrator`**](#agent-orchestrator) | 6,243 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 287 / 130 / 417 | ![](https://img.shields.io/badge/-16d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B46-2eb872?style=flat-square) |
 | 51 | [**`ClawTeam`**](#clawteam) | 4,761 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 19 / 36 / 55 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B44-2eb872?style=flat-square) |
 | 52 | [**`ms-agent`**](#ms-agent) | 4,161 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8 / 219 / 227 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B9-2eb872?style=flat-square) |
@@ -75,18 +75,19 @@
 | 67 | [**`babyagi`**](#babyagi) | 22,226 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 14 / 147 / 161 | ![](https://img.shields.io/badge/-73d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
 | 68 | [**`DeepResearch`**](#deepresearch) | 18,662 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 79 / 116 / 195 | ![](https://img.shields.io/badge/-46d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B17-2eb872?style=flat-square) |
 | 69 | [**`eliza`**](#eliza) | 18,181 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 0 / 1709 / 1709 | ![](https://img.shields.io/badge/-84d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
-| 70 | [**`OpenAgentsControl`**](#openagentscontrol) | 3,493 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 30 / 75 / 105 | ![](https://img.shields.io/badge/-74d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B51-2eb872?style=flat-square) |
-| 71 | [**`OpenJarvis`**](#openjarvis) | 2,624 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 25 / 33 / 58 | ![](https://img.shields.io/badge/-33d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B95-2eb872?style=flat-square) |
-| 72 | [**`FastCode`**](#fastcode) | 2,132 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 5 / 13 / 18 | ![](https://img.shields.io/badge/-48d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 73 | [**`LocalAGI`**](#localagi) | 1,736 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 53 / 44 / 97 | ![](https://img.shields.io/badge/-56d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
-| 74 | [**`KVDesk`**](#kvdesk) | 321 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 21 / 24 / 45 | ![](https://img.shields.io/badge/-78d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 75 | [**`agent-second-brain`**](#agent-second-brain) | 235 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-47d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 76 | [**`topsha`**](#topsha) | 145 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 6 / 8 | ![](https://img.shields.io/badge/-55d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 77 | [**`SkillOS`**](#skillos) | 1 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-74d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 78 | [**`MetaGPT`**](#metagpt) | 67,065 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 27 / 904 / 931 | ![](https://img.shields.io/badge/-722d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B86-2eb872?style=flat-square) |
-| 79 | [**`AgentGPT`**](#agentgpt) | 35,985 | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 132 / 337 / 469 | ![](https://img.shields.io/badge/-894d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
-| 80 | [**`SuperAGI`**](#superagi) | 17,446 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 167 / 278 / 445 | ![](https://img.shields.io/badge/-819d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B9-2eb872?style=flat-square) |
-| 81 | [**`Adala`**](#adala) | 1,422 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8 / 8 / 16 | ![](https://img.shields.io/badge/-866d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 70 | [**`hexstrike-ai`**](#hexstrike-ai) | 8,086 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 48 / 58 / 106 | ![](https://img.shields.io/badge/-38d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B0-95a5a6?style=flat-square) |
+| 71 | [**`OpenAgentsControl`**](#openagentscontrol) | 3,493 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 30 / 75 / 105 | ![](https://img.shields.io/badge/-74d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B51-2eb872?style=flat-square) |
+| 72 | [**`OpenJarvis`**](#openjarvis) | 2,625 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 25 / 33 / 58 | ![](https://img.shields.io/badge/-33d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B96-2eb872?style=flat-square) |
+| 73 | [**`FastCode`**](#fastcode) | 2,132 |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 5 / 13 / 18 | ![](https://img.shields.io/badge/-48d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 74 | [**`LocalAGI`**](#localagi) | 1,736 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 53 / 44 / 97 | ![](https://img.shields.io/badge/-56d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
+| 75 | [**`KVDesk`**](#kvdesk) | 321 |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 21 / 24 / 45 | ![](https://img.shields.io/badge/-78d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 76 | [**`agent-second-brain`**](#agent-second-brain) | 235 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-47d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
+| 77 | [**`topsha`**](#topsha) | 145 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2 / 6 / 8 | ![](https://img.shields.io/badge/-55d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 78 | [**`SkillOS`**](#skillos) | 1 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-74d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 79 | [**`MetaGPT`**](#metagpt) | 67,065 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 27 / 904 / 931 | ![](https://img.shields.io/badge/-722d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B86-2eb872?style=flat-square) |
+| 80 | [**`AgentGPT`**](#agentgpt) | 35,985 | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 132 / 337 / 469 | ![](https://img.shields.io/badge/-894d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
+| 81 | [**`SuperAGI`**](#superagi) | 17,446 | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 167 / 278 / 445 | ![](https://img.shields.io/badge/-819d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B9-2eb872?style=flat-square) |
+| 82 | [**`Adala`**](#adala) | 1,422 | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8 / 8 / 16 | ![](https://img.shields.io/badge/-866d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 
 ## Тренды роста
 
@@ -340,7 +341,7 @@
 ### <a name="hermes-agent"></a>[hermes-agent](https://github.com/NousResearch/hermes-agent)
 **Агент, который растет вместе с вами.**
 
-⭐ 83,874 · 🍴 11,300 · 🛠️ Python · 📅 1d · [📈 История звезд](https://star-history.com/#NousResearch/hermes-agent&Date)
+⭐ 83,875 · 🍴 11,300 · 🛠️ Python · 📅 1d · [📈 История звезд](https://star-history.com/#NousResearch/hermes-agent&Date)
 
 - Масштабируемость под ваши задачи
 - Адаптация к росту пользователя
@@ -570,7 +571,7 @@
 ### <a name="agent-framework"></a>[agent-framework](https://github.com/microsoft/agent-framework)
 **Фреймворк для создания, оркестрации и развертывания ИИ-агентов и многоагентных рабочих процессов с поддержкой Python и .NET.**
 
-⭐ 9,447 · 🍴 1,542 · 🛠️ Python · 📅 4d · [📈 История звезд](https://star-history.com/#microsoft/agent-framework&Date)
+⭐ 9,446 · 🍴 1,542 · 🛠️ Python · 📅 4d · [📈 История звезд](https://star-history.com/#microsoft/agent-framework&Date)
 
 - Создание и разработка ИИ-агентов
 - Оркестрация мультиагентных рабочих процессов
@@ -777,6 +778,16 @@
 - Расширяемая система плагинов
 - Интеграция с различными языковыми моделями (LLM)
 
+### <a name="hexstrike-ai"></a>[hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+**HexStrike AI MCP Agents — это продвинутый MCP-сервер, позволяющий ИИ-агентам (Claude, GPT, Copilot и др.) автономно использовать более 150 инструментов кибербезопасности для автоматизированного тестирования на проникновение, поиска уязвимостей, автоматизации Bug Bounty и исследований в сфере ИБ. Обеспечивает бесшовную интеграцию LLM с реальными возможностями наступательной безопасности.**
+
+⭐ 8,086 · 🍴 1,768 · 🛠️ Python · 📅 38d · [📈 История звезд](https://star-history.com/#0x4m4/hexstrike-ai&Date)
+
+- Автономный запуск более 150 инструментов кибербезопасности через MCP-сервер
+- Автоматизированное тестирование на проникновение (пентестинг)
+- Поиск уязвимостей и автоматизация программ Bug Bounty
+- Интеграция LLM с реальными возможностями наступательной безопасности
+
 ### <a name="openagentscontrol"></a>[OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
 **Фреймворк ИИ-агентов для разработки с приоритетом планирования и выполнением на основе подтверждений. Мультиязычная поддержка (TypeScript, Python, Go, Rust) с автоматическим тестированием, ревью кода и валидацией для OpenCode.**
 
@@ -790,7 +801,7 @@
 ### <a name="openjarvis"></a>[OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
 **Персональный ИИ на персональных устройствах**
 
-⭐ 2,624 · 🍴 518 · 🛠️ Python · 📅 33d · [📈 История звезд](https://star-history.com/#open-jarvis/OpenJarvis&Date)
+⭐ 2,625 · 🍴 518 · 🛠️ Python · 📅 33d · [📈 История звезд](https://star-history.com/#open-jarvis/OpenJarvis&Date)
 
 - Персональный искусственный интеллект
 - Работа на личных устройствах
