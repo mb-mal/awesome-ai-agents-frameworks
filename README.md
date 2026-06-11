@@ -1154,3 +1154,14 @@
 - Iterative learning through feedback loops
 - Extensible framework for diverse data processing tasks
 
+
+### <a name="narranexus"></a>[NarraNexus](https://github.com/NetMindAI-Open/NarraNexus)
+**Ready-to-run AI agent team workspace by NetMind.AI — agents that remember, collaborate, and use tools from day one.**
+
+⭐ 35 · 🍴 10 · 🛠️ Python · 🏷️ Multi-Agent Platform · 📅 Today · [📈 Star History](https://star-history.com/#NetMindAI-Open/NarraNexus&Date)
+
+- Memory-aware agents with persistent context across sessions and conversations
+- Multi-agent collaboration: PM, developer, deployment, research, and custom agents
+- Composable modules: Memory, Chat, RAG, Jobs, Skills, Social Network, Matrix
+- MCP-style tool integrations for external tools and workflows
+- Cloud, macOS, and local source deployment options
