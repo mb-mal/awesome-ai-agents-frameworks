@@ -106,6 +106,7 @@
     "ag-ui-protocol/ag-ui",
     "youssofal/MTPLX",
     "XiaomiMiMo/MiMo-Code",
-    "elder-plinius/T3MP3ST"
+    "elder-plinius/T3MP3ST",
+    "transformerlab/transformerlab-app"
   ]
 }

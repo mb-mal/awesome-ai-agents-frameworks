@@ -106,5 +106,6 @@
   "ag-ui-protocol/ag-ui": "Agent Framework",
   "youssofal/MTPLX": "LLM Runtime",
   "XiaomiMiMo/MiMo-Code": "Coding",
-  "elder-plinius/T3MP3ST": "Cybersecurity"
+  "elder-plinius/T3MP3ST": "Cybersecurity",
+  "transformerlab/transformerlab-app": "Machine Learning"
 }
