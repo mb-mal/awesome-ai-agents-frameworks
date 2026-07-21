@@ -334,6 +334,18 @@
 - Workplace integration
 - Multi-agent coordination
 
+### <a name="multica"></a>[multica](https://github.com/multica-ai/multica)
+**The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.**
+
+⭐ 41,354 · 🍴 5,231 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 Star History](https://star-history.com/#multica-ai/multica&Date)
+
+- Agents as teammates with profiles, board presence, comments, and proactive blockers
+- Squads for stable routing — assign work to a group led by an agent
+- Autonomous execution with full task lifecycle management
+- Autopilots for recurring agent work via cron, webhooks, or manual triggers
+- Reusable skills that compound team capabilities over time
+- Multi-workspace support with workspace-level isolation
+
 ### <a name="pi"></a>[pi](https://github.com/earendil-works/pi)
 **AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI**
 

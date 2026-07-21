@@ -330,6 +330,18 @@
 - 办公自动化
 - 团队协作
 
+### <a name="multica"></a>[multica](https://github.com/multica-ai/multica)
+**开源托管智能体平台。将编程智能体转变为真正的队友——分配任务、跟踪进度、积累技能。**
+
+⭐ 41,354 · 🍴 5,231 · 🛠️ Go · 🏷️ Multi-Agent · 📅 今天 · [📈 星标历史](https://star-history.com/#multica-ai/multica&Date)
+
+- 智能体作为队友，拥有个人资料、看板存在、评论和主动阻塞报告
+- Squads 实现稳定路由——将工作分配给由智能体领导的小组
+- 自主执行，完整的任务生命周期管理
+- Autopilots 通过 cron、webhooks 或手动触发实现智能体定期工作
+- 可复用技能，随时间积累团队能力
+- 多工作区支持，工作区级别隔离
+
 ### <a name="pi"></a>[pi](https://github.com/earendil-works/pi)
 **AI 智能体工具包：统一 LLM API、智能体循环、TUI 及编程智能体 CLI**
 

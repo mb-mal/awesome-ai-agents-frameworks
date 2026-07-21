@@ -107,5 +107,6 @@
   "youssofal/MTPLX": "LLM Runtime",
   "XiaomiMiMo/MiMo-Code": "Coding",
   "elder-plinius/T3MP3ST": "Cybersecurity",
-  "transformerlab/transformerlab-app": "Machine Learning"
+  "transformerlab/transformerlab-app": "Machine Learning",
+  "multica-ai/multica": "Multi-Agent"
 }
