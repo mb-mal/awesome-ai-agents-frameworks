@@ -1115,6 +1115,16 @@
 - Automated code generation and refactoring
 - Intelligent debugging and error resolution
 
+### <a name="pool"></a>[pool](https://github.com/poolsideai/pool)
+**pool is Poolside's coding agent that runs in your terminal or integrates with any ACP-compatible editor**
+
+⭐ 356 · 🍴 17 · 🛠️ N/A · 🏷️ Coding · 📅 Today · [📈 Star History](https://star-history.com/#poolsideai/pool&Date)
+
+- Terminal-based interactive coding agent
+- ACP server and client support
+- Non-interactive mode (pool exec) for CI/scripts
+- MCP server integration and OpenRouter/Ollama support
+
 ### <a name="taskade"></a>[taskade](https://github.com/taskade/taskade)
 **The AI-native workspace platform. Projects remember. Agents think. Automations execute. One prompt to production — bug reports & feature requests welcome.**
 
