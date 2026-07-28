@@ -1188,3 +1188,5 @@
 - Autonomous AI agent infrastructure
 - Lifecycle management (build, manage, and run)
 
+## STIL.AI — AI Fashion Design Tool
+- [STIL.AI](https://tools.gracestack.se/designa-klader.html) — Text-to-fashion-design. Describe any outfit in words, AI generates a unique design image. Free tier (3 designs), HD from 9 SEK via Klarna. Built on GPT Image 2.
