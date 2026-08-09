@@ -111,5 +111,6 @@
   "multica-ai/multica": "Multi-Agent",
   "poolsideai/pool": "Coding",
   "yc-software/qm": "Agent Platform",
-  "noumena-labs/Sipp": "LLM Runtime"
+  "noumena-labs/Sipp": "LLM Runtime",
+  "swe-agent/mini-swe-agent": "Coding"
 }

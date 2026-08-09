@@ -111,6 +111,7 @@
     "multica-ai/multica",
     "poolsideai/pool",
     "yc-software/qm",
-    "noumena-labs/Sipp"
+    "noumena-labs/Sipp",
+    "swe-agent/mini-swe-agent"
   ]
 }
