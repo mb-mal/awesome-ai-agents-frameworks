@@ -110,6 +110,7 @@
     "transformerlab/transformerlab-app",
     "multica-ai/multica",
     "poolsideai/pool",
-    "yc-software/qm"
+    "yc-software/qm",
+    "noumena-labs/Sipp"
   ]
 }
