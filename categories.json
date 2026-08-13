@@ -112,5 +112,6 @@
   "poolsideai/pool": "Coding",
   "yc-software/qm": "Agent Platform",
   "noumena-labs/Sipp": "LLM Runtime",
-  "swe-agent/mini-swe-agent": "Coding"
+  "swe-agent/mini-swe-agent": "Coding",
+  "AtomicBot-ai/atomic-agent": "Coding"
 }
