@@ -122,6 +122,8 @@
 
 ## Growth Trends
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 [![Growth Trends](https://api.star-history.com/svg?repos=openclaw/openclaw,NousResearch/hermes-agent,n8n-io/n8n,anomalyco/opencode,Significant-Gravitas/AutoGPT,ollama/ollama,langgenius/dify&type=Date)](https://star-history.com/#openclaw/openclaw&NousResearch/hermes-agent&n8n-io/n8n&anomalyco/opencode&Significant-Gravitas/AutoGPT&ollama/ollama&langgenius/dify&Date)
 
 
