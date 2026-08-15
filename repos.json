@@ -116,6 +116,7 @@
     "AtomicBot-ai/atomic-agent",
     "PrimeIntellect-ai/prime-agent",
     "ShenSeanChen/waku-agent",
-    "semantica-agi/semantica"
+    "semantica-agi/semantica",
+    "deepseek-ai/deepseek-harness"
   ]
 }
