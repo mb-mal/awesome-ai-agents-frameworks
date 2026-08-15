@@ -113,5 +113,6 @@
   "yc-software/qm": "Agent Platform",
   "noumena-labs/Sipp": "LLM Runtime",
   "swe-agent/mini-swe-agent": "Coding",
-  "AtomicBot-ai/atomic-agent": "Agent Framework"
+  "AtomicBot-ai/atomic-agent": "Agent Framework",
+  "PrimeIntellect-ai/prime-agent": "Coding"
 }

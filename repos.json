@@ -113,6 +113,7 @@
     "yc-software/qm",
     "noumena-labs/Sipp",
     "swe-agent/mini-swe-agent",
-    "AtomicBot-ai/atomic-agent"
+    "AtomicBot-ai/atomic-agent",
+    "PrimeIntellect-ai/prime-agent"
   ]
 }
