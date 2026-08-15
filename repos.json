@@ -115,6 +115,7 @@
     "swe-agent/mini-swe-agent",
     "AtomicBot-ai/atomic-agent",
     "PrimeIntellect-ai/prime-agent",
-    "ShenSeanChen/waku-agent"
+    "ShenSeanChen/waku-agent",
+    "semantica-agi/semantica"
   ]
 }

@@ -115,5 +115,6 @@
   "swe-agent/mini-swe-agent": "Coding",
   "AtomicBot-ai/atomic-agent": "Agent Framework",
   "PrimeIntellect-ai/prime-agent": "Coding",
-  "ShenSeanChen/waku-agent": "Agent Framework"
+  "ShenSeanChen/waku-agent": "Agent Framework",
+  "semantica-agi/semantica": "Agent Memory"
 }
