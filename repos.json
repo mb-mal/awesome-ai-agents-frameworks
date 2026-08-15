@@ -117,6 +117,7 @@
     "PrimeIntellect-ai/prime-agent",
     "ShenSeanChen/waku-agent",
     "semantica-agi/semantica",
-    "deepseek-ai/deepseek-harness"
+    "deepseek-ai/deepseek-harness",
+    "moeru-ai/airi"
   ]
 }
