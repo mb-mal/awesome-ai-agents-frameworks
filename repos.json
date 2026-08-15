@@ -112,6 +112,7 @@
     "poolsideai/pool",
     "yc-software/qm",
     "noumena-labs/Sipp",
-    "swe-agent/mini-swe-agent"
+    "swe-agent/mini-swe-agent",
+    "AtomicBot-ai/atomic-agent"
   ]
 }
