@@ -114,6 +114,7 @@
     "noumena-labs/Sipp",
     "swe-agent/mini-swe-agent",
     "AtomicBot-ai/atomic-agent",
-    "PrimeIntellect-ai/prime-agent"
+    "PrimeIntellect-ai/prime-agent",
+    "ShenSeanChen/waku-agent"
   ]
 }
