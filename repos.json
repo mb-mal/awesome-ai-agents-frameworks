@@ -118,6 +118,7 @@
     "ShenSeanChen/waku-agent",
     "semantica-agi/semantica",
     "deepseek-ai/deepseek-harness",
-    "moeru-ai/airi"
+    "moeru-ai/airi",
+    "vercel-labs/fx"
   ]
 }

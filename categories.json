@@ -118,5 +118,6 @@
   "ShenSeanChen/waku-agent": "Agent Framework",
   "semantica-agi/semantica": "Agent Memory",
   "deepseek-ai/deepseek-harness": "Agent Framework",
-  "moeru-ai/airi": "Agent Framework"
+  "moeru-ai/airi": "Agent Framework",
+  "vercel-labs/fx": "Coding"
 }
