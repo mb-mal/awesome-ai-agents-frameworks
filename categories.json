@@ -56,6 +56,7 @@
   "mlflow/mlflow": "MLOps",
   "koala73/worldmonitor": "Intelligence Monitoring",
   "m-mizutani/gollem": "Agent Framework",
+  "wanxingai/LightAgent": "Agent Framework",
   "ggml-org/llama.cpp": "LLM Runtime",
   "vllm-project/vllm": "LLM Runtime",
   "ollama/ollama": "LLM Runtime",
