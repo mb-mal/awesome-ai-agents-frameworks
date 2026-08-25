@@ -119,6 +119,7 @@
     "semantica-agi/semantica",
     "deepseek-ai/deepseek-harness",
     "moeru-ai/airi",
-    "vercel-labs/fx"
+    "vercel-labs/fx",
+    "FlashML-org/FreeToken"
   ]
 }
