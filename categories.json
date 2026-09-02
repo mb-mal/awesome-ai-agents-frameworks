@@ -120,5 +120,6 @@
   "deepseek-ai/deepseek-harness": "Agent Framework",
   "moeru-ai/airi": "Agent Framework",
   "vercel-labs/fx": "Coding",
-  "FlashML-org/FreeToken": "LLM Runtime"
+  "FlashML-org/FreeToken": "LLM Runtime",
+  "get-bb/bb": "Coding"
 }

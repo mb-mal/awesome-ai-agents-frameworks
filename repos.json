@@ -120,6 +120,7 @@
     "deepseek-ai/deepseek-harness",
     "moeru-ai/airi",
     "vercel-labs/fx",
-    "FlashML-org/FreeToken"
+    "FlashML-org/FreeToken",
+    "get-bb/bb"
   ]
 }
