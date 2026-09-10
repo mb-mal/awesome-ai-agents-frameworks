@@ -2,7 +2,7 @@
 
 [EN](README.md) | **RU** | [ZH](README_ZH.md)
 
-*Last updated: 2026-09-10 16:22:24*
+*Last updated: 2026-09-10 16:29:01*
 
 | № | Фреймворк | Звезды | Категория | Лицензия | Язык | Задачи | Обновлен | Изм. |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -45,7 +45,7 @@
 | 37 | [**`kilocode`**](#kilocode) | 27,246 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 561 / 0 / 561 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
 | 38 | [**`haystack`**](#haystack) | 26,470 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 130 / 0 / 130 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
 | 39 | [**`letta`**](#letta) | 24,692 | Agent Memory | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
-| 40 | [**`openwork`**](#openwork) | 23,455 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 531 / 0 / 531 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
+| 40 | [**`openwork`**](#openwork) | 23,455 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 532 / 0 / 532 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
 | 41 | [**`pentagi`**](#pentagi) | 22,667 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 57 / 0 / 57 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B83-2eb872?style=flat-square) |
 | 42 | [**`opik`**](#opik) | 21,920 | Observability | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 250 / 0 / 250 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B34-2eb872?style=flat-square) |
 | 43 | [**`adk-python`**](#adk-python) | 21,483 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 522 / 0 / 522 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
@@ -140,10 +140,14 @@
 ---
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
-**The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 **
+**ИИ, который действительно действует. Любая ОС. Любая платформа. Путь омара. 🦞**
 
 ⭐ 389,363 · 🍴 81,828 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#openclaw/openclaw&Date)
 
+- ИИ, который действительно выполняет задачи
+- Работает на любой операционной системе
+- Поддерживает любую платформу
+- Уникальная философия «пути омара» 🦞
 
 ### <a name="hermes-agent"></a>[hermes-agent](https://github.com/NousResearch/hermes-agent)
 **Агент, который растет вместе с вами.**
@@ -156,10 +160,14 @@
 - Персонализированный подход
 
 ### <a name="deepseek-harness"></a>[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-**DeepSeek Harness: Everything is a Plugin.**
+**DeepSeek Harness: всё есть плагин.**
 
-⭐ 218,900 · 🍴 25,874 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
+⭐ 218,900 · 🍴 25,873 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
 
+- Модульная архитектура, где каждый компонент реализован как плагин
+- Расширяемость системы за счёт подключения новых плагинов
+- Гибкая настройка функциональности под конкретные задачи
+- Простая интеграция сторонних инструментов и компонентов
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **Агент для написания кода с открытым исходным кодом.**
@@ -192,16 +200,24 @@
 - Автоматизация процессов для концентрации на важных целях
 
 ### <a name="ollama"></a>[ollama](https://github.com/ollama/ollama)
-**Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.**
+**Начните работу с Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma и другими моделями.**
 
 ⭐ 180,574 · 🍴 17,789 · 🛠️ Go · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#ollama/ollama&Date)
 
+- Быстрый запуск и простая настройка
+- Поддержка множества моделей: Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma
+- Локальное выполнение больших языковых моделей
+- Доступ к новейшим открытым моделям
 
 ### <a name="dify"></a>[dify](https://github.com/langgenius/dify)
-**Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.**
+**Создавайте агентные рабочие процессы и RAG-конвейеры с широкой поддержкой ИИ-моделей и инструментов в едином рабочем пространстве для совместной работы. Развертывание в облаке, VPC или на собственных серверах позволяет командам переходить от прототипа к продакшену без пересборки стека.**
 
 ⭐ 155,333 · 🍴 24,528 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#langgenius/dify&Date)
 
+- Создание агентных рабочих процессов и RAG-конвейеров
+- Богатая поддержка ИИ-моделей и инструментов
+- Единое совместное рабочее пространство для команд
+- Гибкое развёртывание: облако, VPC или локальный хостинг
 
 ### <a name="open-webui"></a>[open-webui](https://github.com/open-webui/open-webui)
 **Удобный интерфейс ИИ (поддержка Ollama, OpenAI API и др.)**
@@ -284,10 +300,14 @@
 - Отслеживание состояния инфраструктуры
 
 ### <a name="deer-flow"></a>[deer-flow](https://github.com/bytedance/deer-flow)
-**Открытая среда управления суперагентами для долгосрочных задач: исследования, разработка и созидание. С помощью песочниц, памяти, инструментов, навыков, субагентов и шлюза сообщений система решает задачи различной сложности, занимающие от нескольких минут до нескольких часов.**
+**Каркас SuperAgent с открытым исходным кодом для решения длительных задач: проводит исследования, пишет код и создаёт контент. Опираясь на песочницы, память, инструменты, навыки, субагентов и шлюз сообщений, он справляется с задачами различного уровня сложности, выполнение которых занимает от минут до часов.**
 
 ⭐ 82,210 · 🍴 11,326 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#bytedance/deer-flow&Date)
 
+- Открытая платформа-оболочка SuperAgent для решения длительных задач
+- Проводит исследования, пишет код и создаёт контент
+- Использует песочницы, память, инструменты, навыки, субагентов и шлюз сообщений
+- Обрабатывает задачи разного уровня сложности — от нескольких минут до часов
 
 ### <a name="paperclip"></a>[paperclip](https://github.com/paperclipai/paperclip)
 **Open-source приложение для управления агентами в рабочих процессах.**
@@ -330,22 +350,34 @@
 - Продвинутые возможности OCR и парсинга документов
 
 ### <a name="multica"></a>[multica](https://github.com/multica-ai/multica)
-**Make humans and AI agents work as one team — open-source and self-hostable.**
+**Объедините людей и ИИ-агентов в единую команду — открытый исходный код и самостоятельный хостинг.**
 
 ⭐ 49,501 · 🍴 6,387 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#multica-ai/multica&Date)
 
+- Совместная работа людей и ИИ-агентов в одной команде
+- Открытый исходный код
+- Возможность самостоятельного размещения (self-hosted)
+- Поддержка нескольких ИИ-агентов
 
 ### <a name="airi"></a>[airi](https://github.com/moeru-ai/airi)
-**💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.**
+**💖🧸 Самостоятельно размещаемый Grok-компаньон в вашем полном владении: вместилище душ ваифу и кибер-существ, призванных перенести их в наши миры и достичь высот Neuro-sama. Поддерживает голосовой чат в реальном времени, игру в Minecraft и Factorio. Доступен на Web / macOS / Windows.**
 
 ⭐ 49,019 · 🍴 4,858 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#moeru-ai/airi&Date)
 
+- Self-hosted виртуальный ИИ-компаньон, полностью принадлежащий вам
+- Голосовой чат в реальном времени
+- Совместная игра в Minecraft и Factorio
+- Поддержка платформ: веб, macOS и Windows
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
-**Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps**
+**Ультралёгкий open-source self-hosted фреймворк персональных ИИ-агентов на Python с WebUI, инструментами, памятью, MCP, мультиагентными рабочими процессами, автоматизацией и чат-приложениями**
 
 ⭐ 47,985 · 🍴 8,476 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#HKUDS/nanobot&Date)
 
+- Ультралёгкий open-source фреймворк персональных ИИ-агентов на Python
+- Самостоятельное размещение с веб-интерфейсом (WebUI)
+- Поддержка инструментов, памяти и протокола MCP
+- Мультиагентные рабочие процессы, автоматизация и чат-приложения
 
 ### <a name="librechat"></a>[LibreChat](https://github.com/danny-avila/LibreChat)
 **Улучшенный клон ChatGPT: агенты, MCP, навыки, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, артефакты, переключение моделей, поиск сообщений, Code Interpreter, LangChain, DALL-E-3, OpenAPI Actions, функции, безопасная аутентификация, пресеты. Open-source для self-hosting. Активная разработка.**
@@ -428,10 +460,14 @@
 - Универсальная ИИ-платформа
 
 ### <a name="oh-my-pi"></a>[oh-my-pi](https://github.com/can1357/oh-my-pi)
-**⌥ Coding agent with the IDE wired in**
+**⌥ Агент для написания кода, интегрированный с IDE**
 
 ⭐ 30,504 · 🍴 3,134 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#can1357/oh-my-pi&Date)
 
+- ИИ-агент для написания кода
+- Глубокая интеграция с IDE
+- Доступ к контексту проекта в реальном времени
+- Автоматизация рутинных задач программирования
 
 ### <a name="deepagents"></a>[deepagents](https://github.com/langchain-ai/deepagents)
 **Полнофункциональная среда для разработки агентов.**
@@ -534,16 +570,24 @@
 - Гибкость и полный контроль над процессом разработки
 
 ### <a name="prime-agent"></a>[prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
-**A self-improving RLM agent for coding workflows and long-running autonomous tasks.**
+**Самоулучшающийся RLM-агент для рабочих процессов программирования и длительных автономных задач.**
 
 ⭐ 20,479 · 🍴 2,244 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#PrimeIntellect-ai/prime-agent&Date)
 
+- Самоулучшающийся RLM-агент
+- Поддержка рабочих процессов программирования
+- Выполнение длительных автономных задач
+- Автономная работа без вмешательства человека
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
-**How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.**
+**Как Python работает с ИИ. Агенты, голос в реальном времени, генерация изображений, эмбеддинги. Каждая модель, каждый интерфейс — со сквозной типизацией.**
 
 ⭐ 19,849 · 🍴 2,687 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#pydantic/pydantic-ai&Date)
 
+- ИИ-агенты для Python
+- Голосовой режим в реальном времени
+- Генерация изображений и эмбеддинги
+- Сквозная типизация и поддержка всех моделей
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Агентная операционная система с открытым исходным кодом**
@@ -576,10 +620,14 @@
 - Оптимизация для ИИ-агентов
 
 ### <a name="qm"></a>[qm](https://github.com/yc-software/qm)
-**Multiplayer agent harness for work.**
+**Многопользовательский каркас агентов для работы.**
 
 ⭐ 14,796 · 🍴 1,800 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 Today · [📈 История звезд](https://star-history.com/#yc-software/qm&Date)
 
+- Мультиплеерная среда для совместной работы ИИ-агентов
+- Оркестрация и управление несколькими агентами одновременно
+- Координация задач между агентами и людьми в реальном времени
+- Интеграция агентов в рабочие процессы команды
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
 **Открытая безопасная среда с реальными инструментами для агентов корпоративного уровня.**
@@ -622,22 +670,34 @@
 - Итеративное самосовершенствование через взаимодействие
 
 ### <a name="semantica"></a>[semantica](https://github.com/semantica-agi/semantica)
-**Graph-Native Infrastructure for Context and Accountable AI Systems**
+**Граф-нативная инфраструктура для контекста и подотчётных систем ИИ**
 
 ⭐ 12,586 · 🍴 1,409 · 🛠️ Python · 🏷️ Agent Memory · 📅 Today · [📈 История звезд](https://star-history.com/#semantica-agi/semantica&Date)
 
+- Нативная графовая инфраструктура для хранения и обработки данных
+- Управление контекстом для ИИ-систем
+- Подотчётность и прозрачность ИИ-систем
+- Инфраструктура для построения надёжных ИИ-приложений
 
 ### <a name="freetoken"></a>[FreeToken](https://github.com/FlashML-org/FreeToken)
-**FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.**
+**FreeToken приносит обслуживание моделей в масштабе дата-центра на ваш настольный компьютер. Запускайте огромные модели локально — быстро и эффективно.**
 
 ⭐ 12,378 · 🍴 1,192 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#FlashML-org/FreeToken&Date)
 
+- Модели масштаба дата-центров прямо на вашем компьютере
+- Запуск огромных моделей локально
+- Высокая скорость работы
+- Эффективное использование ресурсов
 
 ### <a name="agent-orchestrator"></a>[agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator)
-**Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.**
+**Запускайте и контролируйте команды кодинг-агентов — от планирования до слияния. Любой харнесс (Claude Code, Codex и ещё 25+). Агенты для десктопа, веба, мобильных устройств и облака.**
 
 ⭐ 11,228 · 🍴 1,584 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#ComposioHQ/agent-orchestrator&Date)
 
+- Запуск и контроль команд агентов-кодировщиков от планирования до слияния (merge)
+- Поддержка любых harness-сред: Claude Code, Codex и ещё 25+ других
+- Агенты на десктопе, в вебе, на мобильных устройствах и в облаке
+- Централизованная оркестрация нескольких агентов параллельно
 
 ### <a name="openjarvis"></a>[OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
 **Персональный ИИ на персональных устройствах**
@@ -680,10 +740,14 @@
 - Масштабируемое развертывание команд ИИ-агентов
 
 ### <a name="bb"></a>[bb](https://github.com/get-bb/bb)
-**The agent IDE that builds itself**
+**IDE для агентов, которая создаёт себя сама**
 
 ⭐ 3,491 · 🍴 445 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#get-bb/bb&Date)
 
+- Среда разработки, которая создаёт и улучшает себя сама
+- Встроенные инструменты для создания ИИ-агентов
+- Автоматическая генерация и рефакторинг кода
+- Автономные агенты, пишущие и тестирующие собственный код
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **Защищенный сервер персонального агента на Rust. Единый бинарный файл, запуск в песочнице, поддержка различных LLM, голос, память, Telegram, WhatsApp, Discord, Teams и инструменты MCP. Безопасность на уровне архитектуры, работа на вашем оборудовании.**
@@ -696,22 +760,34 @@
 - Локальный запуск на собственном оборудовании в формате одного бинарного файла
 
 ### <a name="fx"></a>[fx](https://github.com/vercel-labs/fx)
-**Unix like coding agent**
+**Агент для программирования в стиле Unix**
 
 ⭐ 2,849 · 🍴 324 · 🛠️ Zig · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#vercel-labs/fx&Date)
 
+- Работа из командной строки в стиле Unix
+- Совместимость с пайпами и другими Unix-инструментами
+- Генерация и рефакторинг кода с помощью ИИ
+- Автономное выполнение задач по коду в терминале
 
 ### <a name="atomic-agent"></a>[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
-**Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.**
+**Atomic Agent — локально-ориентированный ИИ-агент. Запускает модели с открытыми весами на вашем компьютере через llama.cpp.**
 
 ⭐ 2,525 · 🍴 243 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#AtomicBot-ai/atomic-agent&Date)
 
+- Локально-ориентированный ИИ-агент
+- Запуск моделей с открытыми весами
+- Полная работа на собственном компьютере пользователя
+- Инференс через llama.cpp
 
 ### <a name="cccc"></a>[cccc](https://github.com/ChesterRa/cccc)
-**Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow**
+**Координируйте кодинг-агентов как в групповом чате — отчёты о прочтении, отслеживание доставки и удалённое управление с телефона. Установка одной командой pip, нулевая инфраструктура. Оркестратор промышленного уровня для работы 24/7.**
 
 ⭐ 1,118 · 🍴 98 · 🛠️ Rust · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#ChesterRa/cccc&Date)
 
+- Координация агентов кодирования как в групповом чате
+- Уведомления о прочтении и отслеживание доставки сообщений
+- Удалённое управление операциями с телефона
+- Установка одной командой pip без инфраструктуры
 
 ### <a name="langsmith-cli"></a>[langsmith-cli](https://github.com/langchain-ai/langsmith-cli)
 **CLI для взаимодействия с LangSmith, ориентированный на кодинг-агентов.**
@@ -734,10 +810,14 @@
 - Прогнозирование любых событий
 
 ### <a name="openinterpreter"></a>[openinterpreter](https://github.com/openinterpreter/openinterpreter)
-**A coding agent for open models like Kimi K3 and GLM 5.3**
+**Кодинг-агент для открытых моделей, таких как Kimi K3 и GLM 5.3**
 
 ⭐ 68,293 · 🍴 5,882 · 🛠️ Rust · 🏷️ Computer Control · 📅 1d · [📈 История звезд](https://star-history.com/#openinterpreter/open-interpreter&Date)
 
+- Выполняет код на Python, JavaScript и Shell прямо на локальном компьютере
+- Поддерживает открытые модели, такие как Kimi K3 и GLM 5.3
+- Автоматизирует написание, отладку и рефакторинг кода
+- Полностью открытый исходный код с возможностью локального запуска
 
 ### <a name="cli-anything"></a>[CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 **CLI-Anything: Делаем ЛЮБОЕ ПО нативным для ИИ-агентов — CLI-Hub: https://clianything.cc/**
@@ -790,10 +870,14 @@
 - Простая архитектура без избыточных абстракций
 
 ### <a name="owl"></a>[owl](https://github.com/camel-ai/owl)
-**🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation**
+**🦉 OWL: Оптимизированное обучение мультиагентного коллектива для универсальной поддержки в автоматизации реальных задач**
 
 ⭐ 20,129 · 🍴 2,298 · 🛠️ Python · 🏷️ Multi-Agent · 📅 14d · [📈 История звезд](https://star-history.com/#camel-ai/owl&Date)
 
+- Мультиагентная координация для совместного решения сложных задач
+- Автоматизация реальных рабочих процессов и повседневных задач
+- Динамическое использование инструментов и интеграция с внешними API
+- Оптимизированное обучение агентов на основе реального опыта выполнения задач
 
 ### <a name="db-gpt"></a>[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 **Open-source агентный ИИ-ассистент для работы с данными в AI + Data продуктах нового поколения.**
@@ -826,16 +910,24 @@
 - Поддержка автономного взаимодействия нескольких агентов
 
 ### <a name="deepcode"></a>[DeepCode](https://github.com/HKUDS/DeepCode)
-**"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"**
+**DeepCode: Открытое агентное программирование (каркас агента, инженерия циклов и мультиагентная оркестрация)**
 
 ⭐ 16,514 · 🍴 2,154 · 🛠️ Python · 🏷️ Coding · 📅 1d · [📈 История звезд](https://star-history.com/#HKUDS/DeepCode&Date)
 
+- Открытый агентный кодинг
+- Каркас агентов (Agent Harness)
+- Инженерия циклов (Loop Engineering)
+- Оркестрация мультиагентов
 
 ### <a name="eigent"></a>[eigent](https://github.com/eigent-ai/eigent)
-**Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex**
+**Eigent: десктоп с открытым исходным кодом для совместной работы — локальная и бесплатная альтернатива Claude Cowork и Codex**
 
 ⭐ 15,240 · 🍴 1,820 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 3d · [📈 История звезд](https://star-history.com/#eigent-ai/eigent&Date)
 
+- Открытый исходный код
+- Локальная работа на десктопе
+- Полностью бесплатное использование
+- Альтернатива Claude Cowork и Codex
 
 ### <a name="autoresearchclaw"></a>[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
 **Полностью автономные и саморазвивающиеся исследования: от идеи до научной статьи. Предложите идею — получите публикацию. 🦞**
@@ -878,10 +970,14 @@
 - Поддержка более 100 различных больших языковых моделей (LLM)
 
 ### <a name="mini-swe-agent"></a>[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
-**The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!**
+**ИИ-агент на 100 строк, который решает issues на GitHub или помогает вам в командной строке. Радикально просто: без огромных конфигов и гигантского монорепозитория — но с результатом >74% на SWE-bench Verified!**
 
 ⭐ 7,321 · 🍴 1,005 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 История звезд](https://star-history.com/#swe-agent/mini-swe-agent&Date)
 
+- Компактный ИИ-агент всего на 100 строк кода
+- Решает задачи (issues) на GitHub
+- Помогает в работе в командной строке
+- Радикально прост: без огромных конфигураций, но набирает более 74% на SWE-bench verified
 
 ### <a name="t3mp3st"></a>[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 **автономная платформа для Red Teaming; мультиагентная мета-оболочка для наступательной кибербезопасности**
@@ -958,10 +1054,10 @@
 
 ⭐ 3,897 · 🍴 848 · 🛠️ Python · 🏷️ Agent Framework · 📅 5d · [📈 История звезд](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
 
-- Поддержка синхронных и асинхронных запросов через asyncio
-- Полная типизация данных для корректной работы IDE и статического анализа
-- Возможность потоковой передачи ответов (streaming) в реальном времени
-- Автоматическая обработка повторных попыток и встроенное управление ошибками
+- Официальная клиентская библиотека Python для доступа к API Anthropic и моделям Claude
+- Поддержка синхронных и асинхронных запросов (asyncio)
+- Потоковая передача ответов (streaming) в реальном времени
+- Строгая типизация, автоматические повторные попытки и обработка ошибок
 
 ### <a name="beeai-framework"></a>[beeai-framework](https://github.com/i-am-bee/beeai-framework)
 **Создавайте готовых к промышленной эксплуатации ИИ-агентов на Python и TypeScript.**
@@ -974,10 +1070,14 @@
 - Масштабируемая архитектура для агентных систем
 
 ### <a name="mtplx"></a>[MTPLX](https://github.com/youssofal/MTPLX)
-**3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.**
+**3-кратное ускорение на MLX | Qwen 3.8 27B | Нативное спекулятивное декодирование MTP на Apple Silicon без внешнего драфтера.**
 
 ⭐ 2,197 · 🍴 163 · 🛠️ Python · 🏷️ LLM Runtime · 📅 4d · [📈 История звезд](https://star-history.com/#youssofal/MTPLX&Date)
 
+- 3-кратное ускорение скорости на MLX
+- Поддержка модели Qwen 3.8 27B
+- Нативная спекулятивная декодировка MTP на Apple Silicon
+- Не требует внешнего драфтера
 
 ### <a name="localagi"></a>[LocalAGI](https://github.com/mudler/LocalAGI)
 **LocalAGI — мощная платформа ИИ-агентов для локального развертывания, обеспечивающая максимальную приватность и гибкость. Полноценная замена OpenAI Responses API с продвинутыми агентными функциями. Без облаков. Локальный ИИ, работающий на потребительском оборудовании (CPU и GPU).**
@@ -990,10 +1090,14 @@
 - Работа на потребительском оборудовании (CPU и GPU) без облачных сервисов
 
 ### <a name="waku-agent"></a>[waku-agent](https://github.com/ShenSeanChen/waku-agent)
-**Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.**
+**Waku Waku! Waku Agent — это локально-ориентированный каркас AI-агента, который по-настоящему принадлежит вам: цикл, память, оценка — всё в коде, написанном так, чтобы оставаться читаемым по мере роста.**
 
 ⭐ 1,720 · 🍴 335 · 🛠️ Python · 🏷️ Agent Framework · 📅 12d · [📈 История звезд](https://star-history.com/#ShenSeanChen/waku-agent&Date)
 
+- Локальная (local-first) архитектура — всё работает на вашем устройстве
+- Полное владение агентом без зависимости от внешних сервисов
+- Встроенные цикл агента, память и система оценки (eval)
+- Вся логика в коде, который остаётся читаемым по мере роста проекта
 
 ### <a name="adala"></a>[Adala](https://github.com/HumanSignal/Adala)
 **Adala: Фреймворк автономных агентов для (разметки) данных.**
@@ -1016,10 +1120,14 @@
 - Фреймворк для создания интеллектуальных агентов
 
 ### <a name="pool"></a>[pool](https://github.com/poolsideai/pool)
-**pool is Poolside’s coding agent that runs in your terminal or integrates with any ACP-compatible editor**
+**pool — агент для программирования от Poolside, работающий в вашем терминале или интегрирующийся с любым редактором, совместимым с ACP.**
 
 ⭐ 424 · 🍴 25 · 🛠️ N/A · 🏷️ Coding · 📅 23d · [📈 История звезд](https://star-history.com/#poolsideai/pool&Date)
 
+- ИИ-агент для программирования от Poolside
+- Работает непосредственно в терминале
+- Интегрируется с любым ACP-совместимым редактором
+- Помогает писать и редактировать код
 
 ### <a name="gollem"></a>[gollem](https://github.com/gollem-dev/gollem)
 **Go-фреймворк для разработки агентных ИИ-приложений с поддержкой MCP и встроенным инструментарием.**
@@ -1106,10 +1214,10 @@
 
 ⭐ 22,353 · 🍴 2,852 · 🛠️ Python · 🏷️ Task Automation · 📅 222d · [📈 История звезд](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- Автономное управление задачами: автоматическое создание, приоритизация и выполнение списков дел
-- Использование языковых моделей (LLM) для планирования и принятия решений в реальном времени
-- Интеграция с векторными базами данных для хранения контекста и долгосрочной памяти
-- Непрерывный цикл работы до достижения поставленной цели без участия человека
+- Автоматическая генерация новых задач на основе заданной цели
+- Приоритизация списка задач с помощью ИИ
+- Автономное выполнение задач через агентов на базе OpenAI
+- Хранение контекста и результатов задач в векторной базе данных
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Образовательный фреймворк для исследования эргономичной и легковесной мультиагентной оркестрации. Под управлением команды OpenAI Solution.**
@@ -1232,10 +1340,14 @@
 - Интеллектуальный агент на базе локальных LLM
 
 ### <a name="sipp"></a>[Sipp](https://github.com/noumena-labs/Sipp)
-**AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser. Features a symmetric API for seamless local execution and cloud provider routing. Built with Rust & C++.**
+**Инференс ИИ — просто и лаконично. Молниеносный WebGPU-рантайм без зависимостей для запуска GGUF-моделей прямо в браузере. Симметричный API обеспечивает бесшовное локальное выполнение и маршрутизацию к облачным провайдерам. Создан на Rust и C++.**
 
 ⭐ 116 · 🍴 16 · 🛠️ Rust · 🏷️ LLM Runtime · 📅 31d · [📈 История звезд](https://star-history.com/#noumena-labs/Sipp&Date)
 
+- Молниеносный WebGPU-рантайм для запуска GGUF-моделей прямо в браузере
+- Нулевые зависимости
+- Симметричный API для бесшовного локального выполнения и маршрутизации к облачным провайдерам
+- Написан на Rust и C++
 
 ### <a name="taskade"></a>[taskade](https://github.com/taskade/taskade)
 **AI-native платформа для совместной работы. Проекты помнят. Агенты думают. Автоматизации исполняют. От промпта до продакшена — баг-репорты и пожелания приветствуются.**

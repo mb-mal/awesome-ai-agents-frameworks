@@ -2,7 +2,7 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*Last updated: 2026-09-10 16:22:24*
+*Last updated: 2026-09-10 16:29:02*
 
 | 排名 | 框架 | 星标 | 类别 | 许可证 | 语言 | 问题 | 更新 | 变化 |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -45,7 +45,7 @@
 | 37 | [**`kilocode`**](#kilocode) | 27,246 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 561 / 0 / 561 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
 | 38 | [**`haystack`**](#haystack) | 26,470 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 130 / 0 / 130 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
 | 39 | [**`letta`**](#letta) | 24,692 | Agent Memory | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
-| 40 | [**`openwork`**](#openwork) | 23,455 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 531 / 0 / 531 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
+| 40 | [**`openwork`**](#openwork) | 23,455 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 532 / 0 / 532 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
 | 41 | [**`pentagi`**](#pentagi) | 22,667 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 57 / 0 / 57 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B83-2eb872?style=flat-square) |
 | 42 | [**`opik`**](#opik) | 21,920 | Observability | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 250 / 0 / 250 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B34-2eb872?style=flat-square) |
 | 43 | [**`adk-python`**](#adk-python) | 21,483 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 522 / 0 / 522 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
@@ -140,10 +140,14 @@
 ---
 
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
-**The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 **
+**真正能干实事的 AI。任何操作系统，任何平台。龙虾之道。🦞**
 
 ⭐ 389,363 · 🍴 81,828 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#openclaw/openclaw&Date)
 
+- 真正能执行实际任务的AI智能体
+- 支持任何操作系统
+- 兼容任何平台
+- 独特的龙虾之道理念
 
 ### <a name="hermes-agent"></a>[hermes-agent](https://github.com/NousResearch/hermes-agent)
 **与您共同成长的智能体**
@@ -156,10 +160,14 @@
 - 智能学习能力
 
 ### <a name="deepseek-harness"></a>[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-**DeepSeek Harness: Everything is a Plugin.**
+**DeepSeek Harness：万物皆插件。**
 
-⭐ 218,900 · 🍴 25,874 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
+⭐ 218,900 · 🍴 25,873 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
 
+- 插件化架构：所有功能均以插件形式实现
+- 万物皆插件的设计理念，高度灵活可定制
+- 模块化设计，易于扩展和维护
+- 深度集成 DeepSeek 模型能力
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **开源编程智能体。**
@@ -192,16 +200,24 @@
 - 自主执行任务以提升效率
 
 ### <a name="ollama"></a>[ollama](https://github.com/ollama/ollama)
-**Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.**
+**快速上手 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等模型。**
 
 ⭐ 180,574 · 🍴 17,789 · 🛠️ Go · 🏷️ LLM Runtime · 📅 Today · [📈 星标历史](https://star-history.com/#ollama/ollama&Date)
 
+- 快速上手，一键启动运行大型语言模型
+- 支持Kimi、GLM、DeepSeek、Qwen、Gemma等多种主流开源模型
+- 本地部署运行，保护数据隐私安全
+- 简单易用，提供简洁的命令行界面和API接口
 
 ### <a name="dify"></a>[dify](https://github.com/langgenius/dify)
-**Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.**
+**在统一的协作工作区中构建智能体工作流与 RAG 管道，提供丰富的 AI 模型与工具支持。支持云端、VPC 或自托管部署，助力团队无需重建技术栈，即可从原型迈向生产。**
 
 ⭐ 155,333 · 🍴 24,528 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 星标历史](https://star-history.com/#langgenius/dify&Date)
 
+- 构建智能体工作流
+- 快速搭建 RAG 管道
+- 丰富的 AI 模型与工具支持
+- 支持云端、VPC 或自托管灵活部署
 
 ### <a name="open-webui"></a>[open-webui](https://github.com/open-webui/open-webui)
 **用户友好型 AI 界面（支持 Ollama、OpenAI API 等）**
@@ -284,10 +300,14 @@
 - 基础设施追踪
 
 ### <a name="deer-flow"></a>[deer-flow](https://github.com/bytedance/deer-flow)
-**An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.**
+**开源长时程超级智能体（SuperAgent）框架，集研究、编码与创作于一体。依托沙箱、记忆、工具、技能、子智能体与消息网关，可胜任耗时数分钟至数小时的不同层级任务。**
 
 ⭐ 82,210 · 🍴 11,326 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 星标历史](https://star-history.com/#bytedance/deer-flow&Date)
 
+- 开源的长时程超级智能体框架
+- 支持研究、编码和创作等多种能力
+- 集成沙箱、记忆、工具、技能、子智能体和消息网关
+- 可处理从几分钟到数小时的不同复杂度任务
 
 ### <a name="paperclip"></a>[paperclip](https://github.com/paperclipai/paperclip)
 **广受业界青睐的职场智能体管理开源应用。**
@@ -330,22 +350,34 @@
 - 无缝连接大语言模型与私有数据源
 
 ### <a name="multica"></a>[multica](https://github.com/multica-ai/multica)
-**Make humans and AI agents work as one team — open-source and self-hostable.**
+**让人类与 AI 智能体协同如一——开源且可自托管。**
 
 ⭐ 49,501 · 🍴 6,387 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 星标历史](https://star-history.com/#multica-ai/multica&Date)
 
+- 人类与AI智能体协作如同一支团队
+- 开源软件
+- 支持自托管部署
+- 统一的人机协作平台
 
 ### <a name="airi"></a>[airi](https://github.com/moeru-ai/airi)
-**💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.**
+**💖🧸 自托管、归你所有的 Grok 伴侣，承载二次元老婆与赛博生命灵魂的容器，将其带入我们的世界，志在比肩 Neuro-sama 的高度。支持实时语音聊天，可畅玩 Minecraft 与 Factorio。支持 Web / macOS / Windows 平台。**
 
 ⭐ 49,019 · 🍴 4,858 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#moeru-ai/airi&Date)
 
+- 自托管的AI虚拟伴侣，拥有属于你自己的Grok伴侣
+- 承载二次元角色与赛博生命的灵魂容器
+- 支持实时语音聊天，可游玩Minecraft和Factorio
+- 支持Web、macOS和Windows多平台
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
-**Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps**
+**基于 Python 的超轻量级、开源、自托管个人 AI 智能体框架，支持 WebUI、工具、记忆、MCP、多智能体工作流、自动化及聊天应用**
 
 ⭐ 47,985 · 🍴 8,476 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#HKUDS/nanobot&Date)
 
+- 超轻量级开源个人AI智能体框架
+- 基于Python构建，支持自托管部署
+- 内置WebUI、工具、记忆和MCP支持
+- 支持多智能体工作流、自动化和聊天应用
 
 ### <a name="librechat"></a>[LibreChat](https://github.com/danny-avila/LibreChat)
 **增强型 ChatGPT 克隆版：集成智能体、MCP、技能插件，支持 DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini。具备 Artifacts、模型切换、消息搜索、代码解释器、LangChain、DALL-E-3、OpenAPI Actions 及函数调用功能。支持安全多用户认证与预设配置，开源可私有化部署，持续维护。**
@@ -428,10 +460,14 @@
 - 支持高级功能扩展
 
 ### <a name="oh-my-pi"></a>[oh-my-pi](https://github.com/can1357/oh-my-pi)
-**⌥ Coding agent with the IDE wired in**
+**⌥ 深度集成 IDE 的编码智能体**
 
 ⭐ 30,504 · 🍴 3,134 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#can1357/oh-my-pi&Date)
 
+- 智能编程代理，自动完成编码任务
+- 与 IDE 深度集成，无缝衔接开发环境
+- 快捷键一键快速调用
+- 上下文感知的智能代码辅助
 
 ### <a name="deepagents"></a>[deepagents](https://github.com/langchain-ai/deepagents)
 **开箱即用的智能体开发框架。**
@@ -534,16 +570,24 @@
 - 专注于 AI Agent 全生命周期的开发流程
 
 ### <a name="prime-agent"></a>[prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
-**A self-improving RLM agent for coding workflows and long-running autonomous tasks.**
+**面向编程工作流与长时自主任务的自我改进型 RLM 智能体。**
 
 ⭐ 20,479 · 🍴 2,244 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#PrimeIntellect-ai/prime-agent&Date)
 
+- 自我改进能力，可持续优化自身表现
+- 基于 RLM 架构的智能体
+- 专为编码工作流设计
+- 支持长时间运行的自主任务
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
-**How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.**
+**Python 如何做 AI。智能体、实时语音、图像生成、嵌入向量。每个模型、每个接口，端到端类型安全。**
 
 ⭐ 19,849 · 🍴 2,687 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#pydantic/pydantic-ai&Date)
 
+- AI 智能体开发
+- 实时语音与图像生成
+- 支持所有模型与接口
+- 端到端类型安全
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **开源智能体操作系统**
@@ -576,10 +620,14 @@
 - 专为AI智能体设计
 
 ### <a name="qm"></a>[qm](https://github.com/yc-software/qm)
-**Multiplayer agent harness for work.**
+**面向工作场景的多智能体协作框架。**
 
 ⭐ 14,796 · 🍴 1,800 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 Today · [📈 星标历史](https://star-history.com/#yc-software/qm&Date)
 
+- 支持多智能体并行协作执行任务
+- 提供统一的智能体编排与管理框架
+- 面向工作场景的任务分配与调度
+- 实时监控智能体执行进度与结果
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
 **面向企业级智能体、集成实战工具的开源安全环境。**
@@ -622,22 +670,34 @@
 - 高效的智能体协作框架
 
 ### <a name="semantica"></a>[semantica](https://github.com/semantica-agi/semantica)
-**Graph-Native Infrastructure for Context and Accountable AI Systems**
+**面向上下文与可问责 AI 系统的图原生基础设施**
 
 ⭐ 12,586 · 🍴 1,409 · 🛠️ Python · 🏷️ Agent Memory · 📅 Today · [📈 星标历史](https://star-history.com/#semantica-agi/semantica&Date)
 
+- 图原生基础设施架构
+- 智能上下文管理
+- 可问责与可追溯的AI系统
+- 语义知识图谱支持
 
 ### <a name="freetoken"></a>[FreeToken](https://github.com/FlashML-org/FreeToken)
-**FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.**
+**FreeToken 将数据中心级模型服务带入桌面端，助您本地快速高效地运行超大规模模型。**
 
 ⭐ 12,378 · 🍴 1,192 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 星标历史](https://star-history.com/#FlashML-org/FreeToken&Date)
 
+- 将数据中心级模型服务带到桌面端
+- 本地运行超大规模模型
+- 推理速度快
+- 运行高效
 
 ### <a name="agent-orchestrator"></a>[agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator)
-**Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.**
+**运行并监督编程智能体团队，覆盖从规划到合并的全流程。支持任意框架（Claude Code、Codex 等 25 种以上）。提供桌面端、网页端、移动端及云端智能体。**
 
 ⭐ 11,228 · 🍴 1,584 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 星标历史](https://star-history.com/#ComposioHQ/agent-orchestrator&Date)
 
+- 从规划到合并全程运行和监督编码智能体团队
+- 支持任意工具链（Claude Code、Codex 等 25 种以上）
+- 支持桌面、网页、移动端和云端智能体
+- 集中编排多个编码智能体协同工作
 
 ### <a name="openjarvis"></a>[OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
 **个人 AI，部署于个人设备。**
@@ -680,10 +740,14 @@
 - 大规模AI智能体部署
 
 ### <a name="bb"></a>[bb](https://github.com/get-bb/bb)
-**The agent IDE that builds itself**
+**自我构建的智能体 IDE**
 
 ⭐ 3,491 · 🍴 445 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 星标历史](https://star-history.com/#get-bb/bb&Date)
 
+- 智能体自我构建与迭代进化
+- 一体化智能体集成开发环境
+- 自动化代码生成与优化
+- 人机协作无缝开发体验
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **基于 Rust 构建的安全持久化个人智能体服务器。单一二进制文件，支持沙箱化执行、多供应商大语言模型、语音、记忆，集成 Telegram、WhatsApp、Discord、Teams 及 MCP 工具。原生安全设计，运行于自有硬件。**
@@ -696,22 +760,34 @@
 - 采用沙箱化执行与本地硬件部署，确保隐私与安全
 
 ### <a name="fx"></a>[fx](https://github.com/vercel-labs/fx)
-**Unix like coding agent**
+**类 Unix 编码智能体**
 
 ⭐ 2,849 · 🍴 324 · 🛠️ Zig · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#vercel-labs/fx&Date)
 
+- 遵循 Unix 哲学，专注做好单一任务
+- 支持管道操作，可与其他命令行工具组合使用
+- AI 驱动的代码生成、编辑与重构能力
+- 轻量级终端界面，无缝集成现有开发工作流
 
 ### <a name="atomic-agent"></a>[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
-**Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.**
+**Atomic Agent 是一款本地优先的 AI 智能体，通过 llama.cpp 在自有设备上运行开放权重模型。**
 
 ⭐ 2,525 · 🍴 243 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 星标历史](https://star-history.com/#AtomicBot-ai/atomic-agent&Date)
 
+- 本地优先的AI智能体
+- 运行开放权重模型
+- 在您自己的机器上运行
+- 基于llama.cpp构建
 
 ### <a name="cccc"></a>[cccc](https://github.com/ChesterRa/cccc)
-**Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow**
+**像群聊一样协调你的编码智能体——已读回执、送达追踪，用手机即可远程操作。一次 pip install，零基础设施。面向生产环境的 7×24 小时工作流编排器。**
 
 ⭐ 1,118 · 🍴 98 · 🛠️ Rust · 🏷️ Multi-Agent · 📅 Today · [📈 星标历史](https://star-history.com/#ChesterRa/cccc&Date)
 
+- 像群聊一样协调多个编码代理，支持已读回执与送达跟踪
+- 通过手机即可远程操作和管理代理任务
+- 一次 pip 安装即可使用，零基础设施依赖
+- 面向生产环境的编排器，支持 7x24 小时不间断工作流
 
 ### <a name="langsmith-cli"></a>[langsmith-cli](https://github.com/langchain-ai/langsmith-cli)
 **以 Coding Agent 为先的 LangSmith 交互 CLI。**
@@ -734,10 +810,14 @@
 - 全场景预测能力
 
 ### <a name="openinterpreter"></a>[openinterpreter](https://github.com/openinterpreter/openinterpreter)
-**A coding agent for open models like Kimi K3 and GLM 5.3**
+**面向 Kimi K3、GLM 5.3 等开放模型的编码智能体**
 
 ⭐ 68,293 · 🍴 5,882 · 🛠️ Rust · 🏷️ Computer Control · 📅 1d · [📈 星标历史](https://star-history.com/#openinterpreter/open-interpreter&Date)
 
+- 支持Kimi K3和GLM 5.3等开放模型
+- 智能编程代理，自动编写并执行代码
+- 本地运行代码，保护数据隐私安全
+- 通过自然语言交互完成编程任务
 
 ### <a name="cli-anything"></a>[CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 **CLI-Anything：让所有软件实现智能体原生化 -- CLI-Hub: https://clianything.cc/**
@@ -790,10 +870,14 @@
 - 与 Hugging Face 生态深度集成
 
 ### <a name="owl"></a>[owl](https://github.com/camel-ai/owl)
-**🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation**
+**🦉 OWL：通过优化劳动力学习，在现实世界任务自动化中提供通用多智能体协助**
 
 ⭐ 20,129 · 🍴 2,298 · 🛠️ Python · 🏷️ Multi-Agent · 📅 14d · [📈 星标历史](https://star-history.com/#camel-ai/owl&Date)
 
+- 多智能体协作系统，支持多个AI智能体协同完成复杂任务
+- 真实世界任务自动化，可处理实际应用场景中的各类工作
+- 优化的劳动力学习机制，持续提升智能体执行效率
+- 通用任务辅助能力，覆盖信息检索、文档处理、代码编写等多种场景
 
 ### <a name="db-gpt"></a>[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 **面向下一代 AI + 数据产品的开源智能体 AI 数据助手。**
@@ -826,16 +910,24 @@
 - 领先的自主智能体研究平台
 
 ### <a name="deepcode"></a>[DeepCode](https://github.com/HKUDS/DeepCode)
-**"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"**
+**DeepCode：开放智能体编程（智能体框架 & 循环工程 & 多智能体编排）**
 
 ⭐ 16,514 · 🍴 2,154 · 🛠️ Python · 🏷️ Coding · 📅 1d · [📈 星标历史](https://star-history.com/#HKUDS/DeepCode&Date)
 
+- 开放式智能体编程
+- 智能体执行框架
+- 循环工程
+- 多智能体编排
 
 ### <a name="eigent"></a>[eigent](https://github.com/eigent-ai/eigent)
-**Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex**
+**Eigent：开源 Cowork 桌面应用——Claude Cowork 与 Codex 的本地免费替代方案**
 
 ⭐ 15,240 · 🍴 1,820 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 3d · [📈 星标历史](https://star-history.com/#eigent-ai/eigent&Date)
 
+- 开源的协作桌面应用
+- 本地运行，保护数据隐私
+- 完全免费使用
+- Claude Cowork 和 Codex 的替代方案
 
 ### <a name="autoresearchclaw"></a>[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
 **全自主、自进化科研：从灵感到论文。对话想法，即出论文。🦞**
@@ -878,10 +970,14 @@
 - 支持 100 多种大语言模型
 
 ### <a name="mini-swe-agent"></a>[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
-**The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!**
+**仅100行代码的AI智能体，可解决GitHub issue，亦可在命令行中为你助力。极致简洁：无臃肿配置，无巨型monorepo——却在SWE-bench Verified上斩获逾74%的高分！**
 
 ⭐ 7,321 · 🍴 1,005 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 星标历史](https://star-history.com/#swe-agent/mini-swe-agent&Date)
 
+- 仅100行代码的极简AI智能体
+- 可解决GitHub问题或辅助命令行操作
+- 设计极其简单，无需庞大配置或巨型代码库
+- 在SWE-bench verified基准测试中得分超过74%
 
 ### <a name="t3mp3st"></a>[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 **自主红队评估平台；多智能体进攻性安全元框架。**
@@ -958,10 +1054,10 @@
 
 ⭐ 3,897 · 🍴 848 · 🛠️ Python · 🏷️ Agent Framework · 📅 5d · [📈 星标历史](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
 
-- 支持同步和异步 API 调用
-- 内置类型提示与 Pydantic 数据验证
-- 支持流式响应（Streaming）输出
-- 具备自动重试机制与完善的错误处理
+- 官方Python SDK，用于访问Anthropic Claude大语言模型API
+- 支持流式响应（Streaming），实时获取模型生成内容
+- 同时支持同步和异步（asyncio）两种调用方式
+- 内置工具调用（Tool Use）、视觉多模态支持及自动重试机制
 
 ### <a name="beeai-framework"></a>[beeai-framework](https://github.com/i-am-bee/beeai-framework)
 **使用 Python 和 TypeScript 构建生产级 AI 智能体。**
@@ -974,10 +1070,14 @@
 - 简化复杂 AI 工作流的编排与部署
 
 ### <a name="mtplx"></a>[MTPLX](https://github.com/youssofal/MTPLX)
-**3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.**
+**MLX 上速度提升 3 倍 | Qwen 3.8 27B | Apple Silicon 原生 MTP 投机解码，无需外部草稿模型**
 
 ⭐ 2,197 · 🍴 163 · 🛠️ Python · 🏷️ LLM Runtime · 📅 4d · [📈 星标历史](https://star-history.com/#youssofal/MTPLX&Date)
 
+- MLX上速度提升3倍
+- Qwen 3.8 27B模型
+- 原生MTP推测解码
+- 在Apple Silicon上运行，无需外部草稿模型
 
 ### <a name="localagi"></a>[LocalAGI](https://github.com/mudler/LocalAGI)
 **LocalAGI 是一款功能强大的自托管 AI Agent 平台，旨在提供极致的隐私保护与灵活性。作为 OpenAI Responses API 的完整替代方案，它具备先进的智能体能力。无需云端，支持在消费级硬件（CPU 和 GPU）上运行本地 AI。**
@@ -990,10 +1090,14 @@
 - 支持消费级 CPU 和 GPU 本地运行
 
 ### <a name="waku-agent"></a>[waku-agent](https://github.com/ShenSeanChen/waku-agent)
-**Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.**
+**Waku Waku！Waku Agent 是一个真正归你所有的本地优先 AI 智能体框架，内置循环、记忆与评估，全部以代码实现，确保随规模增长依然清晰可读。**
 
 ⭐ 1,720 · 🍴 335 · 🛠️ Python · 🏷️ Agent Framework · 📅 12d · [📈 星标历史](https://star-history.com/#ShenSeanChen/waku-agent&Date)
 
+- 本地优先架构，用户完全拥有AI代理框架
+- 内置循环、记忆与评估完整能力
+- 全部以代码实现，透明可控
+- 设计注重可读性，随规模增长依然清晰易懂
 
 ### <a name="adala"></a>[Adala](https://github.com/HumanSignal/Adala)
 **Adala：自主数据（标注）智能体框架**
@@ -1016,10 +1120,14 @@
 - 核心推理框架
 
 ### <a name="pool"></a>[pool](https://github.com/poolsideai/pool)
-**pool is Poolside’s coding agent that runs in your terminal or integrates with any ACP-compatible editor**
+**pool 是 Poolside 的编码智能体，可在终端中运行，或与任何兼容 ACP 的编辑器集成**
 
 ⭐ 424 · 🍴 25 · 🛠️ N/A · 🏷️ Coding · 📅 23d · [📈 星标历史](https://star-history.com/#poolsideai/pool&Date)
 
+- 由Poolside开发的编程智能体
+- 可在终端中直接运行
+- 支持与任何兼容ACP的编辑器集成
+- 专注于辅助代码编写与开发
 
 ### <a name="gollem"></a>[gollem](https://github.com/gollem-dev/gollem)
 **支持 MCP 与内置工具的 Go 语言智能体 AI 应用开发框架。**
@@ -1106,10 +1214,10 @@
 
 ⭐ 22,353 · 🍴 2,852 · 🛠️ Python · 🏷️ Task Automation · 📅 222d · [📈 星标历史](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- 任务管理（自动创建、排序和执行）
-- 自主运行的迭代循环机制
-- 集成大语言模型与向量数据库
-- 目标驱动的自动化工作流
+- 基于目标自动生成和管理任务
+- 利用AI智能排序任务优先级
+- 自主执行任务并持续迭代优化
+- 结合向量数据库存储和检索任务上下文
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **探索易用、轻量化多智能体编排的教学框架。由 OpenAI 解决方案团队维护。**
@@ -1232,10 +1340,14 @@
 - 智能 AI 代理 (Agent) 交互体验
 
 ### <a name="sipp"></a>[Sipp](https://github.com/noumena-labs/Sipp)
-**AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser. Features a symmetric API for seamless local execution and cloud provider routing. Built with Rust & C++.**
+**AI推理，简洁封装。极速、零依赖的WebGPU运行时，可直接在浏览器中运行GGUF模型。采用对称API设计，无缝实现本地执行与云服务商路由。基于Rust与C++构建。**
 
 ⭐ 116 · 🍴 16 · 🛠️ Rust · 🏷️ LLM Runtime · 📅 31d · [📈 星标历史](https://star-history.com/#noumena-labs/Sipp&Date)
 
+- 零依赖的极速 WebGPU 运行时
+- 直接在浏览器中运行 GGUF 模型
+- 对称 API 无缝支持本地执行与云端路由
+- 基于 Rust 与 C++ 构建
 
 ### <a name="taskade"></a>[taskade](https://github.com/taskade/taskade)
 **AI 原生工作空间平台。项目有记忆，智能体在思考，自动化在执行。一键提示词直达生产 —— 欢迎提交 Bug 报告与功能需求。**

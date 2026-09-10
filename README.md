@@ -2,7 +2,7 @@
 
 **EN** | [RU](README_RU.md) | [ZH](README_ZH.md)
 
-*Last updated: 2026-09-10 16:22:24*
+*Last updated: 2026-09-10 16:29:01*
 
 | Rank | Framework | Stars | Category | License | Language | Issues | Updated | Change |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -45,7 +45,7 @@
 | 37 | [**`kilocode`**](#kilocode) | 27,246 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 561 / 0 / 561 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
 | 38 | [**`haystack`**](#haystack) | 26,470 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 130 / 0 / 130 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
 | 39 | [**`letta`**](#letta) | 24,692 | Agent Memory | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
-| 40 | [**`openwork`**](#openwork) | 23,455 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 531 / 0 / 531 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
+| 40 | [**`openwork`**](#openwork) | 23,455 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 532 / 0 / 532 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B38-2eb872?style=flat-square) |
 | 41 | [**`pentagi`**](#pentagi) | 22,667 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 57 / 0 / 57 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B83-2eb872?style=flat-square) |
 | 42 | [**`opik`**](#opik) | 21,920 | Observability | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 250 / 0 / 250 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B34-2eb872?style=flat-square) |
 | 43 | [**`adk-python`**](#adk-python) | 21,483 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 522 / 0 / 522 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
@@ -144,6 +144,10 @@
 
 ⭐ 389,363 · 🍴 81,828 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#openclaw/openclaw&Date)
 
+- Agentic AI that takes real actions and completes tasks autonomously
+- Works across any operating system
+- Runs on any platform
+- Open source with a community-driven approach
 
 ### <a name="hermes-agent"></a>[hermes-agent](https://github.com/NousResearch/hermes-agent)
 **The agent that grows with you**
@@ -158,8 +162,12 @@
 ### <a name="deepseek-harness"></a>[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 **DeepSeek Harness: Everything is a Plugin.**
 
-⭐ 218,900 · 🍴 25,874 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
+⭐ 218,900 · 🍴 25,873 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
 
+- Plugin-based architecture where every component is implemented as a plugin
+- Seamless integration with DeepSeek models and tooling
+- Highly extensible and modular design for custom workflows
+- Flexible configuration allowing easy addition or removal of functionality
 
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **The open source coding agent.**
@@ -196,12 +204,20 @@
 
 ⭐ 180,574 · 🍴 17,789 · 🛠️ Go · 🏷️ LLM Runtime · 📅 Today · [📈 Star History](https://star-history.com/#ollama/ollama&Date)
 
+- Quick and easy setup to get models running locally
+- Support for a wide range of open-source models including Kimi-K2.6, GLM-5.2, and DeepSeek
+- Access to popular model families such as Qwen, Gemma, and gpt-oss
+- Simple tooling for running large language models on your own machine
 
 ### <a name="dify"></a>[dify](https://github.com/langgenius/dify)
 **Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.**
 
 ⭐ 155,333 · 🍴 24,528 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 Star History](https://star-history.com/#langgenius/dify&Date)
 
+- Build agentic workflows
+- Create RAG pipelines
+- Rich AI model and tool support on one collaborative workspace
+- Flexible deployment on cloud, VPC, or self-hosted
 
 ### <a name="open-webui"></a>[open-webui](https://github.com/open-webui/open-webui)
 **User-friendly AI Interface (Supports Ollama, OpenAI API, ...)**
@@ -288,10 +304,10 @@
 
 ⭐ 82,210 · 🍴 11,326 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 Star History](https://star-history.com/#bytedance/deer-flow&Date)
 
-- Long-horizon task execution spanning minutes to hours
-- Multi-functional capabilities including research, coding, and creation
-- Integrated infrastructure with sandboxes, memories, and tools
-- Modular architecture utilizing subagents and a message gateway
+- Open-source long-horizon SuperAgent harness
+- Researches, codes, and creates autonomously
+- Leverages sandboxes, memories, tools, skills, subagents, and message gateway
+- Handles tasks ranging from minutes to hours
 
 ### <a name="paperclip"></a>[paperclip](https://github.com/paperclipai/paperclip)
 **The open-source app everyone uses to manage agents at work**
@@ -338,18 +354,30 @@
 
 ⭐ 49,501 · 🍴 6,387 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 Star History](https://star-history.com/#multica-ai/multica&Date)
 
+- Unified human-AI team collaboration
+- Open-source platform
+- Self-hostable deployment
+- AI agent coordination and management
 
 ### <a name="airi"></a>[airi](https://github.com/moeru-ai/airi)
 **💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.**
 
 ⭐ 49,019 · 🍴 4,858 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#moeru-ai/airi&Date)
 
+- Self-hosted, you-owned AI companion
+- Realtime voice chat capability
+- Capable of playing Minecraft and Factorio
+- Cross-platform support for Web, macOS, and Windows
 
 ### <a name="nanobot"></a>[nanobot](https://github.com/HKUDS/nanobot)
 **Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps**
 
 ⭐ 47,985 · 🍴 8,476 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#HKUDS/nanobot&Date)
 
+- Ultra-lightweight, open-source, self-hosted personal AI agent framework
+- Built in Python with an integrated WebUI
+- Supports tools, memory, and MCP integration
+- Enables multi-agent workflows, automation, and chat apps
 
 ### <a name="librechat"></a>[LibreChat](https://github.com/danny-avila/LibreChat)
 **Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active**
@@ -436,6 +464,10 @@
 
 ⭐ 30,504 · 🍴 3,134 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 Star History](https://star-history.com/#can1357/oh-my-pi&Date)
 
+- AI-powered coding agent that autonomously handles development tasks
+- Deep IDE integration with full access to editor context and tools
+- Instant access via keyboard shortcut for quick invocation
+- Works seamlessly within your existing development workflow
 
 ### <a name="deepagents"></a>[deepagents](https://github.com/langchain-ai/deepagents)
 **The batteries-included agent harness.**
@@ -542,12 +574,20 @@
 
 ⭐ 20,479 · 🍴 2,244 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 Star History](https://star-history.com/#PrimeIntellect-ai/prime-agent&Date)
 
+- Self-improving agent capabilities
+- RLM-based architecture
+- Optimized for coding workflows
+- Supports long-running autonomous tasks
 
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
 **How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.**
 
 ⭐ 19,849 · 🍴 2,687 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#pydantic/pydantic-ai&Date)
 
+- AI agents
+- Realtime voice
+- Image generation
+- Embeddings
 
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Open source agentic operating system**
@@ -584,6 +624,10 @@
 
 ⭐ 14,796 · 🍴 1,800 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 Today · [📈 Star History](https://star-history.com/#yc-software/qm&Date)
 
+- Multiplayer collaboration allowing multiple users to work together in shared sessions
+- Agent harness for orchestrating and managing AI agents
+- Designed specifically for work and professional productivity tasks
+- Real-time shared environment for coordinating agent-driven workflows
 
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
 **Open-source, secure environment with real-world tools for enterprise-grade agents.**
@@ -630,18 +674,30 @@
 
 ⭐ 12,586 · 🍴 1,409 · 🛠️ Python · 🏷️ Agent Memory · 📅 Today · [📈 Star History](https://star-history.com/#semantica-agi/semantica&Date)
 
+- Graph-native infrastructure for storing and querying knowledge as connected data
+- Context management and provisioning for AI systems
+- Accountability and auditability for AI decision-making
+- Native support for semantic relationships and knowledge graphs
 
 ### <a name="freetoken"></a>[FreeToken](https://github.com/FlashML-org/FreeToken)
 **FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.**
 
 ⭐ 12,378 · 🍴 1,192 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 Star History](https://star-history.com/#FlashML-org/FreeToken&Date)
 
+- Datacenter-scale model serving on your desktop
+- Run massive models locally
+- Fast model inference performance
+- Efficient resource utilization
 
 ### <a name="agent-orchestrator"></a>[agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator)
 **Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.**
 
 ⭐ 11,228 · 🍴 1,584 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 Star History](https://star-history.com/#ComposioHQ/agent-orchestrator&Date)
 
+- Orchestrate and supervise teams of coding agents
+- End-to-end workflow management from planning to merge
+- Compatible with any harness including Claude Code, Codex, and 25+ more
+- Desktop, web, mobile, and cloud agent support
 
 ### <a name="openjarvis"></a>[OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
 **Personal AI, On Personal Devices**
@@ -688,6 +744,10 @@
 
 ⭐ 3,491 · 🍴 445 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 Star History](https://star-history.com/#get-bb/bb&Date)
 
+- Purpose-built IDE for developing, testing, and deploying AI agents
+- Self-building architecture where agents can extend and improve the IDE itself
+- Integrated agent orchestration and workflow management tools
+- Rapid iteration loop for building agentic applications with AI assistance
 
 ### <a name="moltis"></a>[moltis](https://github.com/moltis-org/moltis)
 **A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.**
@@ -704,18 +764,30 @@
 
 ⭐ 2,849 · 🍴 324 · 🛠️ Zig · 🏷️ Coding · 📅 Today · [📈 Star History](https://star-history.com/#vercel-labs/fx&Date)
 
+- Terminal-based AI coding agent following Unix philosophy
+- Composable with pipes, filters, and standard shell tools
+- Natural language prompts for code generation, editing, and refactoring
+- Scriptable and automatable within shell workflows and CI pipelines
 
 ### <a name="atomic-agent"></a>[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
 **Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.**
 
 ⭐ 2,525 · 🍴 243 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 Star History](https://star-history.com/#AtomicBot-ai/atomic-agent&Date)
 
+- Local-first AI agent architecture
+- Runs open-weight language models
+- Operates entirely on your own machine
+- Powered by llama.cpp for local inference
 
 ### <a name="cccc"></a>[cccc](https://github.com/ChesterRa/cccc)
 **Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow**
 
 ⭐ 1,118 · 🍴 98 · 🛠️ Rust · 🏷️ Multi-Agent · 📅 Today · [📈 Star History](https://star-history.com/#ChesterRa/cccc&Date)
 
+- Coordinate coding agents like a group chat
+- Read receipts and delivery tracking for agent messages
+- Remote operations from your phone
+- One pip install with zero infrastructure
 
 ### <a name="langsmith-cli"></a>[langsmith-cli](https://github.com/langchain-ai/langsmith-cli)
 **A coding agent-first CLI for interacting with LangSmith.**
@@ -742,6 +814,10 @@
 
 ⭐ 68,293 · 🍴 5,882 · 🛠️ Rust · 🏷️ Computer Control · 📅 1d · [📈 Star History](https://star-history.com/#openinterpreter/open-interpreter&Date)
 
+- Executes code in Python, JavaScript, and Shell directly on your local machine
+- Supports open-source language models like Kimi K3 and GLM 5.3
+- Natural language interface for controlling and automating your computer
+- Can create and edit files, browse the web, and run programs autonomously
 
 ### <a name="cli-anything"></a>[CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 **"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/**
@@ -798,6 +874,10 @@
 
 ⭐ 20,129 · 🍴 2,298 · 🛠️ Python · 🏷️ Multi-Agent · 📅 14d · [📈 Star History](https://star-history.com/#camel-ai/owl&Date)
 
+- Optimized Workforce Learning for efficient multi-agent collaboration
+- General-purpose multi-agent assistance across diverse domains
+- Real-world task automation capabilities
+- Dynamic task orchestration and role-based agent coordination
 
 ### <a name="db-gpt"></a>[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 **open-source agentic AI data assistant for the next generation of AI + Data products.**
@@ -834,12 +914,20 @@
 
 ⭐ 16,514 · 🍴 2,154 · 🛠️ Python · 🏷️ Coding · 📅 1d · [📈 Star History](https://star-history.com/#HKUDS/DeepCode&Date)
 
+- Open-source agentic coding platform
+- Agent harness for structured AI agent execution
+- Loop engineering for iterative coding workflows
+- Multi-agent orchestration for coordinated task completion
 
 ### <a name="eigent"></a>[eigent](https://github.com/eigent-ai/eigent)
 **Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex**
 
 ⭐ 15,240 · 🍴 1,820 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 3d · [📈 Star History](https://star-history.com/#eigent-ai/eigent&Date)
 
+- Open source cowork desktop application
+- Runs locally on your machine
+- Completely free to use
+- Alternative to Claude Cowork and Codex
 
 ### <a name="autoresearchclaw"></a>[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
 **Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞**
@@ -886,6 +974,10 @@
 
 ⭐ 7,321 · 🍴 1,005 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 Star History](https://star-history.com/#swe-agent/mini-swe-agent&Date)
 
+- Solves GitHub issues
+- Assists you in your command line
+- Radically simple design with only 100 lines of code, no huge configs, and no giant monorepo
+- Scores over 74% on SWE-bench verified
 
 ### <a name="t3mp3st"></a>[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 **autonomous red teaming platform; multi-agent offensive-security meta-harness**
@@ -962,10 +1054,10 @@
 
 ⭐ 3,897 · 🍴 848 · 🛠️ Python · 🏷️ Agent Framework · 📅 5d · [📈 Star History](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
 
-- Support for both synchronous and asynchronous clients
-- Type-safe requests and responses using Pydantic
-- Real-time response streaming support
-- Automatic retries with exponential backoff
+- Official Python client library for accessing Anthropic's Claude AI models via the Anthropic API
+- Supports both synchronous and asynchronous (asyncio) clients for flexible integration
+- Streaming responses for real-time, incremental message generation
+- Built-in support for advanced capabilities including tool use, vision, and automatic retries with error handling
 
 ### <a name="beeai-framework"></a>[beeai-framework](https://github.com/i-am-bee/beeai-framework)
 **Build production-ready AI agents in both Python and Typescript.**
@@ -982,6 +1074,10 @@
 
 ⭐ 2,197 · 🍴 163 · 🛠️ Python · 🏷️ LLM Runtime · 📅 4d · [📈 Star History](https://star-history.com/#youssofal/MTPLX&Date)
 
+- 3x faster speeds on MLX
+- Supports Qwen 3.8 27B
+- Native MTP speculative decoding
+- Runs on Apple Silicon with no external drafter
 
 ### <a name="localagi"></a>[LocalAGI](https://github.com/mudler/LocalAGI)
 **LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).**
@@ -998,6 +1094,10 @@
 
 ⭐ 1,720 · 🍴 335 · 🛠️ Python · 🏷️ Agent Framework · 📅 12d · [📈 Star History](https://star-history.com/#ShenSeanChen/waku-agent&Date)
 
+- Local-first AI agent harness that you fully own
+- Includes built-in agent loop, memory, and eval capabilities
+- Everything implemented in code for full transparency and control
+- Designed to stay legible and maintainable as it grows
 
 ### <a name="adala"></a>[Adala](https://github.com/HumanSignal/Adala)
 **Adala: Autonomous DAta (Labeling) Agent framework**
@@ -1024,6 +1124,10 @@
 
 ⭐ 424 · 🍴 25 · 🛠️ N/A · 🏷️ Coding · 📅 23d · [📈 Star History](https://star-history.com/#poolsideai/pool&Date)
 
+- Runs in the terminal
+- Integrates with any ACP-compatible editor
+- AI-powered coding agent
+- Built by Poolside
 
 ### <a name="gollem"></a>[gollem](https://github.com/gollem-dev/gollem)
 **Go framework for agentic AI app with MCP and built-in tools**
@@ -1110,10 +1214,10 @@
 
 ⭐ 22,353 · 🍴 2,852 · 🛠️ Python · 🏷️ Task Automation · 📅 222d · [📈 Star History](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- Autonomous task generation and management
-- Dynamic task prioritization based on objectives
-- LLM-powered task execution
-- Vector database integration for persistent memory
+- Autonomously creates new tasks based on a given objective and previous task results
+- AI-powered task prioritization that dynamically reorders the task list
+- Executes tasks using OpenAI GPT models as AI agents
+- Stores task results in a vector database to provide context for future tasks
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.**
@@ -1240,6 +1344,10 @@
 
 ⭐ 116 · 🍴 16 · 🛠️ Rust · 🏷️ LLM Runtime · 📅 31d · [📈 Star History](https://star-history.com/#noumena-labs/Sipp&Date)
 
+- Blazing-fast, zero-dependency WebGPU runtime
+- Runs GGUF models directly in the browser
+- Symmetric API for seamless local execution and cloud provider routing
+- Built with Rust & C++ for high performance
 
 ### <a name="taskade"></a>[taskade](https://github.com/taskade/taskade)
 **The AI-native workspace platform. Projects remember. Agents think. Automations execute. One prompt to production — bug reports & feature requests welcome.**
