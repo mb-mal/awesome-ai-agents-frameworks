@@ -123,5 +123,6 @@
  "FlashML-org/FreeToken": "LLM Runtime",
  "get-bb/bb": "Multi-Agent",
  "camel-ai/owl": "Multi-Agent",
- "eigent-ai/eigent": "Agent Platform"
+  "eigent-ai/eigent": "Agent Platform",
+  "ChesterRa/cccc": "Multi-Agent"
 }
