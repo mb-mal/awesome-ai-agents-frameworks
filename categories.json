@@ -125,5 +125,6 @@
   "camel-ai/owl": "Multi-Agent",
   "eigent-ai/eigent": "Agent Platform",
   "ChesterRa/cccc": "Multi-Agent",
-  "NVlabs/SoL-Pi": "Coding"
+  "NVlabs/SoL-Pi": "Coding",
+  "alphaXiv/OpenResearch": "Research"
 }

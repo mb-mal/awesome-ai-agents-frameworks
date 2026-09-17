@@ -125,6 +125,7 @@
     "camel-ai/owl",
     "eigent-ai/eigent",
     "ChesterRa/cccc",
-    "NVlabs/SoL-Pi"
+    "NVlabs/SoL-Pi",
+    "alphaXiv/OpenResearch"
   ]
 }
