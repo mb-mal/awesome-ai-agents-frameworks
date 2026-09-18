@@ -57,6 +57,7 @@
     "mlflow/mlflow",
     "koala73/worldmonitor",
     "m-mizutani/gollem",
+    "wanxingai/LightAgent",
     "ggml-org/llama.cpp",
     "vllm-project/vllm",
     "ollama/ollama",
