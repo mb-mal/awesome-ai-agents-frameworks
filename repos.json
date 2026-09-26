@@ -126,6 +126,7 @@
     "eigent-ai/eigent",
     "ChesterRa/cccc",
     "NVlabs/SoL-Pi",
-    "alphaXiv/OpenResearch"
+    "alphaXiv/OpenResearch",
+    "mnemoverse/mcp-memory-server"
   ]
 }

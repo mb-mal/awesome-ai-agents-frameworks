@@ -126,5 +126,6 @@
   "eigent-ai/eigent": "Agent Platform",
   "ChesterRa/cccc": "Multi-Agent",
   "NVlabs/SoL-Pi": "Coding",
-  "alphaXiv/OpenResearch": "Research"
+  "alphaXiv/OpenResearch": "Research",
+  "mnemoverse/mcp-memory-server": "Agent Memory"
 }
