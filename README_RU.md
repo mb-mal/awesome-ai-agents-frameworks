@@ -2,129 +2,129 @@
 
 [EN](README.md) | **RU** | [ZH](README_ZH.md)
 
-*Last updated: 2026-10-01 03:44:28*
+*Last updated: 2026-10-01 06:00:29*
 
 | № | Фреймворк | Звезды | Категория | Лицензия | Язык | Задачи | Обновлен | Изм. |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1 | [**`openclaw`**](#openclaw) | 391,022 | Agent Framework |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 9183 / 0 / 9183 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B206-2eb872?style=flat-square) |
-| 2 | [**`hermes-agent`**](#hermes-agent) | 250,379 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 47792 / 0 / 47792 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B248-2eb872?style=flat-square) |
-| 3 | [**`opencode`**](#opencode) | 211,195 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 6277 / 0 / 6277 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B211-2eb872?style=flat-square) |
-| 4 | [**`n8n`**](#n8n) | 206,395 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 1113 / 0 / 1113 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B76-2eb872?style=flat-square) |
-| 5 | [**`AutoGPT`**](#autogpt) | 187,629 | Agent Platform |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 573 / 0 / 573 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
-| 6 | [**`ollama`**](#ollama) | 181,982 | LLM Runtime | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 4123 / 0 / 4123 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B44-2eb872?style=flat-square) |
-| 7 | [**`dify`**](#dify) | 157,624 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 920 / 0 / 920 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B78-2eb872?style=flat-square) |
-| 8 | [**`open-webui`**](#open-webui) | 153,676 | Chat Interface |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 283 / 0 / 283 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B84-2eb872?style=flat-square) |
-| 9 | [**`claude-code`**](#claude-code) | 148,746 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 13887 / 0 / 13887 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B127-2eb872?style=flat-square) |
-| 10 | [**`langchain`**](#langchain) | 147,332 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 622 / 0 / 622 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B40-2eb872?style=flat-square) |
-| 11 | [**`llama.cpp`**](#llama.cpp) | 130,005 | LLM Runtime | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-C++-3178c6?style=flat-square) | 2545 / 0 / 2545 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B88-2eb872?style=flat-square) |
-| 12 | [**`pi`**](#pi) | 110,798 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 234 / 0 / 234 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B304-2eb872?style=flat-square) |
-| 13 | [**`paperclip`**](#paperclip) | 95,387 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 6198 / 0 / 6198 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B669-2eb872?style=flat-square) |
-| 14 | [**`vllm`**](#vllm) | 93,014 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8383 / 0 / 8383 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B39-2eb872?style=flat-square) |
-| 15 | [**`ragflow`**](#ragflow) | 91,562 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 1576 / 0 / 1576 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B43-2eb872?style=flat-square) |
-| 16 | [**`worldmonitor`**](#worldmonitor) | 87,635 | Intelligence Monitoring | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 347 / 0 / 347 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B42-2eb872?style=flat-square) |
-| 17 | [**`deer-flow`**](#deer-flow) | 83,286 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 898 / 0 / 898 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B35-2eb872?style=flat-square) |
-| 18 | [**`openinterpreter`**](#openinterpreter) | 68,478 | Computer Control | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 10 / 0 / 10 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 19 | [**`strix`**](#strix) | 65,793 | Cybersecurity | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 425 / 0 / 425 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B165-2eb872?style=flat-square) |
-| 20 | [**`crewAI`**](#crewai) | 59,242 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 514 / 0 / 514 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B41-2eb872?style=flat-square) |
-| 21 | [**`multica`**](#multica) | 51,769 | Multi-Agent |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 1742 / 0 / 1742 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B59-2eb872?style=flat-square) |
-| 22 | [**`airi`**](#airi) | 49,897 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 262 / 0 / 262 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B53-2eb872?style=flat-square) |
+| 1 | [**`openclaw`**](#openclaw) | 391,041 | Agent Framework |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 9157 / 0 / 9157 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B225-2eb872?style=flat-square) |
+| 2 | [**`hermes-agent`**](#hermes-agent) | 250,400 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 47691 / 0 / 47691 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B269-2eb872?style=flat-square) |
+| 3 | [**`opencode`**](#opencode) | 211,209 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 6284 / 0 / 6284 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B225-2eb872?style=flat-square) |
+| 4 | [**`n8n`**](#n8n) | 206,401 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 1114 / 0 / 1114 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B82-2eb872?style=flat-square) |
+| 5 | [**`AutoGPT`**](#autogpt) | 187,630 | Agent Platform |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 575 / 0 / 575 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
+| 6 | [**`ollama`**](#ollama) | 181,991 | LLM Runtime | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 4125 / 0 / 4125 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B53-2eb872?style=flat-square) |
+| 7 | [**`dify`**](#dify) | 157,630 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 920 / 0 / 920 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B84-2eb872?style=flat-square) |
+| 8 | [**`open-webui`**](#open-webui) | 153,685 | Chat Interface |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 257 / 0 / 257 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B93-2eb872?style=flat-square) |
+| 9 | [**`claude-code`**](#claude-code) | 148,752 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 13903 / 0 / 13903 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B133-2eb872?style=flat-square) |
+| 10 | [**`langchain`**](#langchain) | 147,336 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 622 / 0 / 622 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B44-2eb872?style=flat-square) |
+| 11 | [**`llama.cpp`**](#llama.cpp) | 130,014 | LLM Runtime | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-C++-3178c6?style=flat-square) | 2539 / 0 / 2539 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B97-2eb872?style=flat-square) |
+| 12 | [**`pi`**](#pi) | 110,826 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 234 / 0 / 234 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B332-2eb872?style=flat-square) |
+| 13 | [**`paperclip`**](#paperclip) | 95,430 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 6203 / 0 / 6203 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B712-2eb872?style=flat-square) |
+| 14 | [**`vllm`**](#vllm) | 93,017 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8393 / 0 / 8393 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B42-2eb872?style=flat-square) |
+| 15 | [**`ragflow`**](#ragflow) | 91,566 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 1576 / 0 / 1576 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B47-2eb872?style=flat-square) |
+| 16 | [**`worldmonitor`**](#worldmonitor) | 87,636 | Intelligence Monitoring | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 349 / 0 / 349 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B43-2eb872?style=flat-square) |
+| 17 | [**`deer-flow`**](#deer-flow) | 83,290 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 905 / 0 / 905 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B39-2eb872?style=flat-square) |
+| 18 | [**`openinterpreter`**](#openinterpreter) | 68,477 | Computer Control | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 10 / 0 / 10 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
+| 19 | [**`strix`**](#strix) | 65,808 | Cybersecurity | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 426 / 0 / 426 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B180-2eb872?style=flat-square) |
+| 20 | [**`crewAI`**](#crewai) | 59,246 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 513 / 0 / 513 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B45-2eb872?style=flat-square) |
+| 21 | [**`multica`**](#multica) | 51,773 | Multi-Agent |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 1736 / 0 / 1736 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B63-2eb872?style=flat-square) |
+| 22 | [**`airi`**](#airi) | 49,900 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 262 / 0 / 262 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B56-2eb872?style=flat-square) |
 | 23 | [**`nanobot`**](#nanobot) | 48,705 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 810 / 0 / 810 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
-| 24 | [**`LibreChat`**](#librechat) | 45,168 | Chat Interface | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 822 / 0 / 822 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B29-2eb872?style=flat-square) |
-| 25 | [**`langgraph`**](#langgraph) | 42,535 | Agent Orchestration | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 839 / 0 / 839 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B42-2eb872?style=flat-square) |
-| 26 | [**`agno`**](#agno) | 42,428 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1725 / 0 / 1725 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B37-2eb872?style=flat-square) |
-| 27 | [**`AstrBot`**](#astrbot) | 41,263 | Agent Framework | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1576 / 0 / 1576 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B33-2eb872?style=flat-square) |
-| 28 | [**`openhuman`**](#openhuman) | 40,286 | Agent Framework | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 262 / 0 / 262 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B0-95a5a6?style=flat-square) |
-| 29 | [**`CopilotKit`**](#copilotkit) | 37,632 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 292 / 0 / 292 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B23-2eb872?style=flat-square) |
-| 30 | [**`DeepSeek-Reasonix`**](#deepseek-reasonix) | 35,725 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 167 / 0 / 167 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
-| 31 | [**`QwenPaw`**](#qwenpaw) | 35,395 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 997 / 0 / 997 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B20-2eb872?style=flat-square) |
-| 32 | [**`oh-my-pi`**](#oh-my-pi) | 33,891 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3364 / 0 / 3364 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B94-2eb872?style=flat-square) |
-| 33 | [**`onyx`**](#onyx) | 32,301 | Chat Interface |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 531 / 0 / 531 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B9-2eb872?style=flat-square) |
-| 34 | [**`deepagents`**](#deepagents) | 29,883 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 183 / 0 / 183 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B20-2eb872?style=flat-square) |
-| 35 | [**`smolagents`**](#smolagents) | 29,614 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 859 / 0 / 859 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B21-2eb872?style=flat-square) |
-| 36 | [**`crush`**](#crush) | 28,416 | Coding |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 827 / 0 / 827 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B43-2eb872?style=flat-square) |
-| 37 | [**`mlflow`**](#mlflow) | 28,205 | MLOps | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2159 / 0 / 2159 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
-| 38 | [**`kilocode`**](#kilocode) | 27,454 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 608 / 0 / 608 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 39 | [**`haystack`**](#haystack) | 26,634 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 172 / 0 / 172 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 40 | [**`pentagi`**](#pentagi) | 25,156 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 18 / 0 / 18 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B29-2eb872?style=flat-square) |
-| 41 | [**`openwork`**](#openwork) | 23,801 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 568 / 0 / 568 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
-| 42 | [**`opik`**](#opik) | 22,314 | Observability | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 197 / 0 / 197 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B17-2eb872?style=flat-square) |
-| 43 | [**`adk-python`**](#adk-python) | 21,688 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 493 / 0 / 493 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 44 | [**`prime-agent`**](#prime-agent) | 21,429 | Coding |  | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 129 / 0 / 129 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B39-2eb872?style=flat-square) |
-| 45 | [**`pydantic-ai`**](#pydantic-ai) | 20,300 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1383 / 0 / 1383 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B23-2eb872?style=flat-square) |
-| 46 | [**`owl`**](#owl) | 20,152 | Multi-Agent |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 120 / 0 / 120 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 47 | [**`eliza`**](#eliza) | 19,526 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 69 / 0 / 69 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
-| 48 | [**`agent-zero`**](#agent-zero) | 19,357 | Agent Framework |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 135 / 0 / 135 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
-| 49 | [**`camel`**](#camel) | 17,799 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 522 / 0 / 522 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 50 | [**`ag-ui`**](#ag-ui) | 16,169 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 419 / 0 / 419 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B55-2eb872?style=flat-square) |
-| 51 | [**`OpenSandbox`**](#opensandbox) | 15,624 | Sandbox | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 132 / 0 / 132 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B24-2eb872?style=flat-square) |
-| 52 | [**`eigent`**](#eigent) | 15,451 | Agent Platform | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 255 / 0 / 255 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
-| 53 | [**`qm`**](#qm) | 15,301 | Agent Platform | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 635 / 0 / 635 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
-| 54 | [**`llmware`**](#llmware) | 14,827 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 95 / 0 / 95 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 55 | [**`E2B`**](#e2b) | 14,064 | Sandbox | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 83 / 0 / 83 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B26-2eb872?style=flat-square) |
-| 56 | [**`FreeToken`**](#freetoken) | 14,033 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 370 / 0 / 370 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B39-2eb872?style=flat-square) |
-| 57 | [**`agent-framework`**](#agent-framework) | 13,887 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 688 / 0 / 688 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
-| 58 | [**`BrowserOS`**](#browseros) | 13,784 | Browser Agent | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 85 / 0 / 85 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
-| 59 | [**`semantica`**](#semantica) | 13,583 | Agent Memory | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 124 / 0 / 124 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B31-2eb872?style=flat-square) |
-| 60 | [**`MiMo-Code`**](#mimo-code) | 13,569 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 1116 / 0 / 1116 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
-| 61 | [**`ironclaw`**](#ironclaw) | 12,638 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 1537 / 0 / 1537 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 62 | [**`agent-orchestrator`**](#agent-orchestrator) | 12,580 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 692 / 0 / 692 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B37-2eb872?style=flat-square) |
-| 63 | [**`OpenJarvis`**](#openjarvis) | 10,399 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 42 / 0 / 42 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B37-2eb872?style=flat-square) |
-| 64 | [**`local-deep-research`**](#local-deep-research) | 9,149 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1085 / 0 / 1085 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 65 | [**`PraisonAI`**](#praisonai) | 9,114 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 114 / 0 / 114 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
-| 66 | [**`OpenResearch`**](#openresearch) | 6,313 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 49 / 0 / 49 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B190-2eb872?style=flat-square) |
-| 67 | [**`agents-cli`**](#agents-cli) | 6,036 | Cloud Tooling | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 25 / 0 / 25 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 68 | [**`oasis`**](#oasis) | 5,215 | Swarm | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 56 / 0 / 56 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
-| 69 | [**`agency-swarm`**](#agency-swarm) | 4,587 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 10 / 0 / 10 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
-| 70 | [**`bb`**](#bb) | 4,036 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 499 / 0 / 499 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B28-2eb872?style=flat-square) |
-| 71 | [**`anthropic-sdk-python`**](#anthropic-sdk-python) | 3,935 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 187 / 0 / 187 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
-| 72 | [**`openscience`**](#openscience) | 3,877 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 41 / 0 / 41 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
-| 73 | [**`goclaw`**](#goclaw) | 3,633 | Agent Framework |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 264 / 0 / 264 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 74 | [**`fx`**](#fx) | 3,235 | Coding | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Zig-3178c6?style=flat-square) | 255 / 0 / 255 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B10-2eb872?style=flat-square) |
-| 75 | [**`SoL-Pi`**](#sol-pi) | 3,223 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 70 / 0 / 70 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
-| 76 | [**`atomic-agent`**](#atomic-agent) | 2,565 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 48 / 0 / 48 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
-| 77 | [**`Adala`**](#adala) | 1,637 | Data Labeling | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 179 / 0 / 179 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 78 | [**`langsmith-cli`**](#langsmith-cli) | 76 | Observability | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 66 / 0 / 66 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 79 | [**`deepseek-harness`**](#deepseek-harness) | 241,179 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B732-2eb872?style=flat-square) |
-| 80 | [**`MiroFish`**](#mirofish) | 75,487 | Swarm | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 150 / 0 / 150 | ![](https://img.shields.io/badge/-15d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B113-2eb872?style=flat-square) |
-| 81 | [**`llama_index`**](#llama_index) | 52,376 | RAG | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 831 / 0 / 831 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B9-2eb872?style=flat-square) |
-| 82 | [**`CLI-Anything`**](#cli-anything) | 51,138 | Tool Integration | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 120 / 0 / 120 | ![](https://img.shields.io/badge/-9d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B97-2eb872?style=flat-square) |
-| 83 | [**`DeepTutor`**](#deeptutor) | 40,587 | Education | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 249 / 0 / 249 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B58-2eb872?style=flat-square) |
-| 84 | [**`UI-TARS-desktop`**](#ui-tars-desktop) | 39,174 | Computer Control | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 501 / 0 / 501 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
-| 85 | [**`picoclaw`**](#picoclaw) | 30,026 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 59 / 0 / 59 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 86 | [**`gpt-researcher`**](#gpt-researcher) | 29,849 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 19 / 0 / 19 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B27-2eb872?style=flat-square) |
-| 87 | [**`letta`**](#letta) | 24,985 | Agent Memory | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-20d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 88 | [**`DB-GPT`**](#db-gpt) | 20,073 | Data | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 452 / 0 / 452 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
-| 89 | [**`DeepCode`**](#deepcode) | 16,662 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 18 / 0 / 18 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--3-95a5a6?style=flat-square) |
-| 90 | [**`ml-intern`**](#ml-intern) | 10,813 | Machine Learning | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--3-95a5a6?style=flat-square) |
-| 91 | [**`mini-swe-agent`**](#mini-swe-agent) | 8,127 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 81 / 0 / 81 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B22-2eb872?style=flat-square) |
-| 92 | [**`T3MP3ST`**](#t3mp3st) | 6,295 | Cybersecurity | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 8 / 0 / 8 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
-| 93 | [**`transformerlab-app`**](#transformerlab-app) | 5,195 | Machine Learning | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 25 / 0 / 25 | ![](https://img.shields.io/badge/-12d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 94 | [**`OpenAgentsControl`**](#openagentscontrol) | 4,885 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 68 / 0 / 68 | ![](https://img.shields.io/badge/-17d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 24 | [**`LibreChat`**](#librechat) | 45,166 | Chat Interface | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 822 / 0 / 822 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B27-2eb872?style=flat-square) |
+| 25 | [**`langgraph`**](#langgraph) | 42,538 | Agent Orchestration | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 839 / 0 / 839 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B45-2eb872?style=flat-square) |
+| 26 | [**`agno`**](#agno) | 42,434 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1724 / 0 / 1724 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B43-2eb872?style=flat-square) |
+| 27 | [**`AstrBot`**](#astrbot) | 41,266 | Agent Framework | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1574 / 0 / 1574 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B36-2eb872?style=flat-square) |
+| 28 | [**`openhuman`**](#openhuman) | 40,302 | Agent Framework | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 265 / 0 / 265 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B16-2eb872?style=flat-square) |
+| 29 | [**`CopilotKit`**](#copilotkit) | 37,634 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 291 / 0 / 291 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
+| 30 | [**`DeepSeek-Reasonix`**](#deepseek-reasonix) | 35,722 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 180 / 0 / 180 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 31 | [**`QwenPaw`**](#qwenpaw) | 35,395 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 1000 / 0 / 1000 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B20-2eb872?style=flat-square) |
+| 32 | [**`oh-my-pi`**](#oh-my-pi) | 33,897 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 3374 / 0 / 3374 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B100-2eb872?style=flat-square) |
+| 33 | [**`onyx`**](#onyx) | 32,302 | Chat Interface |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 531 / 0 / 531 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B10-2eb872?style=flat-square) |
+| 34 | [**`deepagents`**](#deepagents) | 29,886 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 185 / 0 / 185 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B23-2eb872?style=flat-square) |
+| 35 | [**`crush`**](#crush) | 28,419 | Coding |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 827 / 0 / 827 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B46-2eb872?style=flat-square) |
+| 36 | [**`mlflow`**](#mlflow) | 28,205 | MLOps | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 2156 / 0 / 2156 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
+| 37 | [**`kilocode`**](#kilocode) | 27,456 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 610 / 0 / 610 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
+| 38 | [**`haystack`**](#haystack) | 26,634 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 173 / 0 / 173 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 39 | [**`pentagi`**](#pentagi) | 25,159 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 18 / 0 / 18 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B32-2eb872?style=flat-square) |
+| 40 | [**`openwork`**](#openwork) | 23,801 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 570 / 0 / 570 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
+| 41 | [**`opik`**](#opik) | 22,315 | Observability | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 200 / 0 / 200 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
+| 42 | [**`adk-python`**](#adk-python) | 21,688 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 493 / 0 / 493 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
+| 43 | [**`prime-agent`**](#prime-agent) | 21,431 | Coding |  | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 133 / 0 / 133 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B41-2eb872?style=flat-square) |
+| 44 | [**`pydantic-ai`**](#pydantic-ai) | 20,302 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1384 / 0 / 1384 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
+| 45 | [**`eliza`**](#eliza) | 19,526 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 76 / 0 / 76 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
+| 46 | [**`agent-zero`**](#agent-zero) | 19,358 | Agent Framework |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 136 / 0 / 136 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 47 | [**`ag-ui`**](#ag-ui) | 16,177 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 419 / 0 / 419 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B63-2eb872?style=flat-square) |
+| 48 | [**`OpenSandbox`**](#opensandbox) | 15,626 | Sandbox | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 133 / 0 / 133 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B26-2eb872?style=flat-square) |
+| 49 | [**`eigent`**](#eigent) | 15,451 | Agent Platform | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 255 / 0 / 255 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 50 | [**`qm`**](#qm) | 15,301 | Agent Platform | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 636 / 0 / 636 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
+| 51 | [**`llmware`**](#llmware) | 14,827 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 95 / 0 / 95 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 52 | [**`E2B`**](#e2b) | 14,063 | Sandbox | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 83 / 0 / 83 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
+| 53 | [**`FreeToken`**](#freetoken) | 14,035 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 370 / 0 / 370 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B41-2eb872?style=flat-square) |
+| 54 | [**`agent-framework`**](#agent-framework) | 13,888 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 691 / 0 / 691 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B15-2eb872?style=flat-square) |
+| 55 | [**`BrowserOS`**](#browseros) | 13,784 | Browser Agent | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 86 / 0 / 86 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
+| 56 | [**`semantica`**](#semantica) | 13,595 | Agent Memory | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 124 / 0 / 124 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B43-2eb872?style=flat-square) |
+| 57 | [**`MiMo-Code`**](#mimo-code) | 13,569 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 1116 / 0 / 1116 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 58 | [**`ironclaw`**](#ironclaw) | 12,638 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 1537 / 0 / 1537 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 59 | [**`agent-orchestrator`**](#agent-orchestrator) | 12,584 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 694 / 0 / 694 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B41-2eb872?style=flat-square) |
+| 60 | [**`OpenJarvis`**](#openjarvis) | 10,402 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 42 / 0 / 42 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B40-2eb872?style=flat-square) |
+| 61 | [**`local-deep-research`**](#local-deep-research) | 9,149 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1095 / 0 / 1095 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
+| 62 | [**`PraisonAI`**](#praisonai) | 9,115 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 114 / 0 / 114 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 63 | [**`OpenResearch`**](#openresearch) | 6,324 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 49 / 0 / 49 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B201-2eb872?style=flat-square) |
+| 64 | [**`agents-cli`**](#agents-cli) | 6,037 | Cloud Tooling | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 25 / 0 / 25 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
+| 65 | [**`oasis`**](#oasis) | 5,216 | Swarm | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 56 / 0 / 56 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 66 | [**`bb`**](#bb) | 4,037 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 493 / 0 / 493 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B29-2eb872?style=flat-square) |
+| 67 | [**`anthropic-sdk-python`**](#anthropic-sdk-python) | 3,936 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 187 / 0 / 187 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B4-2eb872?style=flat-square) |
+| 68 | [**`openscience`**](#openscience) | 3,877 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 43 / 0 / 43 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
+| 69 | [**`goclaw`**](#goclaw) | 3,634 | Agent Framework |  | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 264 / 0 / 264 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 70 | [**`fx`**](#fx) | 3,237 | Coding | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Zig-3178c6?style=flat-square) | 250 / 0 / 250 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B12-2eb872?style=flat-square) |
+| 71 | [**`SoL-Pi`**](#sol-pi) | 3,225 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 70 / 0 / 70 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
+| 72 | [**`atomic-agent`**](#atomic-agent) | 2,566 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 48 / 0 / 48 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B20-2eb872?style=flat-square) |
+| 73 | [**`Adala`**](#adala) | 1,637 | Data Labeling | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 179 / 0 / 179 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 74 | [**`langsmith-cli`**](#langsmith-cli) | 76 | Observability | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 66 / 0 / 66 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 75 | [**`deepseek-harness`**](#deepseek-harness) | 241,241 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B794-2eb872?style=flat-square) |
+| 76 | [**`MiroFish`**](#mirofish) | 75,495 | Swarm | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 150 / 0 / 150 | ![](https://img.shields.io/badge/-15d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B121-2eb872?style=flat-square) |
+| 77 | [**`llama_index`**](#llama_index) | 52,377 | RAG | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 831 / 0 / 831 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B10-2eb872?style=flat-square) |
+| 78 | [**`CLI-Anything`**](#cli-anything) | 51,141 | Tool Integration | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 120 / 0 / 120 | ![](https://img.shields.io/badge/-9d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B100-2eb872?style=flat-square) |
+| 79 | [**`DeepTutor`**](#deeptutor) | 40,592 | Education | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 249 / 0 / 249 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B63-2eb872?style=flat-square) |
+| 80 | [**`UI-TARS-desktop`**](#ui-tars-desktop) | 39,174 | Computer Control | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 501 / 0 / 501 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B8-2eb872?style=flat-square) |
+| 81 | [**`picoclaw`**](#picoclaw) | 30,026 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 59 / 0 / 59 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 82 | [**`gpt-researcher`**](#gpt-researcher) | 29,850 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 19 / 0 / 19 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B28-2eb872?style=flat-square) |
+| 83 | [**`smolagents`**](#smolagents) | 29,614 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 859 / 0 / 859 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B21-2eb872?style=flat-square) |
+| 84 | [**`letta`**](#letta) | 24,987 | Agent Memory | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-20d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
+| 85 | [**`owl`**](#owl) | 20,152 | Multi-Agent |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 120 / 0 / 120 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 86 | [**`DB-GPT`**](#db-gpt) | 20,073 | Data | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 452 / 0 / 452 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
+| 87 | [**`camel`**](#camel) | 17,799 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 522 / 0 / 522 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
+| 88 | [**`DeepCode`**](#deepcode) | 16,663 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 18 / 0 / 18 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
+| 89 | [**`ml-intern`**](#ml-intern) | 10,813 | Machine Learning | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--3-95a5a6?style=flat-square) |
+| 90 | [**`mini-swe-agent`**](#mini-swe-agent) | 8,132 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 81 / 0 / 81 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B27-2eb872?style=flat-square) |
+| 91 | [**`T3MP3ST`**](#t3mp3st) | 6,295 | Cybersecurity | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 8 / 0 / 8 | ![](https://img.shields.io/badge/-22d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
+| 92 | [**`transformerlab-app`**](#transformerlab-app) | 5,195 | Machine Learning | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 25 / 0 / 25 | ![](https://img.shields.io/badge/-12d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 93 | [**`OpenAgentsControl`**](#openagentscontrol) | 4,885 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 68 / 0 / 68 | ![](https://img.shields.io/badge/-17d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 94 | [**`agency-swarm`**](#agency-swarm) | 4,587 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 10 / 0 / 10 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
 | 95 | [**`ms-agent`**](#ms-agent) | 4,406 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 48 / 0 / 48 | ![](https://img.shields.io/badge/-9d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 96 | [**`langroid`**](#langroid) | 4,109 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 61 / 0 / 61 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 97 | [**`beeai-framework`**](#beeai-framework) | 3,424 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 20 / 0 / 20 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 97 | [**`beeai-framework`**](#beeai-framework) | 3,425 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 20 / 0 / 20 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
 | 98 | [**`moltis`**](#moltis) | 2,880 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 100 / 0 / 100 | ![](https://img.shields.io/badge/-8d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 99 | [**`MTPLX`**](#mtplx) | 2,487 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 129 / 0 / 129 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B6-2eb872?style=flat-square) |
+| 99 | [**`MTPLX`**](#mtplx) | 2,488 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 129 / 0 / 129 | ![](https://img.shields.io/badge/-4d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
 | 100 | [**`LocalAGI`**](#localagi) | 1,986 | Agent Platform | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 62 / 0 / 62 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
-| 101 | [**`waku-agent`**](#waku-agent) | 1,878 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 38 / 0 / 38 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 102 | [**`cccc`**](#cccc) | 1,258 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 15 / 0 / 15 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 101 | [**`waku-agent`**](#waku-agent) | 1,878 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 38 / 0 / 38 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
+| 102 | [**`cccc`**](#cccc) | 1,259 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 15 / 0 / 15 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
 | 103 | [**`sgr-agent-core`**](#sgr-agent-core) | 1,120 | Reasoning | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 18 / 0 / 18 | ![](https://img.shields.io/badge/-14d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
 | 104 | [**`gollem`**](#gollem) | 199 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 6 / 0 / 6 | ![](https://img.shields.io/badge/-5d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 105 | [**`Sipp`**](#sipp) | 123 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 106 | [**`taskade`**](#taskade) | 65 | Workspace |  | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 9 / 0 / 9 | ![](https://img.shields.io/badge/-12d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 107 | [**`kodacode`**](#kodacode) | 3 | Coding | ![](https://img.shields.io/badge/-AGPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 1 / 0 / 1 | ![](https://img.shields.io/badge/-20d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 108 | [**`MetaGPT`**](#metagpt) | 70,709 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 145 / 0 / 145 | ![](https://img.shields.io/badge/-252d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
-| 109 | [**`autogen`**](#autogen) | 61,247 | Multi-Agent | ![](https://img.shields.io/badge/-CC--BY--4.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1116 / 0 / 1116 | ![](https://img.shields.io/badge/-168d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
-| 110 | [**`aider`**](#aider) | 49,301 | Coding | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1906 / 0 / 1906 | ![](https://img.shields.io/badge/-131d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
-| 111 | [**`ChatDev`**](#chatdev) | 34,429 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 81 / 0 / 81 | ![](https://img.shields.io/badge/-68d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B7-2eb872?style=flat-square) |
-| 112 | [**`babyagi`**](#babyagi) | 22,361 | Task Automation |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 30 / 0 / 30 | ![](https://img.shields.io/badge/-242d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
+| 108 | [**`MetaGPT`**](#metagpt) | 70,712 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 145 / 0 / 145 | ![](https://img.shields.io/badge/-252d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B17-2eb872?style=flat-square) |
+| 109 | [**`autogen`**](#autogen) | 61,248 | Multi-Agent | ![](https://img.shields.io/badge/-CC--BY--4.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1116 / 0 / 1116 | ![](https://img.shields.io/badge/-168d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B19-2eb872?style=flat-square) |
+| 110 | [**`aider`**](#aider) | 49,302 | Coding | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 1906 / 0 / 1906 | ![](https://img.shields.io/badge/-131d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B15-2eb872?style=flat-square) |
+| 111 | [**`ChatDev`**](#chatdev) | 34,431 | Multi-Agent | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 81 / 0 / 81 | ![](https://img.shields.io/badge/-68d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B9-2eb872?style=flat-square) |
+| 112 | [**`babyagi`**](#babyagi) | 22,361 | Task Automation |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 30 / 0 / 30 | ![](https://img.shields.io/badge/-243d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
 | 113 | [**`swarm`**](#swarm) | 22,025 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 37 / 0 / 37 | ![](https://img.shields.io/badge/-168d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
 | 114 | [**`DeepResearch`**](#deepresearch) | 20,004 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 96 / 0 / 96 | ![](https://img.shields.io/badge/-215d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B3-2eb872?style=flat-square) |
 | 115 | [**`openfang`**](#openfang) | 18,211 | Agent Platform | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 126 / 0 / 126 | ![](https://img.shields.io/badge/-90d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
 | 116 | [**`AutoResearchClaw`**](#autoresearchclaw) | 14,570 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 14 / 0 / 14 | ![](https://img.shields.io/badge/-43d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
-| 117 | [**`hexstrike-ai`**](#hexstrike-ai) | 12,265 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 113 / 0 / 113 | ![](https://img.shields.io/badge/-58d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B13-2eb872?style=flat-square) |
+| 117 | [**`hexstrike-ai`**](#hexstrike-ai) | 12,266 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 113 / 0 / 113 | ![](https://img.shields.io/badge/-58d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B14-2eb872?style=flat-square) |
 | 118 | [**`ClawTeam`**](#clawteam) | 5,544 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 34 / 0 / 34 | ![](https://img.shields.io/badge/-144d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
-| 119 | [**`tinyagi`**](#tinyagi) | 3,619 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 75 / 0 / 75 | ![](https://img.shields.io/badge/-184d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B1-2eb872?style=flat-square) |
+| 119 | [**`tinyagi`**](#tinyagi) | 3,620 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 75 / 0 / 75 | ![](https://img.shields.io/badge/-184d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
 | 120 | [**`FastCode`**](#fastcode) | 2,288 | Coding |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 16 / 0 / 16 | ![](https://img.shields.io/badge/-86d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
 | 121 | [**`LabClaw`**](#labclaw) | 1,052 | Research |  | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 4 / 0 / 4 | ![](https://img.shields.io/badge/-195d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 122 | [**`pool`**](#pool) | 431 | Coding |  | ![](https://img.shields.io/badge/-N/A-3178c6?style=flat-square) | 30 / 0 / 30 | ![](https://img.shields.io/badge/-43d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
@@ -134,7 +134,7 @@
 | 126 | [**`codebuddy`**](#codebuddy) | 141 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 18 / 0 / 18 | ![](https://img.shields.io/badge/-34d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 127 | [**`SkillOS`**](#skillos) | 1 | Governance | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-243d-f1c40f?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
 | 128 | [**`AgentGPT`**](#agentgpt) | 36,297 | Agent Platform | ![](https://img.shields.io/badge/-GPL--3.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 219 / 0 / 219 | ![](https://img.shields.io/badge/-520d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-0-95a5a6?style=flat-square) |
-| 129 | [**`storm`**](#storm) | 31,547 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 111 / 0 / 111 | ![](https://img.shields.io/badge/-365d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B6-2eb872?style=flat-square) |
+| 129 | [**`storm`**](#storm) | 31,546 | Research | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 111 / 0 / 111 | ![](https://img.shields.io/badge/-365d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/-%2B5-2eb872?style=flat-square) |
 | 130 | [**`SuperAGI`**](#superagi) | 17,702 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 264 / 0 / 264 | ![](https://img.shields.io/badge/-616d-e74c3c?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
 
 ## Тренды роста
@@ -147,7 +147,7 @@
 ### <a name="openclaw"></a>[openclaw](https://github.com/openclaw/openclaw)
 **ИИ, который действительно действует. Любая ОС. Любая платформа. Путь омара. 🦞**
 
-⭐ 391,022 · 🍴 82,225 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#openclaw/openclaw&Date)
+⭐ 391,041 · 🍴 82,230 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#openclaw/openclaw&Date)
 
 - ИИ, который действительно выполняет задачи
 - Работает на любой операционной системе
@@ -157,7 +157,7 @@
 ### <a name="hermes-agent"></a>[hermes-agent](https://github.com/NousResearch/hermes-agent)
 **Агент, который растет вместе с вами.**
 
-⭐ 250,379 · 🍴 53,508 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#NousResearch/hermes-agent&Date)
+⭐ 250,400 · 🍴 53,521 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#NousResearch/hermes-agent&Date)
 
 - Масштабируемость под ваши задачи
 - Адаптация к росту пользователя
@@ -167,7 +167,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **Агент для написания кода с открытым исходным кодом.**
 
-⭐ 211,195 · 🍴 27,987 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#anomalyco/opencode&Date)
+⭐ 211,209 · 🍴 27,991 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#anomalyco/opencode&Date)
 
 - Открытый исходный код
 - Автоматизация написания и редактирования кода
@@ -177,7 +177,7 @@
 ### <a name="n8n"></a>[n8n](https://github.com/n8n-io/n8n)
 **Fair-code платформа автоматизации рабочих процессов с нативными функциями ИИ. Визуальная разработка и кастомный код, self-host или облако, 400+ интеграций.**
 
-⭐ 206,395 · 🍴 60,959 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#n8n-io/n8n&Date)
+⭐ 206,401 · 🍴 60,962 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#n8n-io/n8n&Date)
 
 - Встроенные возможности ИИ
 - Сочетание визуального конструктора с написанием кастомного кода
@@ -187,7 +187,7 @@
 ### <a name="autogpt"></a>[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 **AutoGPT — это концепция доступного ИИ для каждого: для использования и развития. Наша миссия — предоставить инструменты, чтобы вы могли сосредоточиться на главном.**
 
-⭐ 187,629 · 🍴 45,980 · 🛠️ Python · 🏷️ Agent Platform · 📅 Today · [📈 История звезд](https://star-history.com/#Significant-Gravitas/AutoGPT&Date)
+⭐ 187,630 · 🍴 45,979 · 🛠️ Python · 🏷️ Agent Platform · 📅 Today · [📈 История звезд](https://star-history.com/#Significant-Gravitas/AutoGPT&Date)
 
 - Автономное выполнение сложных задач
 - Доступность ИИ для широкого круга пользователей
@@ -197,7 +197,7 @@
 ### <a name="ollama"></a>[ollama](https://github.com/ollama/ollama)
 **Быстрый старт с Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma и другими моделями.**
 
-⭐ 181,982 · 🍴 18,058 · 🛠️ Go · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#ollama/ollama&Date)
+⭐ 181,991 · 🍴 18,062 · 🛠️ Go · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#ollama/ollama&Date)
 
 - Запуск больших языковых моделей локально на своём устройстве
 - Поддержка множества открытых моделей: Kimi, GLM, DeepSeek, Qwen, Gemma и других
@@ -207,7 +207,7 @@
 ### <a name="dify"></a>[dify](https://github.com/langgenius/dify)
 **Создавайте агентные рабочие процессы и RAG-конвейеры с широкой поддержкой ИИ-моделей и инструментов в едином рабочем пространстве для совместной работы. Развертывание в облаке, VPC или на собственных серверах позволяет командам переходить от прототипа к продакшену без пересборки стека.**
 
-⭐ 157,624 · 🍴 24,862 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#langgenius/dify&Date)
+⭐ 157,630 · 🍴 24,865 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#langgenius/dify&Date)
 
 - Создание агентных рабочих процессов и RAG-конвейеров
 - Богатая поддержка ИИ-моделей и инструментов
@@ -217,7 +217,7 @@
 ### <a name="open-webui"></a>[open-webui](https://github.com/open-webui/open-webui)
 **Удобный интерфейс ИИ (поддержка Ollama, OpenAI API и др.)**
 
-⭐ 153,676 · 🍴 22,470 · 🛠️ Python · 🏷️ Chat Interface · 📅 Today · [📈 История звезд](https://star-history.com/#open-webui/open-webui&Date)
+⭐ 153,685 · 🍴 22,473 · 🛠️ Python · 🏷️ Chat Interface · 📅 Today · [📈 История звезд](https://star-history.com/#open-webui/open-webui&Date)
 
 - Удобный пользовательский интерфейс
 - Поддержка Ollama и OpenAI API
@@ -227,7 +227,7 @@
 ### <a name="claude-code"></a>[claude-code](https://github.com/anthropics/claude-code)
 **Claude Code — агентный инструмент для разработки в терминале, который понимает вашу кодовую базу и ускоряет написание кода, выполняя рутинные задачи, объясняя сложные фрагменты и управляя Git-процессами с помощью команд на естественном языке.**
 
-⭐ 148,746 · 🍴 25,117 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#anthropics/claude-code&Date)
+⭐ 148,752 · 🍴 25,117 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#anthropics/claude-code&Date)
 
 - Работа напрямую в терминале в качестве программного агента
 - Глубокое понимание контекста всей кодовой базы
@@ -237,7 +237,7 @@
 ### <a name="langchain"></a>[langchain](https://github.com/langchain-ai/langchain)
 **Платформа для инженерии агентов.**
 
-⭐ 147,332 · 🍴 24,670 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#langchain-ai/langchain&Date)
+⭐ 147,336 · 🍴 24,670 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#langchain-ai/langchain&Date)
 
 - Интеграция с различными языковыми моделями (LLM)
 - Создание сложных цепочек задач и рабочих процессов
@@ -247,7 +247,7 @@
 ### <a name="llama.cpp"></a>[llama.cpp](https://github.com/ggml-org/llama.cpp)
 **Инференс LLM на C/C++**
 
-⭐ 130,005 · 🍴 23,945 · 🛠️ C++ · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#ggml-org/llama.cpp&Date)
+⭐ 130,014 · 🍴 23,949 · 🛠️ C++ · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#ggml-org/llama.cpp&Date)
 
 - Высокая производительность благодаря реализации на C/C++
 - Поддержка широкого спектра оборудования (CPU, Apple Silicon, GPU)
@@ -257,7 +257,7 @@
 ### <a name="pi"></a>[pi](https://github.com/earendil-works/pi)
 **Инструментарий для ИИ-агентов: унифицированный API LLM, цикл агента, TUI и CLI для кодинг-агентов.**
 
-⭐ 110,798 · 🍴 14,093 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#badlogic/pi-mono&Date)
+⭐ 110,826 · 🍴 14,094 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#badlogic/pi-mono&Date)
 
 - Единый API для работы с различными языковыми моделями (LLM)
 - Автономный цикл работы ИИ-агента
@@ -267,7 +267,7 @@
 ### <a name="paperclip"></a>[paperclip](https://github.com/paperclipai/paperclip)
 **Open-source приложение для управления агентами в рабочих процессах.**
 
-⭐ 95,387 · 🍴 16,188 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#paperclipai/paperclip&Date)
+⭐ 95,430 · 🍴 16,190 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#paperclipai/paperclip&Date)
 
 - Открытый исходный код
 - Управление ИИ-агентами
@@ -277,7 +277,7 @@
 ### <a name="vllm"></a>[vllm](https://github.com/vllm-project/vllm)
 **Высокопроизводительный и оптимизированный по памяти движок для инференса и обслуживания LLM.**
 
-⭐ 93,014 · 🍴 22,871 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#vllm-project/vllm&Date)
+⭐ 93,017 · 🍴 22,876 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#vllm-project/vllm&Date)
 
 - Высокая пропускная способность при выводе
 - Эффективное управление памятью с помощью алгоритма PagedAttention
@@ -287,7 +287,7 @@
 ### <a name="ragflow"></a>[ragflow](https://github.com/infiniflow/ragflow)
 **RAGFlow — ведущий open-source движок Retrieval-Augmented Generation (RAG), объединяющий передовые технологии RAG с возможностями агентов для создания превосходного контекстного слоя для LLM.**
 
-⭐ 91,562 · 🍴 10,872 · 🛠️ Go · 🏷️ RAG · 📅 Today · [📈 История звезд](https://star-history.com/#infiniflow/ragflow&Date)
+⭐ 91,566 · 🍴 10,873 · 🛠️ Go · 🏷️ RAG · 📅 Today · [📈 История звезд](https://star-history.com/#infiniflow/ragflow&Date)
 
 - Открытый исходный код
 - Движок Retrieval-Augmented Generation (RAG)
@@ -297,7 +297,7 @@
 ### <a name="worldmonitor"></a>[worldmonitor](https://github.com/koala73/worldmonitor)
 **Панель глобальной аналитики в реальном времени. Агрегация новостей на базе ИИ, геополитический мониторинг и отслеживание инфраструктуры в едином интерфейсе ситуационной осведомленности.**
 
-⭐ 87,635 · 🍴 13,370 · 🛠️ TypeScript · 🏷️ Intelligence Monitoring · 📅 Today · [📈 История звезд](https://star-history.com/#koala73/worldmonitor&Date)
+⭐ 87,636 · 🍴 13,370 · 🛠️ TypeScript · 🏷️ Intelligence Monitoring · 📅 Today · [📈 История звезд](https://star-history.com/#koala73/worldmonitor&Date)
 
 - Интеллектуальная панель управления в реальном времени
 - Агрегация новостей на базе ИИ
@@ -307,7 +307,7 @@
 ### <a name="deer-flow"></a>[deer-flow](https://github.com/bytedance/deer-flow)
 **Каркас SuperAgent с открытым исходным кодом для решения длительных задач: проводит исследования, пишет код и создаёт контент. Опираясь на песочницы, память, инструменты, навыки, субагентов и шлюз сообщений, он справляется с задачами различного уровня сложности, выполнение которых занимает от минут до часов.**
 
-⭐ 83,286 · 🍴 11,556 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#bytedance/deer-flow&Date)
+⭐ 83,290 · 🍴 11,557 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#bytedance/deer-flow&Date)
 
 - Открытая платформа-оболочка SuperAgent для решения длительных задач
 - Проводит исследования, пишет код и создаёт контент
@@ -317,7 +317,7 @@
 ### <a name="openinterpreter"></a>[openinterpreter](https://github.com/openinterpreter/openinterpreter)
 **Кодинг-агент для открытых моделей, таких как Kimi K3 и GLM 5.3**
 
-⭐ 68,478 · 🍴 5,887 · 🛠️ Rust · 🏷️ Computer Control · 📅 Today · [📈 История звезд](https://star-history.com/#openinterpreter/open-interpreter&Date)
+⭐ 68,477 · 🍴 5,887 · 🛠️ Rust · 🏷️ Computer Control · 📅 Today · [📈 История звезд](https://star-history.com/#openinterpreter/open-interpreter&Date)
 
 - Выполняет код на Python, JavaScript и Shell прямо на локальном компьютере
 - Поддерживает открытые модели, такие как Kimi K3 и GLM 5.3
@@ -327,7 +327,7 @@
 ### <a name="strix"></a>[strix](https://github.com/usestrix/strix)
 **Open-source инструмент на базе ИИ для тестирования на проникновение, поиска и устранения уязвимостей в приложениях.**
 
-⭐ 65,793 · 🍴 7,213 · 🛠️ Python · 🏷️ Cybersecurity · 📅 Today · [📈 История звезд](https://star-history.com/#usestrix/strix&Date)
+⭐ 65,808 · 🍴 7,216 · 🛠️ Python · 🏷️ Cybersecurity · 📅 Today · [📈 История звезд](https://star-history.com/#usestrix/strix&Date)
 
 - Открытый исходный код
 - Использование искусственного интеллекта
@@ -337,7 +337,7 @@
 ### <a name="crewai"></a>[crewAI](https://github.com/crewAIInc/crewAI)
 **Фреймворк для оркестрации ролевых автономных ИИ-агентов. Развивая коллективный интеллект, CrewAI обеспечивает бесшовное взаимодействие агентов для решения сложных задач.**
 
-⭐ 59,242 · 🍴 8,618 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#crewAIInc/crewAI&Date)
+⭐ 59,246 · 🍴 8,617 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#crewAIInc/crewAI&Date)
 
 - Оркестрация ролевых ИИ-агентов
 - Автономное поведение агентов
@@ -347,7 +347,7 @@
 ### <a name="multica"></a>[multica](https://github.com/multica-ai/multica)
 **Объедините людей и ИИ-агентов в единую команду — открытый исходный код и самостоятельный хостинг.**
 
-⭐ 51,769 · 🍴 6,724 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#multica-ai/multica&Date)
+⭐ 51,773 · 🍴 6,726 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#multica-ai/multica&Date)
 
 - Совместная работа людей и ИИ-агентов в одной команде
 - Открытый исходный код
@@ -357,7 +357,7 @@
 ### <a name="airi"></a>[airi](https://github.com/moeru-ai/airi)
 **💖🧸 Самостоятельно размещаемый Grok-компаньон в вашем полном владении: вместилище душ ваифу и кибер-существ, призванных перенести их в наши миры и достичь высот Neuro-sama. Поддерживает голосовой чат в реальном времени, игру в Minecraft и Factorio. Доступен на Web / macOS / Windows.**
 
-⭐ 49,897 · 🍴 4,977 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#moeru-ai/airi&Date)
+⭐ 49,900 · 🍴 4,979 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#moeru-ai/airi&Date)
 
 - Self-hosted виртуальный ИИ-компаньон, полностью принадлежащий вам
 - Голосовой чат в реальном времени
@@ -377,7 +377,7 @@
 ### <a name="librechat"></a>[LibreChat](https://github.com/LibreChat-AI/LibreChat)
 **Улучшенный клон ChatGPT: агенты, MCP, навыки, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, артефакты, переключение моделей, поиск сообщений, Code Interpreter, LangChain, DALL-E-3, OpenAPI Actions, функции, безопасная аутентификация, пресеты. Open-source для self-hosting. Активная разработка.**
 
-⭐ 45,168 · 🍴 9,256 · 🛠️ TypeScript · 🏷️ Chat Interface · 📅 Today · [📈 История звезд](https://star-history.com/#danny-avila/LibreChat&Date)
+⭐ 45,166 · 🍴 9,255 · 🛠️ TypeScript · 🏷️ Chat Interface · 📅 Today · [📈 История звезд](https://star-history.com/#danny-avila/LibreChat&Date)
 
 - Поддержка множества ИИ-моделей и провайдеров (OpenAI, Anthropic, Gemini, DeepSeek и др.)
 - Расширенные инструменты: агенты, интерпретатор кода, навыки и артефакты
@@ -387,7 +387,7 @@
 ### <a name="langgraph"></a>[langgraph](https://github.com/langchain-ai/langgraph)
 **Создавайте отказоустойчивых агентов.**
 
-⭐ 42,535 · 🍴 7,209 · 🛠️ Python · 🏷️ Agent Orchestration · 📅 Today · [📈 История звезд](https://star-history.com/#langchain-ai/langgraph&Date)
+⭐ 42,538 · 🍴 7,209 · 🛠️ Python · 🏷️ Agent Orchestration · 📅 Today · [📈 История звезд](https://star-history.com/#langchain-ai/langgraph&Date)
 
 - Поддержка циклических графов для итеративных процессов
 - Встроенное управление состоянием и персистентность
@@ -397,7 +397,7 @@
 ### <a name="agno"></a>[agno](https://github.com/agno-agi/agno)
 **Создание, запуск и управление агентскими платформами.**
 
-⭐ 42,428 · 🍴 6,055 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#agno-agi/agno&Date)
+⭐ 42,434 · 🍴 6,054 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#agno-agi/agno&Date)
 
 - Разработка многофункциональных ИИ-агентов
 - Управление памятью и контекстом сессий
@@ -407,7 +407,7 @@
 ### <a name="astrbot"></a>[AstrBot](https://github.com/AstrBotDevs/AstrBot)
 **Ассистент и фреймворк для разработки ИИ-агентов с поддержкой множества мессенджеров, LLM и плагинов. Эффективная альтернатива openclaw. ✨**
 
-⭐ 41,263 · 🍴 3,001 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#AstrBotDevs/AstrBot&Date)
+⭐ 41,266 · 🍴 3,001 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#AstrBotDevs/AstrBot&Date)
 
 - Фреймворк для разработки и создания ИИ-агентов
 - Интеграция с множеством мессенджеров и платформ
@@ -417,7 +417,7 @@
 ### <a name="openhuman"></a>[openhuman](https://github.com/tinyhumansai/openhuman)
 **OpenHuman — самый быстрый, дешёвый и эффективный каркас для агентов с открытым исходным кодом. Написан на Rust.**
 
-⭐ 40,286 · 🍴 3,984 · 🛠️ Rust · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#tinyhumansai/openhuman&Date)
+⭐ 40,302 · 🍴 3,988 · 🛠️ Rust · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#tinyhumansai/openhuman&Date)
 
 - Самый быстрый агентский фреймворк
 - Самый дешёвый и эффективный
@@ -427,7 +427,7 @@
 ### <a name="copilotkit"></a>[CopilotKit](https://github.com/CopilotKit/CopilotKit)
 **Фронтенд-стек для агентов и генеративного UI. React, Angular, мобильные платформы, Slack и многое другое. Разработчики протокола AG-UI.**
 
-⭐ 37,632 · 🍴 4,674 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#CopilotKit/CopilotKit&Date)
+⭐ 37,634 · 🍴 4,673 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#CopilotKit/CopilotKit&Date)
 
 - Frontend-стек для ИИ-агентов
 - Поддержка генеративного пользовательского интерфейса (Generative UI)
@@ -437,7 +437,7 @@
 ### <a name="deepseek-reasonix"></a>[DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 **Надёжный агент для написания кода, предназначенный для решения сложных задач разработки программного обеспечения.**
 
-⭐ 35,725 · 🍴 2,433 · 🛠️ Go · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#esengine/reasonix&Date)
+⭐ 35,722 · 🍴 2,434 · 🛠️ Go · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#esengine/reasonix&Date)
 
 - Надёжный агент для написания кода
 - Решение сложных задач разработки программного обеспечения
@@ -457,7 +457,7 @@
 ### <a name="oh-my-pi"></a>[oh-my-pi](https://github.com/can1357/oh-my-pi)
 **⌥ Кодинг-агент со встроенной IDE. Создан командой Stencil Labs.**
 
-⭐ 33,891 · 🍴 3,653 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#can1357/oh-my-pi&Date)
+⭐ 33,897 · 🍴 3,655 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#can1357/oh-my-pi&Date)
 
 - ИИ-агент для написания кода
 - Глубокая интеграция с IDE
@@ -467,7 +467,7 @@
 ### <a name="onyx"></a>[onyx](https://github.com/onyx-dot-app/onyx)
 **Open Source ИИ-платформа: продвинутый чат с поддержкой любых LLM.**
 
-⭐ 32,301 · 🍴 4,517 · 🛠️ Python · 🏷️ Chat Interface · 📅 Today · [📈 История звезд](https://star-history.com/#onyx-dot-app/onyx&Date)
+⭐ 32,302 · 🍴 4,517 · 🛠️ Python · 🏷️ Chat Interface · 📅 Today · [📈 История звезд](https://star-history.com/#onyx-dot-app/onyx&Date)
 
 - Открытый исходный код
 - Продвинутый ИИ-чат
@@ -477,27 +477,17 @@
 ### <a name="deepagents"></a>[deepagents](https://github.com/langchain-ai/deepagents)
 **Полнофункциональная среда для разработки агентов.**
 
-⭐ 29,883 · 🍴 4,200 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#langchain-ai/deepagents&Date)
+⭐ 29,886 · 🍴 4,201 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#langchain-ai/deepagents&Date)
 
 - Готовая инфраструктура для ИИ-агентов
 - Полный набор встроенных инструментов
 - Упрощенная разработка и развертывание
 - Универсальная среда управления агентами
 
-### <a name="smolagents"></a>[smolagents](https://github.com/huggingface/smolagents)
-**🤗 smolagents: минималистичная библиотека для агентов, мыслящих кодом.**
-
-⭐ 29,614 · 🍴 3,018 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#huggingface/smolagents&Date)
-
-- Минималистичная и легковесная библиотека для создания ИИ-агентов
-- Агенты используют написание кода для логического вывода и решения задач
-- Глубокая интеграция с экосистемой Hugging Face
-- Простая архитектура без избыточных абстракций
-
 ### <a name="crush"></a>[crush](https://github.com/charmbracelet/crush)
 **Элегантная агентная разработка для всех 💘**
 
-⭐ 28,416 · 🍴 2,309 · 🛠️ Go · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#charmbracelet/crush&Date)
+⭐ 28,419 · 🍴 2,309 · 🛠️ Go · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#charmbracelet/crush&Date)
 
 - Агентная разработка кода
 - Гламурный и современный интерфейс
@@ -507,7 +497,7 @@
 ### <a name="mlflow"></a>[mlflow](https://github.com/mlflow/mlflow)
 **Открытая платформа для разработки ИИ-агентов, LLM и ML-моделей. MLflow позволяет командам любого масштаба отлаживать, оценивать, мониторить и оптимизировать ИИ-приложения промышленного уровня, контролируя затраты и управляя доступом к моделям и данным.**
 
-⭐ 28,205 · 🍴 6,402 · 🛠️ Python · 🏷️ MLOps · 📅 Today · [📈 История звезд](https://star-history.com/#mlflow/mlflow&Date)
+⭐ 28,205 · 🍴 6,403 · 🛠️ Python · 🏷️ MLOps · 📅 Today · [📈 История звезд](https://star-history.com/#mlflow/mlflow&Date)
 
 - Отладка, оценка, мониторинг и оптимизация ИИ-приложений
 - Поддержка агентов, LLM и ML-моделей
@@ -517,7 +507,7 @@
 ### <a name="kilocode"></a>[kilocode](https://github.com/Kilo-Org/kilocode)
 **Kilo — универсальная платформа для агентной разработки. Создавайте, выпускайте и итерируйте быстрее с самым популярным open-source агентом для написания кода.**
 
-⭐ 27,454 · 🍴 3,218 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#kilo-org/kilocode&Date)
+⭐ 27,456 · 🍴 3,220 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#kilo-org/kilocode&Date)
 
 - Универсальная платформа для агентной инженерии
 - Ускоренная разработка, поставка и итерация кода
@@ -527,7 +517,7 @@
 ### <a name="haystack"></a>[haystack](https://github.com/deepset-ai/haystack)
 **Open-source фреймворк оркестрации ИИ для разработки готовых к продакшену LLM-приложений на базе контекстной инженерии. Проектируйте модульные конвейеры и рабочие процессы агентов с явным контролем поиска, маршрутизации, памяти и генерации. Оптимизировано для масштабируемых агентов, RAG, мультимодальных решений, семантического поиска и диалоговых систем.**
 
-⭐ 26,634 · 🍴 3,211 · 🛠️ Python · 🏷️ RAG · 📅 Today · [📈 История звезд](https://star-history.com/#deepset-ai/haystack&Date)
+⭐ 26,634 · 🍴 3,213 · 🛠️ Python · 🏷️ RAG · 📅 Today · [📈 История звезд](https://star-history.com/#deepset-ai/haystack&Date)
 
 - Создание готовых к продакшену LLM-приложений
 - Модульные конвейеры и рабочие процессы агентов
@@ -537,7 +527,7 @@
 ### <a name="pentagi"></a>[pentagi](https://github.com/vxcontrol/pentagi)
 **Полностью автономная система ИИ-агентов для выполнения сложных задач по тестированию на проникновение.**
 
-⭐ 25,156 · 🍴 3,236 · 🛠️ Go · 🏷️ Cybersecurity · 📅 Today · [📈 История звезд](https://star-history.com/#vxcontrol/pentagi&Date)
+⭐ 25,159 · 🍴 3,236 · 🛠️ Go · 🏷️ Cybersecurity · 📅 Today · [📈 История звезд](https://star-history.com/#vxcontrol/pentagi&Date)
 
 - Полная автономность в выполнении задач
 - Система на базе продвинутых ИИ-агентов
@@ -557,7 +547,7 @@
 ### <a name="opik"></a>[opik](https://github.com/comet-ml/opik)
 **Отладка, оценка и мониторинг LLM-приложений, RAG-систем и агентных воркфлоу с помощью комплексной трассировки, автоматизированной оценки и готовых к эксплуатации дашбордов.**
 
-⭐ 22,314 · 🍴 1,833 · 🛠️ Python · 🏷️ Observability · 📅 Today · [📈 История звезд](https://star-history.com/#comet-ml/opik&Date)
+⭐ 22,315 · 🍴 1,834 · 🛠️ Python · 🏷️ Observability · 📅 Today · [📈 История звезд](https://star-history.com/#comet-ml/opik&Date)
 
 - Комплексная трассировка и отладка
 - Автоматизированная оценка LLM-приложений
@@ -577,7 +567,7 @@
 ### <a name="prime-agent"></a>[prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 **Самоулучшающийся RLM-агент для рабочих процессов программирования и длительных автономных задач.**
 
-⭐ 21,429 · 🍴 2,356 · 🛠️ Rust · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#PrimeIntellect-ai/prime-agent&Date)
+⭐ 21,431 · 🍴 2,357 · 🛠️ Rust · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#PrimeIntellect-ai/prime-agent&Date)
 
 - Самоулучшающийся RLM-агент
 - Поддержка рабочих процессов программирования
@@ -587,27 +577,17 @@
 ### <a name="pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
 **Как Python работает с ИИ. Агенты, голос в реальном времени, генерация изображений, эмбеддинги. Каждая модель, каждый интерфейс — со сквозной типизацией.**
 
-⭐ 20,300 · 🍴 2,834 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#pydantic/pydantic-ai&Date)
+⭐ 20,302 · 🍴 2,834 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#pydantic/pydantic-ai&Date)
 
 - ИИ-агенты для Python
 - Голосовой режим в реальном времени
 - Генерация изображений и эмбеддинги
 - Сквозная типизация и поддержка всех моделей
 
-### <a name="owl"></a>[owl](https://github.com/camel-ai/owl)
-**🦉 OWL: Оптимизированное обучение мультиагентного коллектива для универсальной поддержки в автоматизации реальных задач**
-
-⭐ 20,152 · 🍴 2,298 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#camel-ai/owl&Date)
-
-- Мультиагентная координация для совместного решения сложных задач
-- Автоматизация реальных рабочих процессов и повседневных задач
-- Динамическое использование инструментов и интеграция с внешними API
-- Оптимизированное обучение агентов на основе реального опыта выполнения задач
-
 ### <a name="eliza"></a>[eliza](https://github.com/elizaOS/eliza)
 **Агентная операционная система с открытым исходным кодом**
 
-⭐ 19,526 · 🍴 5,771 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#elizaOS/eliza&Date)
+⭐ 19,526 · 🍴 5,770 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#elizaOS/eliza&Date)
 
 - Поддержка нескольких платформ (Discord, Twitter, Telegram)
 - Расширяемая система плагинов и кастомных действий
@@ -617,27 +597,17 @@
 ### <a name="agent-zero"></a>[agent-zero](https://github.com/agent0ai/agent-zero)
 **ИИ-фреймворк Agent Zero**
 
-⭐ 19,357 · 🍴 3,827 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#agent0ai/agent-zero&Date)
+⭐ 19,358 · 🍴 3,826 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#agent0ai/agent-zero&Date)
 
 - Универсальный фреймворк для создания автономных ИИ-агентов
 - Динамическое создание и использование инструментов в реальном времени
 - Поддержка многоагентного взаимодействия и совместной работы
 - Способность к самокоррекции и выполнению сложных многошаговых задач
 
-### <a name="camel"></a>[camel](https://github.com/camel-ai/camel)
-**🐫 CAMEL: Первый и лучший мультиагентный фреймворк. Поиск закона масштабирования агентов. https://www.camel-ai.org**
-
-⭐ 17,799 · 🍴 2,102 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#camel-ai/camel&Date)
-
-- Первый фреймворк для мультиагентных систем
-- Лучшая платформа для разработки ИИ-агентов
-- Исследование законов масштабирования агентов
-- Поддержка автономного взаимодействия нескольких агентов
-
 ### <a name="ag-ui"></a>[ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 **AG-UI: протокол взаимодействия агента и пользователя. Интеграция агентов во фронтенд-приложения.**
 
-⭐ 16,169 · 🍴 1,470 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#ag-ui-protocol/ag-ui&Date)
+⭐ 16,177 · 🍴 1,470 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#ag-ui-protocol/ag-ui&Date)
 
 - Протокол взаимодействия агента и пользователя
 - Интеграция ИИ-агентов во фронтенд-приложения
@@ -647,7 +617,7 @@
 ### <a name="opensandbox"></a>[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
 **Безопасная, быстрая и расширяемая среда выполнения в песочнице для ИИ-агентов.**
 
-⭐ 15,624 · 🍴 1,441 · 🛠️ Python · 🏷️ Sandbox · 📅 Today · [📈 История звезд](https://star-history.com/#alibaba/OpenSandbox&Date)
+⭐ 15,626 · 🍴 1,441 · 🛠️ Python · 🏷️ Sandbox · 📅 Today · [📈 История звезд](https://star-history.com/#alibaba/OpenSandbox&Date)
 
 - Безопасная среда выполнения
 - Высокая скорость работы
@@ -687,7 +657,7 @@
 ### <a name="e2b"></a>[E2B](https://github.com/e2b-dev/E2B)
 **Открытая безопасная среда с реальными инструментами для агентов корпоративного уровня.**
 
-⭐ 14,064 · 🍴 1,065 · 🛠️ Python · 🏷️ Sandbox · 📅 Today · [📈 История звезд](https://star-history.com/#e2b-dev/E2B&Date)
+⭐ 14,063 · 🍴 1,066 · 🛠️ Python · 🏷️ Sandbox · 📅 Today · [📈 История звезд](https://star-history.com/#e2b-dev/E2B&Date)
 
 - Открытый исходный код
 - Безопасная и изолированная среда
@@ -697,7 +667,7 @@
 ### <a name="freetoken"></a>[FreeToken](https://github.com/FlashML-org/FreeToken)
 **FreeToken приносит обслуживание моделей в масштабе дата-центра на ваш настольный компьютер. Запускайте огромные модели локально — быстро и эффективно.**
 
-⭐ 14,033 · 🍴 1,396 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#FlashML-org/FreeToken&Date)
+⭐ 14,035 · 🍴 1,396 · 🛠️ Python · 🏷️ LLM Runtime · 📅 Today · [📈 История звезд](https://star-history.com/#FlashML-org/FreeToken&Date)
 
 - Модели масштаба дата-центров прямо на вашем компьютере
 - Запуск огромных моделей локально
@@ -707,7 +677,7 @@
 ### <a name="agent-framework"></a>[agent-framework](https://github.com/microsoft/agent-framework)
 **Фреймворк для создания, оркестрации и развертывания ИИ-агентов и многоагентных рабочих процессов с поддержкой Python и .NET.**
 
-⭐ 13,887 · 🍴 2,406 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#microsoft/agent-framework&Date)
+⭐ 13,888 · 🍴 2,406 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#microsoft/agent-framework&Date)
 
 - Создание и разработка ИИ-агентов
 - Оркестрация мультиагентных рабочих процессов
@@ -727,7 +697,7 @@
 ### <a name="semantica"></a>[semantica](https://github.com/semantica-agi/semantica)
 **Граф-нативная инфраструктура для контекста и подотчётных систем ИИ**
 
-⭐ 13,583 · 🍴 1,550 · 🛠️ Python · 🏷️ Agent Memory · 📅 Today · [📈 История звезд](https://star-history.com/#semantica-agi/semantica&Date)
+⭐ 13,595 · 🍴 1,553 · 🛠️ Python · 🏷️ Agent Memory · 📅 Today · [📈 История звезд](https://star-history.com/#semantica-agi/semantica&Date)
 
 - Нативная графовая инфраструктура для хранения и обработки данных
 - Управление контекстом для ИИ-систем
@@ -757,7 +727,7 @@
 ### <a name="agent-orchestrator"></a>[agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator)
 **Запускайте и контролируйте команды кодинг-агентов — от планирования до слияния. Любой харнесс (Claude Code, Codex и ещё 25+). Агенты для десктопа, веба, мобильных устройств и облака.**
 
-⭐ 12,580 · 🍴 1,739 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#ComposioHQ/agent-orchestrator&Date)
+⭐ 12,584 · 🍴 1,740 · 🛠️ Go · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#ComposioHQ/agent-orchestrator&Date)
 
 - Запуск и контроль команд агентов-кодировщиков от планирования до слияния (merge)
 - Поддержка любых harness-сред: Claude Code, Codex и ещё 25+ других
@@ -767,7 +737,7 @@
 ### <a name="openjarvis"></a>[OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
 **Персональный ИИ на персональных устройствах**
 
-⭐ 10,399 · 🍴 2,413 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#open-jarvis/OpenJarvis&Date)
+⭐ 10,402 · 🍴 2,413 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#open-jarvis/OpenJarvis&Date)
 
 - Персональный искусственный интеллект
 - Работа на личных устройствах
@@ -787,7 +757,7 @@
 ### <a name="praisonai"></a>[PraisonAI](https://github.com/MervinPraison/PraisonAI)
 **PraisonAI 🦞 — ваш ИИ-штат 24/7. Забудьте о рутине и создавайте автономных самосовершенствующихся агентов для исследования, планирования, написания кода и выполнения задач. Развертывание в 5 строк кода со встроенной памятью, RAG и поддержкой 100+ LLM.**
 
-⭐ 9,114 · 🍴 1,459 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#MervinPraison/PraisonAI&Date)
+⭐ 9,115 · 🍴 1,459 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#MervinPraison/PraisonAI&Date)
 
 - Создание автономных самосовершенствующихся агентов для исследования, планирования и написания кода
 - Развертывание системы всего в 5 строк кода
@@ -797,7 +767,7 @@
 ### <a name="openresearch"></a>[OpenResearch](https://github.com/alphaXiv/OpenResearch)
 **Превратите агентов для программирования в исследовательских агентов**
 
-⭐ 6,313 · 🍴 403 · 🛠️ Rust · 🏷️ Research · 📅 Today · [📈 История звезд](https://star-history.com/#alphaXiv/OpenResearch&Date)
+⭐ 6,324 · 🍴 404 · 🛠️ Rust · 🏷️ Research · 📅 Today · [📈 История звезд](https://star-history.com/#alphaXiv/OpenResearch&Date)
 
 - Превращает агентов для программирования в исследовательских агентов
 - Автоматизированный поиск и сбор информации из различных источников
@@ -807,7 +777,7 @@
 ### <a name="agents-cli"></a>[agents-cli](https://github.com/google/agents-cli)
 **CLI и навыки, превращающие любого ИИ-ассистента в эксперта по созданию, оценке и развертыванию ИИ-агентов в Google Cloud.**
 
-⭐ 6,036 · 🍴 687 · 🛠️ Python · 🏷️ Cloud Tooling · 📅 Today · [📈 История звезд](https://star-history.com/#google/agents-cli&Date)
+⭐ 6,037 · 🍴 687 · 🛠️ Python · 🏷️ Cloud Tooling · 📅 Today · [📈 История звезд](https://star-history.com/#google/agents-cli&Date)
 
 - Создание интеллектуальных агентов
 - Оценка и тестирование агентов
@@ -817,27 +787,17 @@
 ### <a name="oasis"></a>[oasis](https://github.com/camel-ai/oasis)
 **🏝️ OASIS: Открытые симуляции социального взаимодействия с миллионом агентов.**
 
-⭐ 5,215 · 🍴 641 · 🛠️ Python · 🏷️ Swarm · 📅 Today · [📈 История звезд](https://star-history.com/#camel-ai/oasis&Date)
+⭐ 5,216 · 🍴 641 · 🛠️ Python · 🏷️ Swarm · 📅 Today · [📈 История звезд](https://star-history.com/#camel-ai/oasis&Date)
 
 - Открытые симуляции социального взаимодействия агентов
 - Масштаб до одного миллиона автономных агентов
 - Моделирование сложных социальных взаимодействий
 - Открытая платформа для многоагентных исследований
 
-### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm)
-**Надежный фреймворк мультиагентной оркестрации.**
-
-⭐ 4,587 · 🍴 1,061 · 🛠️ Python · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#VRSEN/agency-swarm&Date)
-
-- Надежная оркестрация мультиагентных систем
-- Иерархическая структура управления и ролей
-- Эффективная коммуникация и передача контекста между агентами
-- Простота настройки и масштабирования рабочих процессов
-
 ### <a name="bb"></a>[bb](https://github.com/get-bb/bb)
 **IDE для агентов, которая создаёт себя сама**
 
-⭐ 4,036 · 🍴 573 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#get-bb/bb&Date)
+⭐ 4,037 · 🍴 574 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 Today · [📈 История звезд](https://star-history.com/#get-bb/bb&Date)
 
 - Среда разработки, которая создаёт и улучшает себя сама
 - Встроенные инструменты для создания ИИ-агентов
@@ -847,12 +807,12 @@
 ### <a name="anthropic-sdk-python"></a>[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
 **None**
 
-⭐ 3,935 · 🍴 872 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
+⭐ 3,936 · 🍴 872 · 🛠️ Python · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
 
-- Официальная клиентская библиотека Python для доступа к API Anthropic и моделям Claude
-- Поддержка потоковой передачи ответов (streaming) в реальном времени
-- Асинхронный клиент на базе asyncio для высоконагруженных приложений
-- Полная поддержка вызова инструментов (tool use), отправки изображений и типизированных ответов
+- Официальный Python-клиент для доступа к API Anthropic и моделям Claude
+- Поддержка синхронных и асинхронных запросов (asyncio)
+- Потоковая передача ответов в реальном времени (streaming)
+- Полная типизация и автоматические повторные попытки при ошибках
 
 ### <a name="openscience"></a>[openscience](https://github.com/synthetic-sciences/openscience)
 **Рабочая среда ИИ с открытым исходным кодом для научных исследований**
@@ -867,7 +827,7 @@
 ### <a name="goclaw"></a>[goclaw](https://github.com/nextlevelbuilder/goclaw)
 **GoClaw — это OpenClaw, переписанный на Go: мультиарендная изоляция, 5-уровневая безопасность и нативный параллелизм. Масштабируйте команды ИИ-агентов без ущерба для безопасности.**
 
-⭐ 3,633 · 🍴 1,059 · 🛠️ Go · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#nextlevelbuilder/goclaw&Date)
+⭐ 3,634 · 🍴 1,059 · 🛠️ Go · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#nextlevelbuilder/goclaw&Date)
 
 - Мультиарендная изоляция
 - 5-уровневая система безопасности
@@ -877,7 +837,7 @@
 ### <a name="fx"></a>[fx](https://github.com/vercel-labs/fx)
 **Агент для программирования в стиле Unix**
 
-⭐ 3,235 · 🍴 363 · 🛠️ Zig · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#vercel-labs/fx&Date)
+⭐ 3,237 · 🍴 364 · 🛠️ Zig · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#vercel-labs/fx&Date)
 
 - Работа из командной строки в стиле Unix
 - Совместимость с пайпами и другими Unix-инструментами
@@ -887,7 +847,7 @@
 ### <a name="sol-pi"></a>[SoL-Pi](https://github.com/NVlabs/SoL-Pi)
 **SoL-Pi: масштабирование циклов автоисследований для эффективных агентных каркасов**
 
-⭐ 3,223 · 🍴 258 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#NVlabs/SoL-Pi&Date)
+⭐ 3,225 · 🍴 258 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#NVlabs/SoL-Pi&Date)
 
 - Автоматизированные исследовательские циклы (auto-research loops) для непрерывного улучшения ИИ-агентов
 - Масштабируемая архитектура для параллельного запуска множества исследовательских итераций
@@ -897,7 +857,7 @@
 ### <a name="atomic-agent"></a>[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
 **Atomic Agent — локально-ориентированный ИИ-агент. Запускает модели с открытыми весами на вашем компьютере через llama.cpp.**
 
-⭐ 2,565 · 🍴 255 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#AtomicBot-ai/atomic-agent&Date)
+⭐ 2,566 · 🍴 255 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 Today · [📈 История звезд](https://star-history.com/#AtomicBot-ai/atomic-agent&Date)
 
 - Локально-ориентированный ИИ-агент
 - Запуск моделей с открытыми весами
@@ -927,7 +887,7 @@
 ### <a name="deepseek-harness"></a>[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 **DeepSeek Harness: всё есть плагин.**
 
-⭐ 241,179 · 🍴 28,964 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 1d · [📈 История звезд](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
+⭐ 241,241 · 🍴 28,966 · 🛠️ TypeScript · 🏷️ Agent Framework · 📅 1d · [📈 История звезд](https://star-history.com/#deepseek-ai/deepseek-harness&Date)
 
 - Модульная архитектура, где каждый компонент реализован как плагин
 - Расширяемость системы за счёт подключения новых плагинов
@@ -937,7 +897,7 @@
 ### <a name="mirofish"></a>[MiroFish](https://github.com/666ghj/MiroFish)
 **Простой и универсальный движок роевого интеллекта, предсказывающий всё.**
 
-⭐ 75,487 · 🍴 11,612 · 🛠️ Python · 🏷️ Swarm · 📅 15d · [📈 История звезд](https://star-history.com/#666ghj/MiroFish&Date)
+⭐ 75,495 · 🍴 11,613 · 🛠️ Python · 🏷️ Swarm · 📅 15d · [📈 История звезд](https://star-history.com/#666ghj/MiroFish&Date)
 
 - Движок роевого интеллекта
 - Универсальность применения
@@ -947,7 +907,7 @@
 ### <a name="llama_index"></a>[llama_index](https://github.com/run-llama/llama_index)
 **LlamaIndex — платформа обработки документов для ИИ**
 
-⭐ 52,376 · 🍴 8,256 · 🛠️ Python · 🏷️ RAG · 📅 1d · [📈 История звезд](https://star-history.com/#run-llama/llama_index&Date)
+⭐ 52,377 · 🍴 8,256 · 🛠️ Python · 🏷️ RAG · 📅 2d · [📈 История звезд](https://star-history.com/#run-llama/llama_index&Date)
 
 - Загрузка и индексация документов из множества источников данных
 - Поддержка RAG (генерации с дополненным поиском) для точных ответов на основе ваших данных
@@ -957,7 +917,7 @@
 ### <a name="cli-anything"></a>[CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 **CLI-Anything: Делаем ЛЮБОЕ ПО нативным для ИИ-агентов — CLI-Hub: https://clianything.cc/**
 
-⭐ 51,138 · 🍴 4,662 · 🛠️ Python · 🏷️ Tool Integration · 📅 9d · [📈 История звезд](https://star-history.com/#HKUDS/CLI-Anything&Date)
+⭐ 51,141 · 🍴 4,662 · 🛠️ Python · 🏷️ Tool Integration · 📅 9d · [📈 История звезд](https://star-history.com/#HKUDS/CLI-Anything&Date)
 
 - Превращение любого программного обеспечения в формат, совместимый с ИИ-агентами (Agent-Native)
 - Централизованный хаб готовых CLI-инструментов (CLI-Hub) для быстрого доступа
@@ -967,7 +927,7 @@
 ### <a name="deeptutor"></a>[DeepTutor](https://github.com/HKUDS/DeepTutor)
 **DeepTutor: Непрерывное персонализированное обучение. https://deeptutor.info/**
 
-⭐ 40,587 · 🍴 5,134 · 🛠️ Python · 🏷️ Education · 📅 3d · [📈 История звезд](https://star-history.com/#HKUDS/DeepTutor&Date)
+⭐ 40,592 · 🍴 5,134 · 🛠️ Python · 🏷️ Education · 📅 4d · [📈 История звезд](https://star-history.com/#HKUDS/DeepTutor&Date)
 
 - Персонализированное обучение на основе искусственного интеллекта
 - Поддержка непрерывного образования на протяжении всей жизни
@@ -997,22 +957,42 @@
 ### <a name="gpt-researcher"></a>[gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 **Автономный агент для глубокого исследования любых данных с использованием любых LLM-провайдеров.**
 
-⭐ 29,849 · 🍴 4,071 · 🛠️ Python · 🏷️ Research · 📅 4d · [📈 История звезд](https://star-history.com/#assafelovic/gpt-researcher&Date)
+⭐ 29,850 · 🍴 4,070 · 🛠️ Python · 🏷️ Research · 📅 4d · [📈 История звезд](https://star-history.com/#assafelovic/gpt-researcher&Date)
 
 - Автономное проведение глубоких исследований
 - Работа с любыми источниками данных
 - Поддержка любых провайдеров LLM
 - Автоматизация процесса сбора и анализа информации
 
+### <a name="smolagents"></a>[smolagents](https://github.com/huggingface/smolagents)
+**🤗 smolagents: минималистичная библиотека для агентов, мыслящих кодом.**
+
+⭐ 29,614 · 🍴 3,018 · 🛠️ Python · 🏷️ Agent Framework · 📅 1d · [📈 История звезд](https://star-history.com/#huggingface/smolagents&Date)
+
+- Минималистичная и легковесная библиотека для создания ИИ-агентов
+- Агенты используют написание кода для логического вывода и решения задач
+- Глубокая интеграция с экосистемой Hugging Face
+- Простая архитектура без избыточных абстракций
+
 ### <a name="letta"></a>[letta](https://github.com/letta-ai/letta)
 **Платформа для агентов с состоянием: ИИ с продвинутой памятью, способный обучаться и самосовершенствоваться со временем.**
 
-⭐ 24,985 · 🍴 2,638 · 🛠️ N/A · 🏷️ Agent Memory · 📅 20d · [📈 История звезд](https://star-history.com/#letta-ai/letta&Date)
+⭐ 24,987 · 🍴 2,638 · 🛠️ N/A · 🏷️ Agent Memory · 📅 20d · [📈 История звезд](https://star-history.com/#letta-ai/letta&Date)
 
 - Платформа для создания агентов с состоянием
 - Продвинутая система долгосрочной памяти
 - Способность к обучению в процессе взаимодействия
 - Механизмы непрерывного самосовершенствования
+
+### <a name="owl"></a>[owl](https://github.com/camel-ai/owl)
+**🦉 OWL: Оптимизированное обучение мультиагентного коллектива для универсальной поддержки в автоматизации реальных задач**
+
+⭐ 20,152 · 🍴 2,298 · 🛠️ Python · 🏷️ Multi-Agent · 📅 1d · [📈 История звезд](https://star-history.com/#camel-ai/owl&Date)
+
+- Мультиагентная координация для совместного решения сложных задач
+- Автоматизация реальных рабочих процессов и повседневных задач
+- Динамическое использование инструментов и интеграция с внешними API
+- Оптимизированное обучение агентов на основе реального опыта выполнения задач
 
 ### <a name="db-gpt"></a>[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 **Open-source агентный ИИ-ассистент для работы с данными в AI + Data продуктах нового поколения.**
@@ -1024,10 +1004,20 @@
 - Интеграция ИИ и баз данных нового поколения
 - Поддержка автономных агентов
 
+### <a name="camel"></a>[camel](https://github.com/camel-ai/camel)
+**🐫 CAMEL: Первый и лучший мультиагентный фреймворк. Поиск закона масштабирования агентов. https://www.camel-ai.org**
+
+⭐ 17,799 · 🍴 2,102 · 🛠️ Python · 🏷️ Multi-Agent · 📅 1d · [📈 История звезд](https://star-history.com/#camel-ai/camel&Date)
+
+- Первый фреймворк для мультиагентных систем
+- Лучшая платформа для разработки ИИ-агентов
+- Исследование законов масштабирования агентов
+- Поддержка автономного взаимодействия нескольких агентов
+
 ### <a name="deepcode"></a>[DeepCode](https://github.com/HKUDS/DeepCode)
 **DeepCode: Открытое агентное программирование (каркас агента, инженерия циклов и мультиагентная оркестрация)**
 
-⭐ 16,662 · 🍴 2,167 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 История звезд](https://star-history.com/#HKUDS/DeepCode&Date)
+⭐ 16,663 · 🍴 2,167 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 История звезд](https://star-history.com/#HKUDS/DeepCode&Date)
 
 - Открытый агентный кодинг
 - Каркас агентов (Agent Harness)
@@ -1047,7 +1037,7 @@
 ### <a name="mini-swe-agent"></a>[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
 **ИИ-агент на 100 строк, который решает issues на GitHub или помогает вам в командной строке. Радикально просто: без огромных конфигов и гигантского монорепозитория — но с результатом >74% на SWE-bench Verified!**
 
-⭐ 8,127 · 🍴 1,117 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 История звезд](https://star-history.com/#swe-agent/mini-swe-agent&Date)
+⭐ 8,132 · 🍴 1,118 · 🛠️ Python · 🏷️ Coding · 📅 2d · [📈 История звезд](https://star-history.com/#swe-agent/mini-swe-agent&Date)
 
 - Компактный ИИ-агент всего на 100 строк кода
 - Решает задачи (issues) на GitHub
@@ -1084,6 +1074,16 @@
 - Поддержка нескольких языков программирования (TypeScript, Python, Go, Rust)
 - Встроенные инструменты автоматического тестирования, код-ревью и валидации
 
+### <a name="agency-swarm"></a>[agency-swarm](https://github.com/VRSEN/agency-swarm)
+**Надежный фреймворк мультиагентной оркестрации.**
+
+⭐ 4,587 · 🍴 1,061 · 🛠️ Python · 🏷️ Multi-Agent · 📅 1d · [📈 История звезд](https://star-history.com/#VRSEN/agency-swarm&Date)
+
+- Надежная оркестрация мультиагентных систем
+- Иерархическая структура управления и ролей
+- Эффективная коммуникация и передача контекста между агентами
+- Простота настройки и масштабирования рабочих процессов
+
 ### <a name="ms-agent"></a>[ms-agent](https://github.com/modelscope/ms-agent)
 **MS-Agent: легковесный фреймворк для агентного выполнения сложных задач**
 
@@ -1107,7 +1107,7 @@
 ### <a name="beeai-framework"></a>[beeai-framework](https://github.com/i-am-bee/beeai-framework)
 **Создавайте готовых к промышленной эксплуатации ИИ-агентов на Python и TypeScript.**
 
-⭐ 3,424 · 🍴 509 · 🛠️ Python · 🏷️ Agent Framework · 📅 2d · [📈 История звезд](https://star-history.com/#i-am-bee/beeai-framework&Date)
+⭐ 3,425 · 🍴 509 · 🛠️ Python · 🏷️ Agent Framework · 📅 2d · [📈 История звезд](https://star-history.com/#i-am-bee/beeai-framework&Date)
 
 - Поддержка разработки на Python и TypeScript
 - Создание готовых к промышленной эксплуатации ИИ-агентов
@@ -1127,7 +1127,7 @@
 ### <a name="mtplx"></a>[MTPLX](https://github.com/youssofal/MTPLX)
 **Самый быстрый способ запустить Qwen 3.8 Flash Next, Qwen 3.8 27B и Ternary Bonsai 2 27B на Mac: 125 токенов/с в OpenCode на M5 Max и модель 27B на Mac с 16 ГБ. Нативное спекулятивное декодирование MTP на Apple Silicon, точное при любой температуре. Локальный сервер, совместимый с OpenAI и Anthropic.**
 
-⭐ 2,487 · 🍴 196 · 🛠️ Python · 🏷️ LLM Runtime · 📅 4d · [📈 История звезд](https://star-history.com/#youssofal/MTPLX&Date)
+⭐ 2,488 · 🍴 196 · 🛠️ Python · 🏷️ LLM Runtime · 📅 4d · [📈 История звезд](https://star-history.com/#youssofal/MTPLX&Date)
 
 - Самый быстрый запуск Qwen 3.8 Flash Next, Qwen 3.8 27B и Ternary Bonsai 2 27B на Mac: 125 ток/с в OpenCode на M5 Max
 - Запуск моделей 27B на Mac с 16 ГБ памяти
@@ -1147,7 +1147,7 @@
 ### <a name="waku-agent"></a>[waku-agent](https://github.com/ShenSeanChen/waku-agent)
 **Waku Waku! Waku Agent — это локально-ориентированный каркас AI-агента, который по-настоящему принадлежит вам: цикл, память, оценка — всё в коде, написанном так, чтобы оставаться читаемым по мере роста.**
 
-⭐ 1,878 · 🍴 381 · 🛠️ Python · 🏷️ Agent Framework · 📅 2d · [📈 История звезд](https://star-history.com/#ShenSeanChen/waku-agent&Date)
+⭐ 1,878 · 🍴 381 · 🛠️ Python · 🏷️ Agent Framework · 📅 3d · [📈 История звезд](https://star-history.com/#ShenSeanChen/waku-agent&Date)
 
 - Локальная (local-first) архитектура — всё работает на вашем устройстве
 - Полное владение агентом без зависимости от внешних сервисов
@@ -1157,7 +1157,7 @@
 ### <a name="cccc"></a>[cccc](https://github.com/ChesterRa/cccc)
 **Координируйте кодинг-агентов как в групповом чате — отчёты о прочтении, отслеживание доставки и удалённое управление с телефона. Установка одной командой pip, нулевая инфраструктура. Оркестратор промышленного уровня для работы 24/7.**
 
-⭐ 1,258 · 🍴 113 · 🛠️ Rust · 🏷️ Multi-Agent · 📅 1d · [📈 История звезд](https://star-history.com/#ChesterRa/cccc&Date)
+⭐ 1,259 · 🍴 113 · 🛠️ Rust · 🏷️ Multi-Agent · 📅 1d · [📈 История звезд](https://star-history.com/#ChesterRa/cccc&Date)
 
 - Координация агентов кодирования как в групповом чате
 - Уведомления о прочтении и отслеживание доставки сообщений
@@ -1217,7 +1217,7 @@
 ### <a name="metagpt"></a>[MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 **🌟 Мультиагентный фреймворк: первая ИИ-компания по разработке ПО, путь к программированию на естественном языке**
 
-⭐ 70,709 · 🍴 8,988 · 🛠️ Python · 🏷️ Multi-Agent · 📅 252d · [📈 История звезд](https://star-history.com/#FoundationAgents/MetaGPT&Date)
+⭐ 70,712 · 🍴 8,988 · 🛠️ Python · 🏷️ Multi-Agent · 📅 252d · [📈 История звезд](https://star-history.com/#FoundationAgents/MetaGPT&Date)
 
 - Мультиагентная среда для совместной работы нескольких ИИ-агентов
 - Симуляция структуры ИТ-компании с ролями менеджеров, архитекторов и инженеров
@@ -1227,7 +1227,7 @@
 ### <a name="autogen"></a>[autogen](https://github.com/microsoft/autogen)
 **Программный фреймворк для агентного ИИ**
 
-⭐ 61,247 · 🍴 9,276 · 🛠️ Python · 🏷️ Multi-Agent · 📅 168d · [📈 История звезд](https://star-history.com/#microsoft/autogen&Date)
+⭐ 61,248 · 🍴 9,275 · 🛠️ Python · 🏷️ Multi-Agent · 📅 168d · [📈 История звезд](https://star-history.com/#microsoft/autogen&Date)
 
 - Создание многоагентных систем для решения сложных задач
 - Настраиваемые и способные к диалогу ИИ-агенты
@@ -1237,7 +1237,7 @@
 ### <a name="aider"></a>[aider](https://github.com/Aider-AI/aider)
 **aider — парное программирование с ИИ в вашем терминале.**
 
-⭐ 49,301 · 🍴 5,019 · 🛠️ Python · 🏷️ Coding · 📅 131d · [📈 История звезд](https://star-history.com/#Aider-AI/aider&Date)
+⭐ 49,302 · 🍴 5,019 · 🛠️ Python · 🏷️ Coding · 📅 131d · [📈 История звезд](https://star-history.com/#Aider-AI/aider&Date)
 
 - ИИ-парное программирование прямо в терминале
 - Редактирование кода непосредственно в локальных файлах и git-репозиториях
@@ -1247,7 +1247,7 @@
 ### <a name="chatdev"></a>[ChatDev](https://github.com/OpenBMB/ChatDev)
 **ChatDev 2.0: Разработка любых ИТ-решений через многоагентное взаимодействие на базе LLM**
 
-⭐ 34,429 · 🍴 4,314 · 🛠️ Python · 🏷️ Multi-Agent · 📅 68d · [📈 История звезд](https://star-history.com/#OpenBMB/ChatDev&Date)
+⭐ 34,431 · 🍴 4,314 · 🛠️ Python · 🏷️ Multi-Agent · 📅 68d · [📈 История звезд](https://star-history.com/#OpenBMB/ChatDev&Date)
 
 - Многоагентная коллаборация на базе больших языковых моделей (LLM)
 - Автоматизация полного цикла разработки программного обеспечения
@@ -1257,12 +1257,12 @@
 ### <a name="babyagi"></a>[babyagi](https://github.com/yoheinakajima/babyagi)
 **None**
 
-⭐ 22,361 · 🍴 2,848 · 🛠️ Python · 🏷️ Task Automation · 📅 242d · [📈 История звезд](https://star-history.com/#yoheinakajima/babyagi&Date)
+⭐ 22,361 · 🍴 2,848 · 🛠️ Python · 🏷️ Task Automation · 📅 243d · [📈 История звезд](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- Автономное создание новых задач на основе поставленной цели и результатов предыдущих задач
-- Автоматическая приоритизация списка задач с помощью ИИ
-- Выполнение задач с помощью ИИ-агентов на базе OpenAI API
-- Использование векторной базы данных для хранения контекста и результатов задач
+- Автоматическое создание новых задач на основе цели и результатов предыдущих задач
+- Приоритизация списка задач с помощью искусственного интеллекта
+- Автономное выполнение задач через агентов на базе OpenAI
+- Хранение контекста и результатов задач в векторной базе данных
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Образовательный фреймворк для исследования эргономичной и легковесной мультиагентной оркестрации. Под управлением команды OpenAI Solution.**
@@ -1307,7 +1307,7 @@
 ### <a name="hexstrike-ai"></a>[hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
 **HexStrike AI MCP Agents — это продвинутый MCP-сервер, позволяющий ИИ-агентам (Claude, GPT, Copilot и др.) автономно использовать более 150 инструментов кибербезопасности для автоматизированного тестирования на проникновение, поиска уязвимостей, автоматизации Bug Bounty и исследований в сфере ИБ. Обеспечивает бесшовную интеграцию LLM с реальными возможностями наступательной безопасности.**
 
-⭐ 12,265 · 🍴 2,497 · 🛠️ Python · 🏷️ Cybersecurity · 📅 58d · [📈 История звезд](https://star-history.com/#0x4m4/hexstrike-ai&Date)
+⭐ 12,266 · 🍴 2,497 · 🛠️ Python · 🏷️ Cybersecurity · 📅 58d · [📈 История звезд](https://star-history.com/#0x4m4/hexstrike-ai&Date)
 
 - Автономный запуск более 150 инструментов кибербезопасности через MCP-сервер
 - Автоматизированное тестирование на проникновение (пентестинг)
@@ -1327,7 +1327,7 @@
 ### <a name="tinyagi"></a>[tinyagi](https://github.com/TinyAGI/tinyagi)
 **TinyAGI — оркестратор команд агентов для One Person Company (ранее TinyClaw).**
 
-⭐ 3,619 · 🍴 506 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 184d · [📈 История звезд](https://star-history.com/#TinyAGI/tinyagi&Date)
+⭐ 3,620 · 🍴 506 · 🛠️ TypeScript · 🏷️ Multi-Agent · 📅 184d · [📈 История звезд](https://star-history.com/#TinyAGI/tinyagi&Date)
 
 - Оркестрация команд ИИ-агентов
 - Оптимизация для компаний из одного человека (One Person Company)
@@ -1367,7 +1367,7 @@
 ### <a name="agent-second-brain"></a>[agent-second-brain](https://github.com/smixs/agent-second-brain)
 **Ваш «второй мозг» на связи 24/7. Голосовые заметки в Telegram → структурированные знания в Obsidian. Работает круглосуточно на базе вашей подписки Claude.**
 
-⭐ 390 · 🍴 219 · 🛠️ Python · 🏷️ Knowledge Management · 📅 56d · [📈 История звезд](https://star-history.com/#smixs/agent-second-brain&Date)
+⭐ 390 · 🍴 220 · 🛠️ Python · 🏷️ Knowledge Management · 📅 56d · [📈 История звезд](https://star-history.com/#smixs/agent-second-brain&Date)
 
 - Постоянно доступный «второй мозг» с голосовым интерфейсом
 - Автоматическое преобразование голосовых заметок из Telegram в текст
@@ -1417,7 +1417,7 @@
 ### <a name="agentgpt"></a>[AgentGPT](https://github.com/reworkd/AgentGPT)
 **🤖 Сборка, настройка и развертывание автономных ИИ-агентов в браузере.**
 
-⭐ 36,297 · 🍴 9,245 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 520d · [📈 История звезд](https://star-history.com/#reworkd/AgentGPT&Date)
+⭐ 36,297 · 🍴 9,244 · 🛠️ TypeScript · 🏷️ Agent Platform · 📅 520d · [📈 История звезд](https://star-history.com/#reworkd/AgentGPT&Date)
 
 - Создание автономных ИИ-агентов
 - Гибкая настройка конфигураций
@@ -1427,7 +1427,7 @@
 ### <a name="storm"></a>[storm](https://github.com/stanford-oval/storm)
 **Система систематизации знаний на базе LLM для исследования тем и формирования подробных отчетов с указанием источников.**
 
-⭐ 31,547 · 🍴 2,974 · 🛠️ Python · 🏷️ Research · 📅 365d · [📈 История звезд](https://star-history.com/#stanford-oval/storm&Date)
+⭐ 31,546 · 🍴 2,974 · 🛠️ Python · 🏷️ Research · 📅 365d · [📈 История звезд](https://star-history.com/#stanford-oval/storm&Date)
 
 - Многоперспективный опрос для глубокого исследования темы
 - Автоматический поиск и сбор информации из открытых источников
