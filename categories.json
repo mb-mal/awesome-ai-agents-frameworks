@@ -128,5 +128,6 @@
   "NVlabs/SoL-Pi": "Coding",
   "alphaXiv/OpenResearch": "Research",
   "synthetic-sciences/OpenScience": "Research",
-  "sageil/kodacode": "Coding"
+  "sageil/kodacode": "Coding",
+  "tinyhumansai/openhuman": "Agent Framework"
 }
