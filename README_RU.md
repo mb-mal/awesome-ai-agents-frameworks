@@ -2,23 +2,23 @@
 
 [EN](README.md) | **RU** | [ZH](README_ZH.md)
 
-*Last updated: 2026-10-04 06:00:32*
+*Last updated: 2026-10-04 06:01:01*
 
 | № | Фреймворк | Звезды | Категория | Лицензия | Язык | Задачи | Обновлен | Изм. |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1 | [**`openclaw`**](#openclaw) | 391,254 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 9274 / 0 / 9274 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B57-2eb872?style=flat-square) |
+| 1 | [**`openclaw`**](#openclaw) | 391,254 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 9275 / 0 / 9275 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B57-2eb872?style=flat-square) |
 | 2 | [**`hermes-agent`**](#hermes-agent) | 251,023 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 47910 / 0 / 47910 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B209-2eb872?style=flat-square) |
 | 3 | [**`deepseek-harness`**](#deepseek-harness) | 243,015 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 0 / 0 / 0 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B532-2eb872?style=flat-square) |
 | 4 | [**`opencode`**](#opencode) | 211,656 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 6250 / 0 / 6250 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B123-2eb872?style=flat-square) |
 | 5 | [**`n8n`**](#n8n) | 206,599 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 1118 / 0 / 1118 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B64-2eb872?style=flat-square) |
 | 6 | [**`AutoGPT`**](#autogpt) | 187,643 | Agent Platform |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 599 / 0 / 599 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--1-95a5a6?style=flat-square) |
 | 7 | [**`ollama`**](#ollama) | 182,137 | LLM Runtime | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 4167 / 0 / 4167 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B63-2eb872?style=flat-square) |
-| 8 | [**`dify`**](#dify) | 157,795 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 997 / 0 / 997 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B56-2eb872?style=flat-square) |
+| 8 | [**`dify`**](#dify) | 157,796 | Workflow Automation |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 997 / 0 / 997 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B57-2eb872?style=flat-square) |
 | 9 | [**`open-webui`**](#open-webui) | 153,899 | Chat Interface |  | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 282 / 0 / 282 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B60-2eb872?style=flat-square) |
 | 10 | [**`claude-code`**](#claude-code) | 149,278 | Coding |  | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 14169 / 0 / 14169 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B274-2eb872?style=flat-square) |
 | 11 | [**`langchain`**](#langchain) | 147,421 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 617 / 0 / 617 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B30-2eb872?style=flat-square) |
 | 12 | [**`llama.cpp`**](#llama.cpp) | 130,245 | LLM Runtime | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-C++-3178c6?style=flat-square) | 2535 / 0 / 2535 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B66-2eb872?style=flat-square) |
-| 13 | [**`pi`**](#pi) | 112,234 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 265 / 0 / 265 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B389-2eb872?style=flat-square) |
+| 13 | [**`pi`**](#pi) | 112,235 | Coding | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 265 / 0 / 265 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B390-2eb872?style=flat-square) |
 | 14 | [**`paperclip`**](#paperclip) | 96,822 | Multi-Agent | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square) | 6340 / 0 / 6340 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B423-2eb872?style=flat-square) |
 | 15 | [**`vllm`**](#vllm) | 93,138 | LLM Runtime | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 8412 / 0 / 8412 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B49-2eb872?style=flat-square) |
 | 16 | [**`ragflow`**](#ragflow) | 91,641 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 1614 / 0 / 1614 | ![](https://img.shields.io/badge/-Today-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B25-2eb872?style=flat-square) |
@@ -218,7 +218,7 @@
 ### <a name="dify"></a>[dify](https://github.com/langgenius/dify)
 **Создавайте агентные рабочие процессы и RAG-конвейеры с широкой поддержкой ИИ-моделей и инструментов в едином рабочем пространстве для совместной работы. Развертывание в облаке, VPC или на собственных серверах позволяет командам переходить от прототипа к продакшену без пересборки стека.**
 
-⭐ 157,795 · 🍴 24,901 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#langgenius/dify&Date)
+⭐ 157,796 · 🍴 24,901 · 🛠️ TypeScript · 🏷️ Workflow Automation · 📅 Today · [📈 История звезд](https://star-history.com/#langgenius/dify&Date)
 
 - Создание агентных рабочих процессов и RAG-конвейеров
 - Богатая поддержка ИИ-моделей и инструментов
@@ -268,7 +268,7 @@
 ### <a name="pi"></a>[pi](https://github.com/earendil-works/pi)
 **Инструментарий для ИИ-агентов: унифицированный API LLM, цикл агента, TUI и CLI для кодинг-агентов.**
 
-⭐ 112,234 · 🍴 14,237 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#badlogic/pi-mono&Date)
+⭐ 112,235 · 🍴 14,237 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#badlogic/pi-mono&Date)
 
 - Единый API для работы с различными языковыми моделями (LLM)
 - Автономный цикл работы ИИ-агента
@@ -1112,8 +1112,8 @@
 
 - Официальный Python-клиент для доступа к API Anthropic и моделям Claude
 - Поддержка синхронных и асинхронных запросов (asyncio)
-- Потоковая передача ответов в реальном времени (streaming)
-- Автоматические повторные попытки и строгая типизация запросов и ответов
+- Потоковая передача ответов (streaming) в реальном времени
+- Полная типизация, автоматические повторные попытки и обработка ошибок
 
 ### <a name="openscience"></a>[openscience](https://github.com/synthetic-sciences/openscience)
 **Рабочая среда ИИ с открытым исходным кодом для научных исследований**
@@ -1270,10 +1270,10 @@
 
 ⭐ 22,363 · 🍴 2,846 · 🛠️ Python · 🏷️ Task Automation · 📅 246d · [📈 История звезд](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- Автоматическое создание новых задач на основе результатов предыдущих
-- Приоритизация списка задач с помощью ИИ
-- Автономное выполнение задач в непрерывном цикле
-- Хранение контекста задач в векторной базе данных
+- Автономное создание, приоритизация и выполнение задач с помощью ИИ
+- Генерация новых задач на основе результатов предыдущих с использованием GPT
+- Хранение контекста и результатов задач в векторной базе данных
+- Непрерывный цикл работы до достижения поставленной цели
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Образовательный фреймворк для исследования эргономичной и легковесной мультиагентной оркестрации. Под управлением команды OpenAI Solution.**
