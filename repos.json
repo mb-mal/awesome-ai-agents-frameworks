@@ -130,6 +130,7 @@
     "synthetic-sciences/OpenScience",
     "sageil/kodacode",
     "tinyhumansai/openhuman",
-    "Weber-GeoML/Choir"
+    "Weber-GeoML/Choir",
+    "uber/ADR"
   ]
 }

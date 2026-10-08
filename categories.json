@@ -130,5 +130,6 @@
   "synthetic-sciences/OpenScience": "Research",
   "sageil/kodacode": "Coding",
   "tinyhumansai/openhuman": "Agent Framework",
-  "Weber-GeoML/Choir": "Multi-Agent"
+  "Weber-GeoML/Choir": "Multi-Agent",
+  "uber/ADR": "Cybersecurity"
 }
