@@ -131,5 +131,6 @@
   "sageil/kodacode": "Coding",
   "tinyhumansai/openhuman": "Agent Framework",
   "Weber-GeoML/Choir": "Multi-Agent",
-  "uber/ADR": "Cybersecurity"
+  "uber/ADR": "Cybersecurity",
+  "tale-project/tale": "Agent Platform"
 }
