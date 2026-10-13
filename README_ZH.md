@@ -2,7 +2,7 @@
 
 [EN](README.md) | [RU](README_RU.md) | **ZH**
 
-*Last updated: 2026-10-13 06:00:34*
+*Last updated: 2026-10-13 06:01:01*
 
 | 排名 | 框架 | 星标 | 类别 | 许可证 | 语言 | 问题 | 更新 | 变化 |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -92,7 +92,7 @@
 | 84 | [**`gpt-researcher`**](#gpt-researcher) | 30,059 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 34 / 0 / 34 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B29-2eb872?style=flat-square) |
 | 85 | [**`picoclaw`**](#picoclaw) | 30,019 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 48 / 0 / 48 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
 | 86 | [**`smolagents`**](#smolagents) | 29,805 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 926 / 0 / 926 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
-| 87 | [**`pentagi`**](#pentagi) | 27,324 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 20 / 0 / 20 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1841-2eb872?style=flat-square) |
+| 87 | [**`pentagi`**](#pentagi) | 27,325 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 20 / 0 / 20 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1842-2eb872?style=flat-square) |
 | 88 | [**`DB-GPT`**](#db-gpt) | 20,129 | Data | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 449 / 0 / 449 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
 | 89 | [**`llmware`**](#llmware) | 14,820 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 96 / 0 / 96 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
 | 90 | [**`ironclaw`**](#ironclaw) | 12,650 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 1549 / 0 / 1549 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
@@ -170,7 +170,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **开源编程智能体。**
 
-⭐ 213,003 · 🍴 28,546 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#anomalyco/opencode&Date)
+⭐ 213,003 · 🍴 28,545 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#anomalyco/opencode&Date)
 
 - 开源透明性
 - 自主编程与任务执行
@@ -470,7 +470,7 @@
 ### <a name="oh-my-pi"></a>[oh-my-pi](https://github.com/can1357/oh-my-pi)
 **⌥ 深度集成 IDE 的编码智能体。由 Stencil Labs 打造。**
 
-⭐ 35,240 · 🍴 3,837 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#can1357/oh-my-pi&Date)
+⭐ 35,240 · 🍴 3,838 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 星标历史](https://star-history.com/#can1357/oh-my-pi&Date)
 
 - 智能编码代理，助力高效开发
 - 与 IDE 深度集成，无缝衔接工作流
@@ -1010,7 +1010,7 @@
 ### <a name="pentagi"></a>[pentagi](https://github.com/vxcontrol/pentagi)
 **能够执行复杂渗透测试任务的全自主 AI 智能体系统。**
 
-⭐ 27,324 · 🍴 3,955 · 🛠️ Go · 🏷️ Cybersecurity · 📅 3d · [📈 星标历史](https://star-history.com/#vxcontrol/pentagi&Date)
+⭐ 27,325 · 🍴 3,956 · 🛠️ Go · 🏷️ Cybersecurity · 📅 3d · [📈 星标历史](https://star-history.com/#vxcontrol/pentagi&Date)
 
 - 全自主 AI 智能体系统
 - 自动化执行复杂渗透测试
@@ -1092,10 +1092,10 @@
 
 ⭐ 3,964 · 🍴 884 · 🛠️ Python · 🏷️ Agent Framework · 📅 3d · [📈 星标历史](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
 
-- 官方Anthropic API的Python客户端库，用于与Claude模型交互
-- 支持流式响应（Streaming），可实时获取生成内容
-- 同时提供同步和异步（asyncio）两种调用方式
-- 完整的类型提示支持，便于IDE自动补全和静态类型检查
+- 官方 Python SDK，用于调用 Anthropic Claude 系列大语言模型 API
+- 支持流式响应（Streaming），可实时接收模型生成内容
+- 同时提供同步与异步（asyncio）客户端，适配不同应用场景
+- 内置类型提示、自动重试与错误处理，支持工具调用与多模态输入
 
 ### <a name="goclaw"></a>[goclaw](https://github.com/nextlevelbuilder/goclaw)
 **GoClaw - 基于 Go 语言重构的 OpenClaw，集成多租户隔离、五层安全防护与原生并发能力。在确保安全的前提下，实现 AI 智能体团队的大规模部署。**
@@ -1272,10 +1272,10 @@
 
 ⭐ 22,356 · 🍴 2,840 · 🛠️ Python · 🏷️ Task Automation · 📅 255d · [📈 星标历史](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- 自主创建、排序和执行任务
-- 基于目标驱动的智能任务管理
-- 利用大语言模型进行推理与任务分解
-- 集成向量数据库存储和检索任务结果
+- 基于目标驱动的自主任务管理系统，可自动创建、排序和执行任务
+- 利用OpenAI API进行任务生成、优先级排序和结果执行
+- 使用向量数据库存储任务结果，为后续任务提供上下文记忆
+- 持续循环运行，根据执行结果自动生成新任务直至目标完成
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **探索易用、轻量化多智能体编排的教学框架。由 OpenAI 解决方案团队维护。**

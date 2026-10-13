@@ -2,7 +2,7 @@
 
 [EN](README.md) | **RU** | [ZH](README_ZH.md)
 
-*Last updated: 2026-10-13 06:00:34*
+*Last updated: 2026-10-13 06:01:01*
 
 | № | Фреймворк | Звезды | Категория | Лицензия | Язык | Задачи | Обновлен | Изм. |
 | :--- | :--- | ---: | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -92,7 +92,7 @@
 | 84 | [**`gpt-researcher`**](#gpt-researcher) | 30,059 | Research | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 34 / 0 / 34 | ![](https://img.shields.io/badge/-2d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B29-2eb872?style=flat-square) |
 | 85 | [**`picoclaw`**](#picoclaw) | 30,019 | Agent Framework | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 48 / 0 / 48 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
 | 86 | [**`smolagents`**](#smolagents) | 29,805 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 926 / 0 / 926 | ![](https://img.shields.io/badge/-6d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B18-2eb872?style=flat-square) |
-| 87 | [**`pentagi`**](#pentagi) | 27,324 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 20 / 0 / 20 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1841-2eb872?style=flat-square) |
+| 87 | [**`pentagi`**](#pentagi) | 27,325 | Cybersecurity | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Go-3178c6?style=flat-square) | 20 / 0 / 20 | ![](https://img.shields.io/badge/-3d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B1842-2eb872?style=flat-square) |
 | 88 | [**`DB-GPT`**](#db-gpt) | 20,129 | Data | ![](https://img.shields.io/badge/-MIT-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 449 / 0 / 449 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B11-2eb872?style=flat-square) |
 | 89 | [**`llmware`**](#llmware) | 14,820 | RAG | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Python-3178c6?style=flat-square) | 96 / 0 / 96 | ![](https://img.shields.io/badge/-11d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/--2-95a5a6?style=flat-square) |
 | 90 | [**`ironclaw`**](#ironclaw) | 12,650 | Agent Framework | ![](https://img.shields.io/badge/-Apache--2.0-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-Rust-3178c6?style=flat-square) | 1549 / 0 / 1549 | ![](https://img.shields.io/badge/-1d-2eb872?style=flat-square) | ![](https://img.shields.io/badge/-%2B2-2eb872?style=flat-square) |
@@ -170,7 +170,7 @@
 ### <a name="opencode"></a>[opencode](https://github.com/anomalyco/opencode)
 **Агент для написания кода с открытым исходным кодом.**
 
-⭐ 213,003 · 🍴 28,546 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#anomalyco/opencode&Date)
+⭐ 213,003 · 🍴 28,545 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#anomalyco/opencode&Date)
 
 - Открытый исходный код
 - Автоматизация написания и редактирования кода
@@ -470,7 +470,7 @@
 ### <a name="oh-my-pi"></a>[oh-my-pi](https://github.com/can1357/oh-my-pi)
 **⌥ Кодинг-агент со встроенной IDE. Создан командой Stencil Labs.**
 
-⭐ 35,240 · 🍴 3,837 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#can1357/oh-my-pi&Date)
+⭐ 35,240 · 🍴 3,838 · 🛠️ TypeScript · 🏷️ Coding · 📅 Today · [📈 История звезд](https://star-history.com/#can1357/oh-my-pi&Date)
 
 - ИИ-агент для написания кода
 - Глубокая интеграция с IDE
@@ -1010,7 +1010,7 @@
 ### <a name="pentagi"></a>[pentagi](https://github.com/vxcontrol/pentagi)
 **Полностью автономная система ИИ-агентов для выполнения сложных задач по тестированию на проникновение.**
 
-⭐ 27,324 · 🍴 3,955 · 🛠️ Go · 🏷️ Cybersecurity · 📅 3d · [📈 История звезд](https://star-history.com/#vxcontrol/pentagi&Date)
+⭐ 27,325 · 🍴 3,956 · 🛠️ Go · 🏷️ Cybersecurity · 📅 3d · [📈 История звезд](https://star-history.com/#vxcontrol/pentagi&Date)
 
 - Полная автономность в выполнении задач
 - Система на базе продвинутых ИИ-агентов
@@ -1092,10 +1092,10 @@
 
 ⭐ 3,964 · 🍴 884 · 🛠️ Python · 🏷️ Agent Framework · 📅 3d · [📈 История звезд](https://star-history.com/#anthropics/anthropic-sdk-python&Date)
 
-- Официальный Python SDK для доступа к API Anthropic и моделям Claude
-- Поддержка потоковой передачи ответов (streaming) в реальном времени
-- Асинхронный клиент с полной поддержкой async/await
-- Строгая типизация и валидация данных с помощью Pydantic
+- Официальный Python-клиент для доступа к API Anthropic и моделям Claude
+- Поддержка синхронных и асинхронных запросов (asyncio)
+- Потоковая передача ответов (streaming) в реальном времени
+- Поддержка вызова инструментов (tool use) и работы с изображениями
 
 ### <a name="goclaw"></a>[goclaw](https://github.com/nextlevelbuilder/goclaw)
 **GoClaw — это OpenClaw, переписанный на Go: мультиарендная изоляция, 5-уровневая безопасность и нативный параллелизм. Масштабируйте команды ИИ-агентов без ущерба для безопасности.**
@@ -1272,10 +1272,10 @@
 
 ⭐ 22,356 · 🍴 2,840 · 🛠️ Python · 🏷️ Task Automation · 📅 255d · [📈 История звезд](https://star-history.com/#yoheinakajima/babyagi&Date)
 
-- Автономное создание, приоритизация и выполнение задач с помощью ИИ-агентов
-- Использование больших языковых моделей (OpenAI API) для генерации и решения задач
-- Непрерывный цикл управления задачами на основе заданной цели
-- Хранение контекста и результатов задач в векторной базе данных
+- Автономное создание и управление задачами с помощью ИИ-агентов
+- Генерация новых задач на основе результатов выполнения предыдущих
+- Автоматическая приоритизация списка задач в соответствии с заданной целью
+- Использование векторной базы данных для хранения контекста и результатов
 
 ### <a name="swarm"></a>[swarm](https://github.com/openai/swarm)
 **Образовательный фреймворк для исследования эргономичной и легковесной мультиагентной оркестрации. Под управлением команды OpenAI Solution.**
