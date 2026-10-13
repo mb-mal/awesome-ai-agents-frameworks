@@ -131,6 +131,7 @@
     "sageil/kodacode",
     "tinyhumansai/openhuman",
     "Weber-GeoML/Choir",
-    "uber/ADR"
+    "uber/ADR",
+    "crow-hq/llm-wiki-v2"
   ]
 }
