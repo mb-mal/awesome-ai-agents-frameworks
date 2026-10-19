@@ -132,5 +132,6 @@
   "tinyhumansai/openhuman": "Agent Framework",
   "Weber-GeoML/Choir": "Multi-Agent",
   "uber/ADR": "Cybersecurity",
-  "crow-hq/llm-wiki-v2": "RAG"
+  "crow-hq/llm-wiki-v2": "RAG",
+  "VecSzn/PolyStrata": "LLM Runtime"
 }
