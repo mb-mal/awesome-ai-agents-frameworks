@@ -133,6 +133,7 @@
     "Weber-GeoML/Choir",
     "uber/ADR",
     "crow-hq/llm-wiki-v2",
-    "VecSzn/PolyStrata"
+    "VecSzn/PolyStrata",
+    "CopilotKit/OpenIntelligentUI"
   ]
 }

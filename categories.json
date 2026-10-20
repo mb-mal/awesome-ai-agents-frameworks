@@ -133,5 +133,6 @@
   "Weber-GeoML/Choir": "Multi-Agent",
   "uber/ADR": "Cybersecurity",
   "crow-hq/llm-wiki-v2": "RAG",
-  "VecSzn/PolyStrata": "LLM Runtime"
+  "VecSzn/PolyStrata": "LLM Runtime",
+  "CopilotKit/OpenIntelligentUI": "Agent Framework"
 }
