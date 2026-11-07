@@ -134,6 +134,7 @@
     "uber/ADR",
     "crow-hq/llm-wiki-v2",
     "VecSzn/PolyStrata",
-    "CopilotKit/OpenIntelligentUI"
+    "CopilotKit/OpenIntelligentUI",
+    "vostride/agent-qa"
   ]
 }

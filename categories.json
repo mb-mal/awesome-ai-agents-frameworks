@@ -134,5 +134,6 @@
   "uber/ADR": "Cybersecurity",
   "crow-hq/llm-wiki-v2": "RAG",
   "VecSzn/PolyStrata": "LLM Runtime",
-  "CopilotKit/OpenIntelligentUI": "Agent Framework"
+  "CopilotKit/OpenIntelligentUI": "Agent Framework",
+  "vostride/agent-qa": "Task Automation"
 }
