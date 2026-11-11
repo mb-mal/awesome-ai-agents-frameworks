@@ -135,5 +135,6 @@
   "crow-hq/llm-wiki-v2": "RAG",
   "VecSzn/PolyStrata": "LLM Runtime",
   "CopilotKit/OpenIntelligentUI": "Agent Framework",
-  "data-privacy-stack/presidio": "Cybersecurity"
+  "data-privacy-stack/presidio": "Cybersecurity",
+  "vostride/agent-qa": "Task Automation"
 }

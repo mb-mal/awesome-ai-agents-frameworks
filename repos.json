@@ -135,6 +135,7 @@
     "crow-hq/llm-wiki-v2",
     "VecSzn/PolyStrata",
     "CopilotKit/OpenIntelligentUI",
-    "data-privacy-stack/presidio"
+    "data-privacy-stack/presidio",
+    "vostride/agent-qa"
   ]
 }
