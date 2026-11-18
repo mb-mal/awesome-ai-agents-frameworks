@@ -46,7 +46,7 @@
     "anthropics/anthropic-sdk-python",
     "i-am-bee/beeai-framework",
     "smixs/agent-second-brain",
-    "microsoft/agent-framework",
+    "microsoft/Agents",
     "langchain-ai/langchain",
     "google/adk-python",
     "vamplabAI/sgr-agent-core",

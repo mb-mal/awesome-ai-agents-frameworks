@@ -45,7 +45,7 @@
   "anthropics/anthropic-sdk-python": "Agent Framework",
   "i-am-bee/beeai-framework": "Agent Framework",
   "smixs/agent-second-brain": "Knowledge Management",
-  "microsoft/agent-framework": "Multi-Agent",
+  "microsoft/Agents": "Multi-Agent",
   "langchain-ai/langchain": "Agent Framework",
   "google/adk-python": "Agent Framework",
   "vamplabAI/sgr-agent-core": "Reasoning",
