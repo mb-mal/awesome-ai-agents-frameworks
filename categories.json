@@ -135,5 +135,6 @@
   "VecSzn/PolyStrata": "LLM Runtime",
   "CopilotKit/OpenIntelligentUI": "Agent Framework",
   "data-privacy-stack/presidio": "Cybersecurity",
-  "basicmachines-co/basic-memory": "Agent Memory"
+  "basicmachines-co/basic-memory": "Agent Memory",
+  "getzep/graphiti": "Agent Memory"
 }

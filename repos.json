@@ -135,6 +135,7 @@
     "VecSzn/PolyStrata",
     "CopilotKit/OpenIntelligentUI",
     "data-privacy-stack/presidio",
-    "basicmachines-co/basic-memory"
+    "basicmachines-co/basic-memory",
+    "getzep/graphiti"
   ]
 }
