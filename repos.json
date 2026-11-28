@@ -136,6 +136,7 @@
     "CopilotKit/OpenIntelligentUI",
     "data-privacy-stack/presidio",
     "basicmachines-co/basic-memory",
-    "getzep/graphiti"
+    "getzep/graphiti",
+    "GenAI-Security-Project/agent-control-standard"
   ]
 }
